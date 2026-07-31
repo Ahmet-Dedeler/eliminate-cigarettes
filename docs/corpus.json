@@ -7,6 +7,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snusbolaget')",
       "creatives": 1110,
+      "impressions_floor": 10540000,
       "hq": "SE",
       "regions": [
         "AT",
@@ -42,28 +43,22 @@
         "TR"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR08537029193437806593",
-          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR08537029193437806593",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR01326407998335090689",
-          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR01326407998335090689",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR10915064761741737985",
-          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR10915064761741737985",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR12744501657656623105",
-          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR12744501657656623105",
+          "id": "CR08850541190202785793",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR08850541190202785793",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -74,8 +69,26 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR10987425245463314433",
-          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR10987425245463314433",
+          "id": "CR10915064761741737985",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR10915064761741737985",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06172409591138091009",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR06172409591138091009",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08120713658339688449",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR08120713658339688449",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05143297493865332737",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR05143297493865332737",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         }
@@ -88,6 +101,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 817,
+      "impressions_floor": 480567000,
       "hq": "SE",
       "regions": [
         "AT",
@@ -121,16 +135,22 @@
         "SK"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR13690155969068138497",
-          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR13690155969068138497",
+          "id": "CR10806971773615079425",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR10806971773615079425",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR10013952035738615809",
-          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR10013952035738615809",
+          "id": "CR08138258866031820801",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR08138258866031820801",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -141,20 +161,20 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR15231583310279868417",
-          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR15231583310279868417",
+          "id": "CR10788027463146405889",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR10788027463146405889",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR08668220172084969473",
-          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR08668220172084969473",
+          "id": "CR03085867696470884353",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR03085867696470884353",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR07081389047960043521",
-          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR07081389047960043521",
+          "id": "CR06469252441870172161",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR06469252441870172161",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         }
@@ -167,6 +187,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 476,
+      "impressions_floor": 2039000,
       "hq": "GB",
       "regions": [
         "AT",
@@ -202,10 +223,37 @@
         "TR"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "not_covered",
+      "google_policy_note": "A tobacco-free pouch contains no tobacco, is not a component part of a tobacco product, and does not simulate smoking. Google's policy never uses the word 'nicotine' and names snus but not tobacco-free pouches. Enforcement practice may differ from the text, but the text does not support this claim.",
+      "laws": [],
+      "pouch_sale_banned": [
+        "BE",
+        "FR",
+        "NL",
+        "NO"
+      ],
+      "pouch_ad_banned": [
+        "DK",
+        "EE",
+        "FI",
+        "HR",
+        "LU",
+        "PL",
+        "PT",
+        "RO"
+      ],
+      "pouch_lawful": [
+        "AT",
+        "CZ",
+        "ES",
+        "GR",
+        "MT",
+        "SE"
+      ],
       "samples": [
         {
-          "id": "CR08471041315902062593",
-          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR08471041315902062593",
+          "id": "CR12912347012489281537",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR12912347012489281537",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -216,8 +264,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR12912347012489281537",
-          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR12912347012489281537",
+          "id": "CR16029137021792419841",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR16029137021792419841",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR11665219351614586881",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR11665219351614586881",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -228,14 +282,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR02474947012802379777",
-          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR02474947012802379777",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR02039830679272816641",
-          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR02039830679272816641",
+          "id": "CR01473740520642576385",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR01473740520642576385",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         }
@@ -248,6 +296,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 231,
+      "impressions_floor": 79115000,
       "hq": "AT",
       "regions": [
         "AT",
@@ -284,16 +333,22 @@
         "SK"
       ],
       "last_shown": "2026-06-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR06896879666695503873",
-          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR06896879666695503873",
+          "id": "CR07648499003625046017",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR07648499003625046017",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR07386619909691670529",
-          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR07386619909691670529",
+          "id": "CR07553016254227808257",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR07553016254227808257",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         },
@@ -304,20 +359,20 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR08931566066069405697",
-          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR08931566066069405697",
+          "id": "CR18241138749389930497",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR18241138749389930497",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR03060242418344394753",
-          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR03060242418344394753",
+          "id": "CR16553719662991376385",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR16553719662991376385",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR14072439669371437057",
-          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR14072439669371437057",
+          "id": "CR03162756613320736769",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR03162756613320736769",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         }
@@ -330,6 +385,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 187,
+      "impressions_floor": 1028000,
       "hq": "CH",
       "regions": [
         "AT",
@@ -366,28 +422,22 @@
         "TR"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR10336441656613535745",
-          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR10336441656613535745",
+          "id": "CR01699797955239739393",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR01699797955239739393",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR06189482807694196737",
-          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR06189482807694196737",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR05648681459452477441",
-          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR05648681459452477441",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR16102406526752260097",
-          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR16102406526752260097",
+          "id": "CR10297891567762931713",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR10297891567762931713",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -398,8 +448,20 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR10297891567762931713",
-          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR10297891567762931713",
+          "id": "CR07020174399508578305",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR07020174399508578305",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07706613183905005569",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR07706613183905005569",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10336441656613535745",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR10336441656613535745",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         }
@@ -412,6 +474,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 143,
+      "impressions_floor": 2703000,
       "hq": "FR",
       "regions": [
         "BE",
@@ -439,16 +502,28 @@
         "SE"
       ],
       "last_shown": "2025-12-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR09363469781241430017",
-          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR09363469781241430017",
+          "id": "CR05563147546529890305",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR05563147546529890305",
           "last": "2025-12-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR03920533936920330241",
-          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR03920533936920330241",
+          "id": "CR09702143208254865409",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR09702143208254865409",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17207435194638794753",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR17207435194638794753",
           "last": "2025-12-30",
           "verified": "VERIFIED"
         },
@@ -459,20 +534,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR11935198599249395713",
-          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR11935198599249395713",
-          "last": "2025-12-30",
-          "verified": "VERIFIED"
-        },
-        {
           "id": "CR05477884817842372609",
           "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR05477884817842372609",
           "last": "2025-12-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR17207435194638794753",
-          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR17207435194638794753",
+          "id": "CR11823636926815010817",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR11823636926815010817",
           "last": "2025-12-30",
           "verified": "VERIFIED"
         }
@@ -485,6 +554,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'another snus factory')",
       "creatives": 103,
+      "impressions_floor": 9937000,
       "hq": "SE",
       "regions": [
         "DE",
@@ -503,6 +573,18 @@
         "SE"
       ],
       "last_shown": "2026-04-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR11556337532614475777",
@@ -511,8 +593,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR02033246597487263745",
-          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR02033246597487263745",
+          "id": "CR13344943059209551873",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR13344943059209551873",
           "last": "2026-03-15",
           "verified": "VERIFIED"
         },
@@ -523,14 +605,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR11154161742819360769",
-          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR11154161742819360769",
+          "id": "CR17510614384852860929",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR17510614384852860929",
           "last": "2026-03-15",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR13344943059209551873",
-          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR13344943059209551873",
+          "id": "CR02033246597487263745",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR02033246597487263745",
           "last": "2026-03-15",
           "verified": "VERIFIED"
         },
@@ -549,6 +631,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snus vikings')",
       "creatives": 39,
+      "impressions_floor": 19000,
       "hq": "GB",
       "regions": [
         "BE",
@@ -578,6 +661,18 @@
         "SK"
       ],
       "last_shown": "2026-07-29",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02749812069204230145",
@@ -598,14 +693,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR17099027643107377153",
-          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR17099027643107377153",
+          "id": "CR07587071788652167169",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR07587071788652167169",
           "last": "2025-12-11",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR07587071788652167169",
-          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR07587071788652167169",
+          "id": "CR17099027643107377153",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR17099027643107377153",
           "last": "2025-12-11",
           "verified": "VERIFIED"
         },
@@ -624,6 +719,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snuspouch')",
       "creatives": 33,
+      "impressions_floor": 0,
       "hq": "SE",
       "regions": [
         "BE",
@@ -638,13 +734,19 @@
         "SE"
       ],
       "last_shown": "2026-07-30",
-      "samples": [
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
         {
-          "id": "CR16049502588478947329",
-          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR16049502588478947329",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
+      "samples": [
         {
           "id": "CR17049394339609837569",
           "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR17049394339609837569",
@@ -652,26 +754,32 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR15079002157548044289",
-          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR15079002157548044289",
+          "id": "CR02100129683646447617",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR02100129683646447617",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR06325990474817470465",
-          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR06325990474817470465",
+          "id": "CR00587210892236554241",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR00587210892236554241",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR10513700136650014721",
-          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR10513700136650014721",
+          "id": "CR00791816674587181057",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR00791816674587181057",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
           "id": "CR14670071518067687425",
           "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR14670071518067687425",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16049502588478947329",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR16049502588478947329",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         }
@@ -684,6 +792,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snushus')",
       "creatives": 30,
+      "impressions_floor": 32000,
       "hq": "CZ",
       "regions": [
         "AT",
@@ -702,28 +811,22 @@
         "SK"
       ],
       "last_shown": "2026-07-30",
-      "samples": [
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
         {
-          "id": "CR02812101395782565889",
-          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR02812101395782565889",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
+      "samples": [
         {
           "id": "CR16691982691838459905",
           "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR16691982691838459905",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR05976588219498627073",
-          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR05976588219498627073",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR06740306247372767233",
-          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR06740306247372767233",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -738,6 +841,24 @@
           "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR15958555659553734657",
           "last": "2026-07-30",
           "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05976588219498627073",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR05976588219498627073",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02812101395782565889",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR02812101395782565889",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06740306247372767233",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR06740306247372767233",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
         }
       ]
     },
@@ -748,47 +869,54 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 25,
+      "impressions_floor": 653000,
       "hq": "CZ",
       "regions": [
         "CZ",
         "EEA",
         "SK"
       ],
-      "last_shown": "2026-06-30",
+      "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR14746896534394109953",
-          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR14746896534394109953",
-          "last": "2026-06-30",
+          "id": "CR07932756784136060929",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR07932756784136060929",
+          "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR09230319936730038273",
-          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR09230319936730038273",
+          "id": "CR09800490451730432001",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR09800490451730432001",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14746896534394109953",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR14746896534394109953",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05697305608844214273",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR05697305608844214273",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00198460251085733889",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR00198460251085733889",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         },
         {
           "id": "CR13046378991743664129",
           "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR13046378991743664129",
-          "last": "2026-06-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR03224316147646070785",
-          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR03224316147646070785",
-          "last": "2026-06-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR05697305608844214273",
-          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR05697305608844214273",
-          "last": "2026-06-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR09800490451730432001",
-          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR09800490451730432001",
           "last": "2026-06-30",
           "verified": "VERIFIED"
         }
@@ -801,6 +929,7 @@
       "parent": null,
       "reason": "model verification: Czech e-cigarette and vape retailer",
       "creatives": 25,
+      "impressions_floor": 125000,
       "hq": "CZ",
       "regions": [
         "CZ",
@@ -808,16 +937,28 @@
         "SK"
       ],
       "last_shown": "2025-09-30",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR01742503227380727809",
-          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR01742503227380727809",
+          "id": "CR06770270834037620737",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06770270834037620737",
           "last": "2025-09-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR06770270834037620737",
-          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06770270834037620737",
+          "id": "CR01742503227380727809",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR01742503227380727809",
           "last": "2025-09-30",
           "verified": "VERIFIED"
         },
@@ -828,8 +969,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR17104510151680851969",
-          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR17104510151680851969",
+          "id": "CR06552858352563519489",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06552858352563519489",
           "last": "2025-09-29",
           "verified": "VERIFIED"
         },
@@ -840,8 +981,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR06552858352563519489",
-          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06552858352563519489",
+          "id": "CR01628079079502643201",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR01628079079502643201",
           "last": "2025-09-29",
           "verified": "VERIFIED"
         }
@@ -854,23 +995,36 @@
       "parent": null,
       "reason": "model verification: Polish vape shop business",
       "creatives": 22,
+      "impressions_floor": 525000,
       "hq": "PL",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR01439717232832675841",
-          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR01439717232832675841",
+          "id": "CR06078688731814952961",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR06078688731814952961",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR06078688731814952961",
-          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR06078688731814952961",
-          "last": "2026-07-29",
+          "id": "CR01439717232832675841",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR01439717232832675841",
+          "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
@@ -906,6 +1060,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'global snus')",
       "creatives": 21,
+      "impressions_floor": 65000,
       "hq": "LT",
       "regions": [
         "AT",
@@ -940,6 +1095,18 @@
         "TR"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR06929048825713655809",
@@ -986,6 +1153,7 @@
       "parent": null,
       "reason": "model verification: Swedish vape products company",
       "creatives": 21,
+      "impressions_floor": 950000,
       "hq": "SE",
       "regions": [
         "DK",
@@ -995,7 +1163,37 @@
         "SE"
       ],
       "last_shown": "2025-11-28",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
+        {
+          "id": "CR16074031224015814657",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR16074031224015814657",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05897629171361775617",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR05897629171361775617",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15078026521367019521",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR15078026521367019521",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
         {
           "id": "CR05795453754815807489",
           "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR05795453754815807489",
@@ -1013,24 +1211,6 @@
           "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR00953505949715267585",
           "last": "2025-11-28",
           "verified": "VERIFIED"
-        },
-        {
-          "id": "CR16074031224015814657",
-          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR16074031224015814657",
-          "last": "2025-11-28",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR08852588936120238081",
-          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR08852588936120238081",
-          "last": "2025-11-28",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR08096015947120246785",
-          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR08096015947120246785",
-          "last": "2025-11-28",
-          "verified": "VERIFIED"
         }
       ]
     },
@@ -1041,6 +1221,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 16,
+      "impressions_floor": 93000,
       "hq": "CZ",
       "regions": [
         "CZ",
@@ -1051,16 +1232,16 @@
         "SK"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR14216391279322857473",
-          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR14216391279322857473",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR01498039014651854849",
-          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR01498039014651854849",
+          "id": "CR09922135367346028545",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR09922135367346028545",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -1071,20 +1252,26 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR11620946562439446529",
-          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR11620946562439446529",
+          "id": "CR02263849310074437633",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR02263849310074437633",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR01498039014651854849",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR01498039014651854849",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14216391279322857473",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR14216391279322857473",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
           "id": "CR15110440081204183041",
           "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR15110440081204183041",
-          "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR09922135367346028545",
-          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR09922135367346028545",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         }
@@ -1097,6 +1284,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'athletic nicotine')",
       "creatives": 14,
+      "impressions_floor": 11000,
       "hq": "US",
       "regions": [
         "AT",
@@ -1131,17 +1319,43 @@
         "TR"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "not_covered",
+      "google_policy_note": "A tobacco-free pouch contains no tobacco, is not a component part of a tobacco product, and does not simulate smoking. Google's policy never uses the word 'nicotine' and names snus but not tobacco-free pouches. Enforcement practice may differ from the text, but the text does not support this claim.",
+      "laws": [],
+      "pouch_sale_banned": [
+        "BE",
+        "FR",
+        "NL",
+        "NO"
+      ],
+      "pouch_ad_banned": [
+        "DK",
+        "EE",
+        "FI",
+        "HR",
+        "PL",
+        "PT",
+        "RO"
+      ],
+      "pouch_lawful": [
+        "AT",
+        "CZ",
+        "ES",
+        "GR",
+        "MT",
+        "SE"
+      ],
       "samples": [
         {
-          "id": "CR15791041532598943745",
-          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR15791041532598943745",
+          "id": "CR16192230261600026625",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR16192230261600026625",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR16192230261600026625",
-          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR16192230261600026625",
-          "last": "2026-07-29",
+          "id": "CR15791041532598943745",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR15791041532598943745",
+          "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
@@ -1177,6 +1391,7 @@
       "parent": "Japan Tobacco",
       "reason": "registered entity matches known corporate group 'Japan Tobacco'",
       "creatives": 14,
+      "impressions_floor": 18000,
       "hq": "JP",
       "regions": [
         "AT",
@@ -1203,7 +1418,19 @@
         "SE"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
+        {
+          "id": "CR05181453682675286017",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR05181453682675286017",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
         {
           "id": "CR13474832396478054401",
           "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR13474832396478054401",
@@ -1211,8 +1438,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR05181453682675286017",
-          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR05181453682675286017",
+          "id": "CR13944328946779684865",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR13944328946779684865",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00487858446025097217",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR00487858446025097217",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -1223,20 +1456,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR13944328946779684865",
-          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR13944328946779684865",
-          "last": "2026-07-29",
-          "verified": "VERIFIED"
-        },
-        {
           "id": "CR12046061703843020801",
           "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR12046061703843020801",
-          "last": "2026-07-28",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR06017437318443433985",
-          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR06017437318443433985",
           "last": "2026-07-28",
           "verified": "VERIFIED"
         }
@@ -1249,6 +1470,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snushus')",
       "creatives": 13,
+      "impressions_floor": 0,
       "hq": "SE",
       "regions": [
         "EEA",
@@ -1257,6 +1479,18 @@
         "SE"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR09611330119100530689",
@@ -1265,8 +1499,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR16312448870116229121",
-          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR16312448870116229121",
+          "id": "CR15287618271122030593",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR15287618271122030593",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -1277,8 +1511,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR15287618271122030593",
-          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR15287618271122030593",
+          "id": "CR16312448870116229121",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR16312448870116229121",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -1303,6 +1537,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 12,
+      "impressions_floor": 0,
       "hq": "MX",
       "regions": [
         "EEA",
@@ -1311,6 +1546,12 @@
         "PT"
       ],
       "last_shown": "2026-05-07",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR09501901198576320513",
@@ -1331,8 +1572,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR13856078810639761409",
-          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR13856078810639761409",
+          "id": "CR07924148157846388737",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR07924148157846388737",
           "last": "2026-01-15",
           "verified": "VERIFIED"
         },
@@ -1343,8 +1584,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR16066093334178824193",
-          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR16066093334178824193",
+          "id": "CR13856078810639761409",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR13856078810639761409",
           "last": "2026-01-15",
           "verified": "VERIFIED"
         }
@@ -1357,6 +1598,7 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 12,
+      "impressions_floor": 50000,
       "hq": "SE",
       "regions": [
         "DE",
@@ -1372,16 +1614,28 @@
         "SE"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR12030441792550731777",
-          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR12030441792550731777",
+          "id": "CR08715792466806046721",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR08715792466806046721",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR08715792466806046721",
-          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR08715792466806046721",
+          "id": "CR12030441792550731777",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR12030441792550731777",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -1394,7 +1648,7 @@
         {
           "id": "CR13316782573557383169",
           "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR13316782573557383169",
-          "last": "2026-07-29",
+          "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
@@ -1418,6 +1672,7 @@
       "parent": null,
       "reason": "model verification: Serbian vape retail company",
       "creatives": 11,
+      "impressions_floor": 93000,
       "hq": "RS",
       "regions": [
         "AT",
@@ -1455,10 +1710,22 @@
         "TR"
       ],
       "last_shown": "2026-07-28",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR14356985178331545601",
-          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR14356985178331545601",
+          "id": "CR11241338661121294337",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR11241338661121294337",
           "last": "2026-07-28",
           "verified": "UNVERIFIED"
         },
@@ -1469,26 +1736,26 @@
           "verified": "UNVERIFIED"
         },
         {
+          "id": "CR14356985178331545601",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR14356985178331545601",
+          "last": "2026-07-28",
+          "verified": "UNVERIFIED"
+        },
+        {
           "id": "CR10164978350179745793",
           "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR10164978350179745793",
           "last": "2026-07-28",
           "verified": "UNVERIFIED"
         },
         {
-          "id": "CR11241338661121294337",
-          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR11241338661121294337",
-          "last": "2026-07-28",
+          "id": "CR04639061607396147201",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR04639061607396147201",
+          "last": "2026-06-22",
           "verified": "UNVERIFIED"
         },
         {
           "id": "CR11145355694062960641",
           "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR11145355694062960641",
-          "last": "2026-06-22",
-          "verified": "UNVERIFIED"
-        },
-        {
-          "id": "CR04639061607396147201",
-          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR04639061607396147201",
           "last": "2026-06-22",
           "verified": "UNVERIFIED"
         }
@@ -1501,28 +1768,29 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snus fusion')",
       "creatives": 9,
+      "impressions_floor": 101000,
       "hq": "PL",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-02-24",
-      "samples": [
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
         {
-          "id": "CR14882779120567058433",
-          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR14882779120567058433",
-          "last": "2026-02-24",
-          "verified": "VERIFIED"
-        },
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
+      "samples": [
         {
           "id": "CR14286685488638066689",
           "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR14286685488638066689",
-          "last": "2026-02-24",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR01937533835411456001",
-          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR01937533835411456001",
           "last": "2026-02-24",
           "verified": "VERIFIED"
         },
@@ -1533,14 +1801,26 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR16794435666350964737",
-          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR16794435666350964737",
-          "last": "2026-02-17",
+          "id": "CR01937533835411456001",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR01937533835411456001",
+          "last": "2026-02-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14882779120567058433",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR14882779120567058433",
+          "last": "2026-02-24",
           "verified": "VERIFIED"
         },
         {
           "id": "CR03180335467786665985",
           "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR03180335467786665985",
+          "last": "2026-02-17",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16794435666350964737",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR16794435666350964737",
           "last": "2026-02-17",
           "verified": "VERIFIED"
         }
@@ -1553,6 +1833,7 @@
       "parent": null,
       "reason": "model verification: Czech online vape store",
       "creatives": 9,
+      "impressions_floor": 452000,
       "hq": "CZ",
       "regions": [
         "AT",
@@ -1567,16 +1848,28 @@
         "SK"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR11987305958528253953",
-          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR11987305958528253953",
+          "id": "CR07334312087109238785",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR07334312087109238785",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR07334312087109238785",
-          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR07334312087109238785",
+          "id": "CR11987305958528253953",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR11987305958528253953",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -1613,6 +1906,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'slavic snus')",
       "creatives": 8,
+      "impressions_floor": 143000,
       "hq": "CZ",
       "regions": [
         "AT",
@@ -1627,6 +1921,18 @@
         "RO"
       ],
       "last_shown": "2026-01-21",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR10665301280924106753",
@@ -1647,12 +1953,6 @@
           "verified": "UNVERIFIED"
         },
         {
-          "id": "CR01045162750835163137",
-          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR01045162750835163137",
-          "last": "2025-12-22",
-          "verified": "UNVERIFIED"
-        },
-        {
           "id": "CR01232814201324437505",
           "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR01232814201324437505",
           "last": "2025-12-22",
@@ -1661,6 +1961,12 @@
         {
           "id": "CR13449125058706407425",
           "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR13449125058706407425",
+          "last": "2025-12-22",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR09290369661201809409",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR09290369661201809409",
           "last": "2025-12-22",
           "verified": "UNVERIFIED"
         }
@@ -1673,6 +1979,7 @@
       "parent": "Imperial Brands",
       "reason": "registered entity matches known corporate group 'Imperial Brands'",
       "creatives": 7,
+      "impressions_floor": 3000,
       "hq": "CA",
       "regions": [
         "AT",
@@ -1699,7 +2006,19 @@
         "SE"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
+        {
+          "id": "CR03799625264598614017",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR03799625264598614017",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
         {
           "id": "CR08551241729846542337",
           "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR08551241729846542337",
@@ -1710,12 +2029,6 @@
           "id": "CR06348820983364714497",
           "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR06348820983364714497",
           "last": "2026-07-30",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR03799625264598614017",
-          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR03799625264598614017",
-          "last": "2026-07-28",
           "verified": "VERIFIED"
         },
         {
@@ -1745,6 +2058,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'royal nicotine')",
       "creatives": 7,
+      "impressions_floor": 0,
       "hq": "SE",
       "regions": [
         "DK",
@@ -1752,6 +2066,16 @@
         "SE"
       ],
       "last_shown": "2026-07-29",
+      "google_policy": "not_covered",
+      "google_policy_note": "A tobacco-free pouch contains no tobacco, is not a component part of a tobacco product, and does not simulate smoking. Google's policy never uses the word 'nicotine' and names snus but not tobacco-free pouches. Enforcement practice may differ from the text, but the text does not support this claim.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [
+        "DK"
+      ],
+      "pouch_lawful": [
+        "SE"
+      ],
       "samples": [
         {
           "id": "CR03386285059504865281",
@@ -1798,19 +2122,26 @@
       "parent": null,
       "reason": "model verification: US vape shop retailer",
       "creatives": 6,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "IT"
       ],
       "last_shown": "2026-07-29",
-      "samples": [
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
         {
-          "id": "CR08515334042315390977",
-          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR08515334042315390977",
-          "last": "2026-07-29",
-          "verified": "VERIFIED"
-        },
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
+      "samples": [
         {
           "id": "CR10842569149759094785",
           "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR10842569149759094785",
@@ -1824,9 +2155,9 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR10559717584490463233",
-          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR10559717584490463233",
-          "last": "2026-07-28",
+          "id": "CR08515334042315390977",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR08515334042315390977",
+          "last": "2026-07-29",
           "verified": "VERIFIED"
         },
         {
@@ -1840,6 +2171,12 @@
           "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR05289943070513561601",
           "last": "2026-07-28",
           "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10559717584490463233",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR10559717584490463233",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
         }
       ]
     },
@@ -1850,12 +2187,25 @@
       "parent": null,
       "reason": "model verification: US vape products seller",
       "creatives": 6,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "SK"
       ],
       "last_shown": "2026-06-12",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR04292777421024788481",
@@ -1864,8 +2214,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR09667550897407787009",
-          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR09667550897407787009",
+          "id": "CR10655800744545878017",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR10655800744545878017",
           "last": "2026-06-12",
           "verified": "VERIFIED"
         },
@@ -1882,8 +2232,8 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR10655800744545878017",
-          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR10655800744545878017",
+          "id": "CR09667550897407787009",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR09667550897407787009",
           "last": "2026-06-12",
           "verified": "VERIFIED"
         },
@@ -1902,6 +2252,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'masnusqvta')",
       "creatives": 6,
+      "impressions_floor": 0,
       "hq": "AU",
       "regions": [
         "DE",
@@ -1910,16 +2261,22 @@
         "IT"
       ],
       "last_shown": "2026-04-03",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR10120773232509321217",
           "url": "https://adstransparency.google.com/advertiser/AR14346026131189137409/creative/CR10120773232509321217",
-          "last": "2026-04-03",
-          "verified": "VERIFIED"
-        },
-        {
-          "id": "CR13608705590791503873",
-          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR13608705590791503873",
           "last": "2026-04-03",
           "verified": "VERIFIED"
         },
@@ -1936,14 +2293,20 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR12023438521957089281",
-          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR12023438521957089281",
+          "id": "CR07425368855528079361",
+          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR07425368855528079361",
           "last": "2026-04-03",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR07425368855528079361",
-          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR07425368855528079361",
+          "id": "CR13608705590791503873",
+          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR13608705590791503873",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12023438521957089281",
+          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR12023438521957089281",
           "last": "2026-04-03",
           "verified": "VERIFIED"
         }
@@ -1956,12 +2319,25 @@
       "parent": null,
       "reason": "model verification: Greek vape products company",
       "creatives": 6,
+      "impressions_floor": 45000,
       "hq": "GR",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-03-15",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR03749847169163591681",
@@ -1982,14 +2358,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR06562289748558217217",
-          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR06562289748558217217",
+          "id": "CR16809949225663070209",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR16809949225663070209",
           "last": "2026-03-10",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR16809949225663070209",
-          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR16809949225663070209",
+          "id": "CR06562289748558217217",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR06562289748558217217",
           "last": "2026-03-10",
           "verified": "VERIFIED"
         },
@@ -2008,13 +2384,32 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'juicysnus')",
       "creatives": 5,
+      "impressions_floor": 78000,
       "hq": "IE",
       "regions": [
         "EEA",
         "IE"
       ],
       "last_shown": "2025-12-03",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
+        {
+          "id": "CR12812150759822983169",
+          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR12812150759822983169",
+          "last": "2025-12-03",
+          "verified": "UNVERIFIED"
+        },
         {
           "id": "CR03217711140779851777",
           "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR03217711140779851777",
@@ -2024,12 +2419,6 @@
         {
           "id": "CR05045117058329608193",
           "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR05045117058329608193",
-          "last": "2025-12-03",
-          "verified": "UNVERIFIED"
-        },
-        {
-          "id": "CR12812150759822983169",
-          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR12812150759822983169",
           "last": "2025-12-03",
           "verified": "UNVERIFIED"
         },
@@ -2054,12 +2443,25 @@
       "parent": null,
       "reason": "model verification: French vape wholesale retailer",
       "creatives": 4,
+      "impressions_floor": 11245000,
       "hq": "FR",
       "regions": [
         "EEA",
         "FR"
       ],
       "last_shown": "2025-12-15",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR18051385513704685569",
@@ -2094,12 +2496,25 @@
       "parent": null,
       "reason": "model verification: Spanish vape services company",
       "creatives": 4,
+      "impressions_floor": 15000,
       "hq": "ES",
       "regions": [
         "EEA",
         "ES"
       ],
       "last_shown": "2026-04-09",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR06717930567272235009",
@@ -2134,12 +2549,25 @@
       "parent": null,
       "reason": "model verification: UK vape products company",
       "creatives": 4,
+      "impressions_floor": 4000,
       "hq": "GB",
       "regions": [
         "EEA",
         "SE"
       ],
       "last_shown": "2026-01-18",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01831824313615908865",
@@ -2154,14 +2582,14 @@
           "verified": "VERIFIED"
         },
         {
-          "id": "CR09709183011840327681",
-          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR09709183011840327681",
+          "id": "CR05881123328575406081",
+          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR05881123328575406081",
           "last": "2026-01-18",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR05881123328575406081",
-          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR05881123328575406081",
+          "id": "CR09709183011840327681",
+          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR09709183011840327681",
           "last": "2026-01-18",
           "verified": "VERIFIED"
         }
@@ -2174,6 +2602,7 @@
       "parent": null,
       "reason": "model verification: US vape retail company",
       "creatives": 4,
+      "impressions_floor": 145000,
       "hq": "US",
       "regions": [
         "CZ",
@@ -2182,6 +2611,18 @@
         "PT"
       ],
       "last_shown": "2026-01-27",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR04295105293299220481",
@@ -2216,6 +2657,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snus fusion')",
       "creatives": 3,
+      "impressions_floor": 7000,
       "hq": "PL",
       "regions": [
         "AT",
@@ -2250,16 +2692,28 @@
         "TR"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR02930821687777689601",
-          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR02930821687777689601",
+          "id": "CR13504166267195490305",
+          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR13504166267195490305",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
         {
-          "id": "CR13504166267195490305",
-          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR13504166267195490305",
+          "id": "CR02930821687777689601",
+          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR02930821687777689601",
           "last": "2026-07-30",
           "verified": "VERIFIED"
         },
@@ -2278,6 +2732,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'the snus life')",
       "creatives": 3,
+      "impressions_floor": 2000,
       "hq": "GB",
       "regions": [
         "AT",
@@ -2304,6 +2759,18 @@
         "SE"
       ],
       "last_shown": "2026-06-12",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR13682815629441105921",
@@ -2332,12 +2799,25 @@
       "parent": null,
       "reason": "model verification: UK vape and tech retailer",
       "creatives": 3,
+      "impressions_floor": 95000,
       "hq": "GB",
       "regions": [
         "DE",
         "EEA"
       ],
       "last_shown": "2026-02-24",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR15160431645103751169",
@@ -2366,6 +2846,7 @@
       "parent": null,
       "reason": "model verification: Cigar and vape shop",
       "creatives": 2,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
@@ -2373,6 +2854,12 @@
         "RO"
       ],
       "last_shown": "2026-05-27",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01208755332130537473",
@@ -2395,6 +2882,7 @@
       "parent": null,
       "reason": "model verification: Smoke and vape retailer",
       "creatives": 2,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
@@ -2403,6 +2891,18 @@
         "SK"
       ],
       "last_shown": "2026-07-10",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR00498654713906987009",
@@ -2425,12 +2925,25 @@
       "parent": null,
       "reason": "model verification: Vape and smoke shop",
       "creatives": 2,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "ES"
       ],
       "last_shown": "2026-05-29",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR07181360218570227713",
@@ -2453,12 +2966,25 @@
       "parent": null,
       "reason": "model verification: Polish vape seller",
       "creatives": 2,
+      "impressions_floor": 80000,
       "hq": "PL",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-05-24",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR08342220197129617409",
@@ -2481,6 +3007,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snusbros')",
       "creatives": 2,
+      "impressions_floor": 55000,
       "hq": "DE",
       "regions": [
         "AT",
@@ -2496,16 +3023,28 @@
         "PT"
       ],
       "last_shown": "2025-12-10",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
-          "id": "CR05713265810395365377",
-          "url": "https://adstransparency.google.com/advertiser/AR16817954469177196545/creative/CR05713265810395365377",
+          "id": "CR10698168406487597057",
+          "url": "https://adstransparency.google.com/advertiser/AR16817954469177196545/creative/CR10698168406487597057",
           "last": "2025-12-10",
           "verified": "UNVERIFIED"
         },
         {
-          "id": "CR10698168406487597057",
-          "url": "https://adstransparency.google.com/advertiser/AR16817954469177196545/creative/CR10698168406487597057",
+          "id": "CR05713265810395365377",
+          "url": "https://adstransparency.google.com/advertiser/AR16817954469177196545/creative/CR05713265810395365377",
           "last": "2025-12-10",
           "verified": "UNVERIFIED"
         }
@@ -2518,6 +3057,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snusfrei')",
       "creatives": 2,
+      "impressions_floor": 61000,
       "hq": "DE",
       "regions": [
         "AT",
@@ -2525,6 +3065,18 @@
         "EEA"
       ],
       "last_shown": "2026-03-26",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR12061034672801447937",
@@ -2547,6 +3099,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snuslab')",
       "creatives": 2,
+      "impressions_floor": 6000,
       "hq": "DE",
       "regions": [
         "BE",
@@ -2558,6 +3111,18 @@
         "RO"
       ],
       "last_shown": "2026-04-02",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01638511615194169345",
@@ -2580,6 +3145,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snusau')",
       "creatives": 2,
+      "impressions_floor": 0,
       "hq": "AU",
       "regions": [
         "DK",
@@ -2590,6 +3156,18 @@
         "SE"
       ],
       "last_shown": "2026-07-09",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR06155637365890088961",
@@ -2612,6 +3190,7 @@
       "parent": null,
       "reason": "model verification: Tanzanian vape retail store",
       "creatives": 2,
+      "impressions_floor": 0,
       "hq": "TZ",
       "regions": [
         "DE",
@@ -2623,6 +3202,18 @@
         "RO"
       ],
       "last_shown": "2026-07-07",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR11501725451487805441",
@@ -2645,12 +3236,25 @@
       "parent": null,
       "reason": "model verification: Smoke and vape shop",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR13968001320456552449",
@@ -2667,12 +3271,25 @@
       "parent": null,
       "reason": "model verification: Smoke and vape retailer",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "HR"
       ],
       "last_shown": "2026-07-14",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR15797039600456695809",
@@ -2689,6 +3306,7 @@
       "parent": null,
       "reason": "model verification: Vape brand or studio",
       "creatives": 1,
+      "impressions_floor": 3000,
       "hq": "US",
       "regions": [
         "AT",
@@ -2705,6 +3323,18 @@
         "SE"
       ],
       "last_shown": "2026-03-25",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02211301647928262657",
@@ -2721,12 +3351,25 @@
       "parent": null,
       "reason": "model verification: Vape devices brand seller",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "AL",
       "regions": [
         "EEA",
         "ES"
       ],
       "last_shown": "2026-06-14",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR06331188416037781505",
@@ -2743,6 +3386,7 @@
       "parent": null,
       "reason": "model verification: Trinidad vape products seller",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "TT",
       "regions": [
         "EEA",
@@ -2750,6 +3394,18 @@
         "MQ"
       ],
       "last_shown": "2026-03-13",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR12176596102249709569",
@@ -2766,12 +3422,25 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'another snus factory')",
       "creatives": 1,
+      "impressions_floor": 250000,
       "hq": "",
       "regions": [
         "EEA",
         "SE"
       ],
       "last_shown": "2025-07-31",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR07295437410400206849",
@@ -2788,6 +3457,7 @@
       "parent": null,
       "reason": "model verification: US vape retail company",
       "creatives": 1,
+      "impressions_floor": 1000,
       "hq": "US",
       "regions": [
         "BE",
@@ -2801,6 +3471,18 @@
         "SE"
       ],
       "last_shown": "2026-03-26",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR11349124533316485121",
@@ -2817,6 +3499,7 @@
       "parent": null,
       "reason": "model verification: UK bake and vape retailer",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "GB",
       "regions": [
         "EEA",
@@ -2824,6 +3507,18 @@
         "SE"
       ],
       "last_shown": "2026-07-21",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01075131271690059777",
@@ -2840,12 +3535,19 @@
       "parent": "British American Tobacco",
       "reason": "registered entity matches known corporate group 'British American Tobacco'",
       "creatives": 1,
+      "impressions_floor": 5000,
       "hq": "PL",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-04-16",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR12989901271312891905",
@@ -2862,12 +3564,25 @@
       "parent": null,
       "reason": "model verification: Polish vape products business",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "PL",
       "regions": [
         "EEA",
         "RO"
       ],
       "last_shown": "2026-02-16",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR09403981398835986433",
@@ -2884,12 +3599,25 @@
       "parent": null,
       "reason": "model verification: UK cannabis vape products firm",
       "creatives": 1,
+      "impressions_floor": 80000,
       "hq": "GB",
       "regions": [
         "EEA",
         "FR"
       ],
       "last_shown": "2026-03-01",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01724830562239119361",
@@ -2906,6 +3634,7 @@
       "parent": null,
       "reason": "model verification: US vape and tobacco retailer",
       "creatives": 1,
+      "impressions_floor": 40000,
       "hq": "US",
       "regions": [
         "AT",
@@ -2923,6 +3652,12 @@
         "SE"
       ],
       "last_shown": "2026-05-10",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR00250957627754807297",
@@ -2939,6 +3674,7 @@
       "parent": null,
       "reason": "model verification: UK CBD and vape shop",
       "creatives": 1,
+      "impressions_floor": 10000,
       "hq": "GB",
       "regions": [
         "BG",
@@ -2959,6 +3695,18 @@
         "SK"
       ],
       "last_shown": "2025-11-09",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01695088334621114369",
@@ -2975,12 +3723,19 @@
       "parent": null,
       "reason": "model verification: US tobacco and vape retailer",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "IT"
       ],
       "last_shown": "2026-06-17",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01617866841273663489",
@@ -2997,12 +3752,19 @@
       "parent": null,
       "reason": "model verification: Czech sole trader personal name",
       "creatives": 1,
+      "impressions_floor": 8000,
       "hq": "CZ",
       "regions": [
         "CZ",
         "EEA"
       ],
       "last_shown": "2026-01-10",
+      "google_policy": "unknown",
+      "google_policy_note": "",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR05916595222954901505",
@@ -3019,6 +3781,7 @@
       "parent": null,
       "reason": "model verification: US vape and lottery shop",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "US",
       "regions": [
         "BE",
@@ -3033,6 +3796,18 @@
         "SE"
       ],
       "last_shown": "2026-04-05",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02475487354047954945",
@@ -3049,6 +3824,7 @@
       "parent": null,
       "reason": "model verification: Polish premium vape business",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "PL",
       "regions": [
         "DE",
@@ -3057,6 +3833,18 @@
         "PL"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR12217718034697027585",
@@ -3073,6 +3861,7 @@
       "parent": null,
       "reason": "model verification: US vape retail company",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "US",
       "regions": [
         "AT",
@@ -3090,6 +3879,18 @@
         "SE"
       ],
       "last_shown": "2026-03-26",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR04720617530199113729",
@@ -3106,6 +3907,7 @@
       "parent": null,
       "reason": "model verification: US smokers and vape retailer",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "CZ",
@@ -3117,6 +3919,18 @@
         "PL"
       ],
       "last_shown": "2026-03-22",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02048138520412815361",
@@ -3133,12 +3947,25 @@
       "parent": null,
       "reason": "model verification: US retail vape shop",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "PT"
       ],
       "last_shown": "2026-06-25",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01888212561287970817",
@@ -3155,12 +3982,19 @@
       "parent": "Imperial Brands",
       "reason": "registered entity matches known corporate group 'Imperial Brands'",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "GB",
       "regions": [
         "EEA",
         "SK"
       ],
       "last_shown": "2026-06-14",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02814451052131123201",
@@ -3177,6 +4011,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'jet snus')",
       "creatives": 1,
+      "impressions_floor": 250000,
       "hq": "EE",
       "regions": [
         "AT",
@@ -3205,6 +4040,18 @@
         "SK"
       ],
       "last_shown": "2025-08-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR05789901908290306049",
@@ -3221,12 +4068,19 @@
       "parent": "Japan Tobacco",
       "reason": "registered entity matches known corporate group 'Japan Tobacco'",
       "creatives": 1,
+      "impressions_floor": 3000,
       "hq": "US",
       "regions": [
         "EEA",
         "SI"
       ],
       "last_shown": "2026-02-12",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR09425063434786963457",
@@ -3243,12 +4097,25 @@
       "parent": null,
       "reason": "model verification: Italian vape retailer",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "IT",
       "regions": [
         "EEA",
         "IT"
       ],
       "last_shown": "2025-10-05",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01545474488894750721",
@@ -3265,6 +4132,7 @@
       "parent": null,
       "reason": "model verification: US smoke and vape shop",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "DE",
@@ -3275,6 +4143,18 @@
         "PL"
       ],
       "last_shown": "2026-03-21",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR06025144645846040577",
@@ -3291,6 +4171,7 @@
       "parent": null,
       "reason": "model verification: Colombian company, unclear business",
       "creatives": 1,
+      "impressions_floor": 1000,
       "hq": "CO",
       "regions": [
         "DE",
@@ -3299,6 +4180,12 @@
         "IT"
       ],
       "last_shown": "2026-02-18",
+      "google_policy": "unknown",
+      "google_policy_note": "",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR14837900904211939329",
@@ -3315,12 +4202,25 @@
       "parent": null,
       "reason": "model verification: US vape and smoke shop",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "HU"
       ],
       "last_shown": "2026-06-24",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR15857331870321606657",
@@ -3337,12 +4237,25 @@
       "parent": null,
       "reason": "model verification: Ohio retail vape store",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "DE",
         "EEA"
       ],
       "last_shown": "2026-07-15",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR03266913143661527041",
@@ -3359,12 +4272,25 @@
       "parent": null,
       "reason": "model verification: UK vape retailer",
       "creatives": 1,
+      "impressions_floor": 35000,
       "hq": "GB",
       "regions": [
         "EEA",
         "HU"
       ],
       "last_shown": "2026-04-28",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR00075993167060533249",
@@ -3381,12 +4307,25 @@
       "parent": null,
       "reason": "model verification: Phone repair and vape shop",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "GB",
       "regions": [
         "DE",
         "EEA"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR08277456900669308929",
@@ -3403,6 +4342,7 @@
       "parent": null,
       "reason": "model verification: US vape retailer",
       "creatives": 1,
+      "impressions_floor": 3000,
       "hq": "US",
       "regions": [
         "AT",
@@ -3420,6 +4360,18 @@
         "SE"
       ],
       "last_shown": "2026-03-22",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02951103648630833153",
@@ -3436,12 +4388,25 @@
       "parent": null,
       "reason": "model verification: Icelandic snus manufacturer",
       "creatives": 1,
+      "impressions_floor": 30000,
       "hq": "IS",
       "regions": [
         "EEA",
         "IS"
       ],
       "last_shown": "2026-07-30",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR12249773016304582657",
@@ -3458,12 +4423,25 @@
       "parent": null,
       "reason": "model verification: US vape product supplier",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "PL"
       ],
       "last_shown": "2026-06-01",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR16339250840432803841",
@@ -3480,12 +4458,25 @@
       "parent": null,
       "reason": "model verification: Tobacco and vape retailer",
       "creatives": 1,
+      "impressions_floor": 4000,
       "hq": "US",
       "regions": [
         "EEA",
         "IT"
       ],
       "last_shown": "2025-12-01",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR15536714047733891073",
@@ -3502,6 +4493,7 @@
       "parent": null,
       "reason": "model verification: Tobacco and vape shop",
       "creatives": 1,
+      "impressions_floor": 1000,
       "hq": "US",
       "regions": [
         "AT",
@@ -3517,6 +4509,12 @@
         "SE"
       ],
       "last_shown": "2026-03-18",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01904197055174148097",
@@ -3533,12 +4531,25 @@
       "parent": null,
       "reason": "model verification: Shisha and vape shop",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "ES",
       "regions": [
         "EEA",
         "ES"
       ],
       "last_shown": "2026-06-17",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR15739694846387945473",
@@ -3555,6 +4566,7 @@
       "parent": null,
       "reason": "known nicotine retailer (matched 'snusljus')",
       "creatives": 1,
+      "impressions_floor": 3000,
       "hq": "ES",
       "regions": [
         "AT",
@@ -3571,6 +4583,18 @@
         "PT"
       ],
       "last_shown": "2025-08-17",
+      "google_policy": "covered",
+      "google_policy_note": "'snus' is named outright in the policy examples.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2003/33/EC art. 3(2): advertising not permitted in the press 'shall not be permitted in information society services' -- i.e. the prohibition expressly reaches the internet; Directive 2014/40/EU art. 17 (sale)",
+          "note": "Snus is a tobacco product under Directive 2003/33/EC art. 2 -- it is sucked and made of tobacco -- so the internet advertising prohibition applies across the EEA. Sweden's exemption (Art. 151 and Annex XV ch. X of the 1994 Act of Accession, cross-referenced by TPD art. 17) is a placing-on-the-market derogation ONLY. It creates no parallel licence to advertise. Sweden separately bans snus advertising in domestic law at Lag (2018:2088) ch. 4 s. 1, with only a narrow point-of-sale exception at ch. 4 s. 2."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01264433303880990721",
@@ -3587,12 +4611,25 @@
       "parent": null,
       "reason": "model verification: Vape products company",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "US",
       "regions": [
         "EEA",
         "ES"
       ],
       "last_shown": "2026-01-10",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR01753684195483320321",
@@ -3609,6 +4646,7 @@
       "parent": null,
       "reason": "model verification: Vape retail shop",
       "creatives": 1,
+      "impressions_floor": 4000,
       "hq": "US",
       "regions": [
         "AT",
@@ -3626,6 +4664,18 @@
         "SE"
       ],
       "last_shown": "2026-03-25",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR10423912436577861633",
@@ -3642,6 +4692,7 @@
       "parent": null,
       "reason": "model verification: UK vape products company",
       "creatives": 1,
+      "impressions_floor": 1000,
       "hq": "GB",
       "regions": [
         "CY",
@@ -3655,6 +4706,18 @@
         "RO"
       ],
       "last_shown": "2025-10-08",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR07734551499488886785",
@@ -3671,12 +4734,25 @@
       "parent": null,
       "reason": "model verification: Vape products outlet retailer",
       "creatives": 1,
+      "impressions_floor": 5000,
       "hq": "US",
       "regions": [
         "AT",
         "EEA"
       ],
       "last_shown": "2026-05-07",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR05630244599369826305",
@@ -3693,12 +4769,25 @@
       "parent": null,
       "reason": "model verification: Vape technology retail store",
       "creatives": 1,
+      "impressions_floor": 25000,
       "hq": "GB",
       "regions": [
         "EEA",
         "ES"
       ],
       "last_shown": "2025-10-13",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR05330493239734566913",
@@ -3715,12 +4804,21 @@
       "parent": null,
       "reason": "model verification: Swedish nicotine products company",
       "creatives": 1,
+      "impressions_floor": 25000,
       "hq": "SE",
       "regions": [
         "EEA",
         "SE"
       ],
       "last_shown": "2026-04-12",
+      "google_policy": "not_covered",
+      "google_policy_note": "A tobacco-free pouch contains no tobacco, is not a component part of a tobacco product, and does not simulate smoking. Google's policy never uses the word 'nicotine' and names snus but not tobacco-free pouches. Enforcement practice may differ from the text, but the text does not support this claim.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [
+        "SE"
+      ],
       "samples": [
         {
           "id": "CR11495856533296644097",
@@ -3737,6 +4835,7 @@
       "parent": null,
       "reason": "model verification: Vape cartridge products seller",
       "creatives": 1,
+      "impressions_floor": 10000,
       "hq": "DE",
       "regions": [
         "CZ",
@@ -3753,6 +4852,18 @@
         "SE"
       ],
       "last_shown": "2025-11-01",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR07327790059011178497",
@@ -3769,12 +4880,25 @@
       "parent": null,
       "reason": "model verification: Slovak vape products retailer",
       "creatives": 1,
+      "impressions_floor": 1000,
       "hq": "SK",
       "regions": [
         "EEA",
         "RO"
       ],
       "last_shown": "2026-02-18",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR11541176916534886401",
@@ -3791,6 +4915,7 @@
       "parent": null,
       "reason": "model verification: UK vape products retailer",
       "creatives": 1,
+      "impressions_floor": 15000,
       "hq": "GB",
       "regions": [
         "BG",
@@ -3808,6 +4933,18 @@
         "RO"
       ],
       "last_shown": "2026-07-26",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR07122073151441207297",
@@ -3824,12 +4961,25 @@
       "parent": null,
       "reason": "model verification: South African vape and tech seller",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "ZA",
       "regions": [
         "DE",
         "EEA"
       ],
       "last_shown": "2026-07-19",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR05668202489539723265",
@@ -3846,12 +4996,25 @@
       "parent": null,
       "reason": "model verification: German vape products company",
       "creatives": 1,
+      "impressions_floor": 0,
       "hq": "DE",
       "regions": [
         "DE",
         "EEA"
       ],
       "last_shown": "2026-07-24",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR03689698454285582337",
@@ -3868,6 +5031,7 @@
       "parent": null,
       "reason": "model verification: French vaping products business",
       "creatives": 1,
+      "impressions_floor": 25000,
       "hq": "FR",
       "regions": [
         "BE",
@@ -3883,6 +5047,18 @@
         "YT"
       ],
       "last_shown": "2026-07-21",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR18203796130465054721",
@@ -3899,6 +5075,7 @@
       "parent": null,
       "reason": "model verification: US vape and tobacco retailer",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "US",
       "regions": [
         "AT",
@@ -3913,6 +5090,12 @@
         "SE"
       ],
       "last_shown": "2026-03-28",
+      "google_policy": "covered",
+      "google_policy_note": "Advertiser markets tobacco-containing products.",
+      "laws": [],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR08189082485355708417",
@@ -3929,6 +5112,7 @@
       "parent": null,
       "reason": "model verification: US smoke and vape retailer",
       "creatives": 1,
+      "impressions_floor": 15000,
       "hq": "US",
       "regions": [
         "AT",
@@ -3946,6 +5130,18 @@
         "SE"
       ],
       "last_shown": "2026-04-09",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR16476193982880153601",
@@ -3962,6 +5158,7 @@
       "parent": null,
       "reason": "model verification: UK perfume and vapes seller",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "GB",
       "regions": [
         "BG",
@@ -3976,6 +5173,18 @@
         "TR"
       ],
       "last_shown": "2025-10-24",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR02653999912995258369",
@@ -3992,6 +5201,7 @@
       "parent": null,
       "reason": "model verification: US vape shop retailer",
       "creatives": 1,
+      "impressions_floor": 2000,
       "hq": "US",
       "regions": [
         "BE",
@@ -4005,6 +5215,18 @@
         "PL"
       ],
       "last_shown": "2026-04-06",
+      "google_policy": "covered",
+      "google_policy_note": "'electronic cigarettes, e-cigarettes' named.",
+      "laws": [
+        {
+          "country": "EU / EEA",
+          "instrument": "Directive 2014/40/EU (TPD) art. 20(5): commercial communications for e-cigarettes and refill containers prohibited in information society services, the press and radio; Directive 2010/13/EU (AVMSD) art. 9(1)(d)",
+          "note": "Art. 20(5) exists precisely because 2003/33/EC does not reach nicotine products containing no tobacco."
+        }
+      ],
+      "pouch_sale_banned": [],
+      "pouch_ad_banned": [],
+      "pouch_lawful": [],
       "samples": [
         {
           "id": "CR11127296962901049345",

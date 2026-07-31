@@ -15,8 +15,12 @@ from __future__ import annotations
 
 import json
 import sqlite3
+import sys
 from datetime import date
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from policy import Coverage, assess  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "data" / "ads.db"
@@ -62,6 +66,15 @@ def collect(conn: sqlite3.Connection) -> dict:
             (r["advertiser"],),
         ).fetchone()["m"]
 
+        imp = conn.execute(
+            "SELECT SUM(COALESCE(impressions_floor,0)) s FROM google_ads "
+            "WHERE advertiser = ?", (r["advertiser"],),
+        ).fetchone()["s"] or 0
+
+        a = assess(r["category"], regions)
+        pc = a["platform_policy"]
+        pouch = a.get("pouch") or {}
+
         advertisers.append({
             "name": r["advertiser"],
             "category": r["category"],
@@ -69,9 +82,19 @@ def collect(conn: sqlite3.Connection) -> dict:
             "parent": r["parent"],
             "reason": r["reason"],
             "creatives": r["n_creatives"],
+            "impressions_floor": int(imp),
             "hq": r["hq"] or "",
             "regions": regions,
             "last_shown": last or "",
+            "google_policy": pc.coverage.value if pc else "unknown",
+            "google_policy_note": (pc.note if pc else ""),
+            "laws": [
+                {"country": c.country, "instrument": c.instrument, "note": c.note}
+                for c in a["legal_claims"]
+            ],
+            "pouch_sale_banned": list(pouch.get("sale_banned", {})),
+            "pouch_ad_banned": list(pouch.get("ad_banned", {})),
+            "pouch_lawful": list(pouch.get("lawful", {})),
             "samples": [
                 {"id": c["creative_id"], "url": c["creative_url"],
                  "last": c["last_shown"], "verified": c["verification"]}
@@ -142,6 +165,7 @@ tbody tr:hover{background:var(--accent-soft)}
   border:1px solid var(--line);white-space:nowrap;font-family:system-ui,sans-serif}
 .tag.verified{color:var(--ok);border-color:currentColor}
 .tag.likely{color:var(--warn);border-color:currentColor}
+.tag.law{color:var(--accent);border-color:currentColor;font-weight:600}
 .mono{font-family:var(--mono);font-size:12px}
 .big4{font-weight:600}
 .controls{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}
@@ -166,17 +190,38 @@ const D = window.__DATA__;
 const CAT = %CATLABELS%;
 const fmt = n => n.toLocaleString('en-US');
 
+function legalCell(a){
+  const bits = [];
+  if (a.google_policy === 'covered')
+    bits.push('<span class="tag verified">breaches Google policy</span>');
+  else if (a.google_policy === 'not_covered')
+    bits.push('<span class="tag">outside Google policy</span>');
+  else if (a.google_policy === 'ambiguous')
+    bits.push('<span class="tag likely">Google policy arguable</span>');
+  a.laws.forEach(l =>
+    bits.push(`<span class="tag law" title="${l.instrument.replace(/"/g,'&quot;')}">unlawful: ${l.country}</span>`));
+  if (a.pouch_sale_banned.length)
+    bits.push(`<span class="tag law">sale banned: ${a.pouch_sale_banned.join(' ')}</span>`);
+  if (a.pouch_ad_banned.length)
+    bits.push(`<span class="tag law">ads banned: ${a.pouch_ad_banned.join(' ')}</span>`);
+  if (a.pouch_lawful.length)
+    bits.push(`<span class="tag" style="opacity:.65">lawful: ${a.pouch_lawful.join(' ')}</span>`);
+  return bits.join(' ') || '<span class="tag" style="opacity:.5">none established</span>';
+}
+
 function row(a){
   const big4 = a.parent ? ' big4' : '';
   const samples = a.samples.map(s =>
     `<a href="${s.url}" target="_blank" rel="noopener" class="mono">${s.id.slice(0,10)}…</a>`
   ).join('<br>');
+  const imp = a.impressions_floor ? '≥' + fmt(a.impressions_floor) : '—';
   return `<tr>
     <td class="${big4.trim()}">${a.name}${a.parent?`<br><span class="mono" style="color:var(--muted)">${a.parent}</span>`:''}</td>
     <td>${CAT[a.category]||a.category}</td>
     <td><span class="tag ${a.confidence}">${a.confidence}</span></td>
     <td class="mono">${fmt(a.creatives)}</td>
-    <td class="mono">${a.hq}</td>
+    <td class="mono">${imp}</td>
+    <td>${legalCell(a)}</td>
     <td><span class="regions">${a.regions.length} — ${a.regions.join(' ')}</span></td>
     <td class="mono">${a.last_shown}</td>
     <td>${samples}</td>
@@ -211,6 +256,7 @@ def build(data: dict) -> str:
     adv = data["advertisers"]
     total_creatives = sum(a["creatives"] for a in adv)
     verified = [a for a in adv if a["confidence"] == "verified"]
+    total_imp = sum(a["impressions_floor"] for a in adv)
     big4 = [a for a in adv if a["parent"]]
     big4_creatives = sum(a["creatives"] for a in big4)
     excluded_creatives = sum(e["creatives"] for e in data["excluded"])
@@ -251,6 +297,8 @@ read one against the other.</p>
     <div class="l">distinct advertisers</div></div>
   <div class="stat"><div class="n">{big4_creatives:,}</div>
     <div class="l">creatives from Big Tobacco subsidiaries</div></div>
+  <div class="stat"><div class="n">{total_imp/1_000_000:,.0f}M</div>
+    <div class="l">impressions, minimum (Google reports buckets; this is the floor)</div></div>
   <div class="stat"><div class="n">{len(all_regions)}</div>
     <div class="l">regions served</div></div>
 </div>
@@ -274,14 +322,43 @@ rules prohibit. Every row below links to a permanent Google-hosted page for the
 creative. Nothing here is scraped, inferred, or reconstructed.</p>
 
 <div class="note">
-<p><strong>An important distinction.</strong> Breaching a platform's advertising
-policy is not in itself a crime — it is a broken agreement between the advertiser
-and the platform. In some jurisdictions the same advertising is <em>also</em>
-unlawful under national law. Those are different claims with different remedies,
-and this project keeps them separate. Some advertising listed here is lawful
-where it ran: snus, for instance, is legal to sell and advertise in Sweden under
-that country's EU accession exemption.</p>
+<p><strong>Two different claims, kept separate.</strong> Breaching a platform's
+advertising policy is not a crime — it is a broken agreement between the
+advertiser and the platform, and the remedy is that the ad comes down. Being
+<em>unlawful</em> under national or EU law is a separate and much stronger
+claim, with a regulator and penalties behind it. Every row below states which
+of the two applies, and neither is asserted where it does not hold.</p>
 </div>
+
+<h2>What the law actually says</h2>
+
+<p><strong>Snus advertising is prohibited across the EEA, including in Sweden.</strong>
+Directive 2003/33/EC art. 3(2) states that advertising not permitted in the press
+<em>"shall not be permitted in information society services"</em> — the
+prohibition expressly reaches the internet. Snus is a tobacco product under
+art. 2 of that Directive, being sucked and made of tobacco. Sweden's famous
+exemption, at Article 151 and Annex XV ch. X of the 1994 Act of Accession, is a
+<em>placing-on-the-market</em> derogation only. It creates no licence to
+advertise, and Sweden separately bans snus advertising in its own law at
+Lag (2018:2088) ch. 4 § 1.</p>
+
+<p><strong>Google's advertising policy does not cover tobacco-free nicotine
+pouches.</strong> This corrects an earlier version of this page. The word
+"nicotine" appears nowhere in Google's tobacco policy. The policy enumerates
+<em>"Cigarettes, cigars, snus, chewing tobacco, rolling tobacco, pipe
+tobacco"</em> — naming the tobacco-containing oral product while omitting the
+tobacco-free one. A pouch contains no tobacco, is not a component part of a
+tobacco product, and does not simulate smoking. So the Google claim fails for
+Velo and ZYN, and this page no longer makes it. TikTok and Meta both name
+nicotine pouches expressly, so the same advertising breaches their policies.</p>
+
+<p><strong>No EU instrument covers nicotine pouches at all.</strong> Not the
+Tobacco Products Directive, not 2003/33/EC, not the AVMSD — all are anchored to
+products made of tobacco. TPD art. 20(5) was enacted to close that gap for
+e-cigarettes only. Pouch regulation is therefore purely national, which is why
+the same Velo campaign is unlawful in Belgium, France, the Netherlands and
+Norway, prohibited from advertising in eight further countries, and perfectly
+legal in Sweden, Spain, Greece and Malta.</p>
 
 <h2>Corporate groups present</h2>
 <p>{len(big4)} advertisers in the corpus are subsidiaries of major tobacco
@@ -303,7 +380,8 @@ companies, accounting for {big4_creatives:,} creatives:
 <table>
 <thead><tr>
   <th>Advertiser</th><th>Category</th><th>Confidence</th><th>Creatives</th>
-  <th>HQ</th><th>Regions served</th><th>Last shown</th><th>Sample evidence</th>
+  <th>Impressions</th><th>Rule breached</th><th>Regions served</th>
+  <th>Last shown</th><th>Sample evidence</th>
 </tr></thead>
 <tbody id="tbody"></tbody>
 </table>
