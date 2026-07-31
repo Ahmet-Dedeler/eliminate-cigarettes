@@ -92,8 +92,15 @@ def bq(query: str) -> list[dict]:
 # Only enrol categories where Google's own policy text actually covers the
 # product. Reporting a nicotine pouch under a tobacco clause would be a weak
 # claim, and a weak claim contaminates the experiment.
-ELIGIBLE_CATEGORIES = ("snus_oral_tobacco", "vape_ends", "combustible_tobacco",
-                       "mixed_nicotine")
+# Narrowed after manual inspection. "mixed_nicotine" was dropped because
+# spot-checking BAT Austria's live creatives showed them to be VELO nicotine
+# POUCH ads ("Teste jetzt die VELO Nicotine Pouches"), which Google's policy
+# does not cover and which are lawful to advertise in Austria until Feb 2028.
+# Reporting those would be a losing claim and would contaminate the experiment.
+#
+# Snus is the strongest cell available: Google's policy names "snus" outright,
+# and Directive 2003/33/EC art. 3(2) prohibits the advertising across the EEA.
+ELIGIBLE_CATEGORIES = ("snus_oral_tobacco", "vape_ends", "combustible_tobacco")
 
 
 def enrol(conn: sqlite3.Connection, n_pairs: int, seed: int = 20260731) -> int:
