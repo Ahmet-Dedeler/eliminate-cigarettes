@@ -1,0 +1,1632 @@
+Table of contents
+ Acknowledgements                                                                           3
+
+ Executive Summary                                                                          4
+ 1. Author’s intro                                                                          5
+ 2. Context: the need for industry elimination                                              6
+    ‘Isn’t smoking a problem of the past?’
+    How bad is it really?
+    The tobacco industry is undermining progress more than ever
+    Tobacco control efforts manage symptoms, not the root cause
+    From controlling tobacco to abolishing it
+
+
+ 3. The concept of ‘tobacco endgame’                                                        10
+
+    1.What is the ‘tobacco endgame’?
+    2.The ‘tobacco endgame’ remains widely unknown.
+    3.The goal of this report: improving awareness and normalization
+    4.Overview of methodology
+    5.Four key strategies for improving narratives
+       a.Strategy 1: Tell an emotional story to make it easy to understand and remember
+       b.Strategy 2: Avoid complexity and jargon to make it accessible to anyone
+       c.Strategy 3: Repeat and stimulate conversation to normalize
+       d.Strategy 4: Create political momentum through cycles of public support
+
+
+ 4. Recommendations to normalize ‘tobacco endgame’                                          16
+
+      1.Find agreement on one definition: ‘tobacco endgame’ is both a goal and a strategy
+     2.Champion the end date as rallying point
+     3.Position endgame as a flexible toolkit, not a single policy
+     4.Position tobacco endgame as targeting all nicotine products - not just tobacco
+     5.Aim all eyes on the culprit, not on the victims
+     6.Frame each policy by how it eliminates parts of industry power
+      7.Leverage tobacco industry denormalization techniques
+     8.Avoid ‘radical’, embrace ‘realistic’
+     9.Always emphasize the already high public support
+   10.Avoid polarization between those who smoke and those who don’t
+     11.Cessation support is imperative to the tobacco endgame
+    12.Position endgame as the final step, not a tobacco control replacement
+   13.Consider using the ‘leapfrog’ frame to increase attraction
+    14.Leverage different types of voices to put endgame higher up the agenda
+   + Key ‘tobacco endgame’ statements to use in communications
+
+
+ 5. Endnote                                                                                 33
+
+ 6. References                                                                              34
+
+
+
+
+                                                                                                 2
+Acknowledgements
+
+
+
+
+                 This report was made possible through the support and guidance of three
+                 key organizations.
+
+                 The School for Moral Ambition identified the tobacco epidemic as one of the
+                 world's most urgent yet neglected problems and provided the fellowship
+                 opportunity that enabled this research. Their commitment to addressing "Big
+                 Problems" through strategic talent deployment made this work possible.
+
+                 The Institute for Global Tobacco Control at Johns Hopkins Bloomberg School
+                 of Public Health provided institutional hosting and the foundational expertise
+                 necessary for this research. Particular gratitude is owed to Dr. Joanna Cohen,
+                 whose decades of dedication to tobacco control inspired this report. Dr.
+                 Cohen determined the broad scope of this project: a focus on the tobacco
+                 endgame. Her guidance, expertise, and mentorship proved invaluable
+                 throughout the research and writing process.
+
+                 Additional recognition goes to Chris Bostic and Megan Manning of Action on
+                 Smoking and Health USA (ASH USA) for their ongoing support and insights
+PREPARED BY
+                 that strengthened this work.
+Eline Goethals
+                 While this report benefited from the wisdom and input of many experts in the
+PREPARED FOR     tobacco control field, any errors or omissions remain the author's
+ASH USA          responsibility.
+
+
+                                                                                              3
+Executive
+Summary
+
+In 2024, the global tobacco market reached $965 billion while their products killed 7 million people.
+Despite decades of tobacco control progress, the industry adapts faster than regulations can
+evolve, pivoting to new nicotine products while maintaining their addiction-based business model.
+The time has come to move from controlling tobacco to eliminating the industry entirely.
+
+The problem: The industry operates like a Hydra—when advertising was restricted, they shifted to
+digital marketing. When cigarettes faced regulation, they pivoted to e-cigarettes and nicotine
+pouches. Traditional tobacco control was never designed to eliminate the tobacco industry itself. By
+focussing on controlling rather than eliminating tobacco products, advocates are doing exactly what
+the industry wants: giving them the space to establish new nicotine markets.
+
+The solution: The "tobacco endgame" represents a fundamental shift from reducing harm to
+permanently ending the source of harm. This report defines tobacco endgame as "a concrete plan to
+end all activities of the tobacco industry with a specific timeline and strategy tailored to each region's
+needs." Far from being utopian, countries including New Zealand, Ireland, and Finland have already
+set ambitious elimination targets with specific dates.
+
+Strong public support already exists: on average 72% of the public supports phasing out commercial
+cigarette sales, and 71% of Dutch youth believe the nicotine industry should not be allowed to exist.
+The gap isn't in public willingness, it's in awareness that elimination is achievable through policy.
+
+The challenge: Current tobacco endgame messaging suffers from three critical weaknesses:
+inconsistent definitions, lack of cohesive narrative and limited awareness of the full range of
+endgame strategies.
+
+The strategies: This report provides 14 strategic recommendations for more effective tobacco
+endgame communication to build political will. The recommendations address how advocates can
+better coordinate internally, engage policymakers directly, and normalize the concept publicly - all
+working toward the same goal of making tobacco industry elimination politically inevitable.
+
+Key actions: Position endgame as targeting all nicotine products. Focus on the industry as the culprit.
+Use "realistic" language, never "radical." Always lead with evidence of overwhelming public support.
+Frame each policy by how it eliminates industry power.
+
+The imperative: Tobacco industry elimination is inevitable. Their business model depends on
+addiction and deception. As long as this remains intact, the industry will continue finding new ways to
+create and maintain addiction. The tools, evidence, and public support for tobacco endgame exist.
+What's needed now is coordinated messaging to make tobacco industry elimination inevitable. The
+century of profiting from addiction is over. The tobacco and nicotine industry must be done.
+
+
+
+
+                                                                                                             4
+1. Author’s intro
+ This report stems from my seven months exploring the tobacco
+ control field with an unusual background: advertising. Inspired by
+ Rutger Bregman's book Moral Ambition in May 2024, I left my job
+ creating advertising campaigns to address what Bregman calls "Big
+ Problems" - urgent global challenges in need of talent, in the search
+ of a more impactful existence.
+
+ The School for Moral Ambition identified the tobacco epidemic as
+ one of the world’s most urgent yet neglected problems. Anyone
+ working in tobacco control knows that there is far too little
+ investment in fighting this extremely wealthy industry. In September
+ 2024, I joined nine other fellows from diverse backgrounds to
+ receive training before embedding with key tobacco control
+ organizations.
+
+
+ My experience with tobacco control was very limited, yet one experience proved revealing. Early in
+ my career at an advertising agency, I had to work for a Big Tobacco brand and saw how they
+ blatantly request creative ideas to bypass regulations and encourage social sharing among youth.
+ Even with all advertising regulations in place, the agency still came up with an unexpected campaign
+ and channel to get teens to smoke more. This showed me the industry's deviousness and how they
+ leverage their wealth to exploit loopholes.
+
+ Within weeks of starting my fellowship, I was stunned. I had completely underestimated the scope
+ and impact of this issue. My understanding of health consequences had been limited to linking lung
+ cancer with smoking, but I soon learned about effects ranging from medication absorption to
+ reproductive health. Even more shocking was discovering tobacco companies' continued influence in
+ policymaking, despite regulations prohibiting industry involvement.
+
+ It's unbelievable that so much suffering stems from a handful of companies and their wealthy
+ shareholders. Wealth creation for a few is winning over health creation for all, driving social
+ inequality and environmental damage.
+
+ I had the chance of being placed at the Institute for Global Tobacco Control at Johns Hopkins
+ Bloomberg School of Public Health. Working with Dr. Joanna Cohen, who has dedicated her
+ professional career to tobacco control, inspired this paper on the need for better narratives around
+ the tobacco endgame. I'm deeply grateful for her welcome, inspiration, and guidance, as well as to
+ Chris Bostic and Megan Manning of Action on Smoking and Health USA for their ongoing support.
+
+ By the end of this report, I hope to have convinced you that abolishing the tobacco industry is not
+ only possible but necessary, and how improving our narratives help accelerate this goal. Working
+ towards elimination is the only way to stop this Hydra-like industry - Hydra, the dragon for which
+ every head cut, three more grow. The tobacco and nicotine industry repeatedly prioritize profit over
+ public health, and ending their existence with support for those addicted, is the only way forward.
+
+ Let’s dive in.
+ Eline Goethals - hello@elinegoethals.be
+
+
+
+
+                                                                                                        5
+2. Context: the need for
+industry elimination
+‘Isn’t smoking a problem of the past?’
+
+   That was the question a close friend asked when I started working in tobacco control in September
+   2024. I'll be honest - I wasn't entirely sure either. While vaping seemed on the rise, I thought the major
+   battles against tobacco were over in many parts of our world. I could not have been more wrong.
+
+   In 2005, the World Health Organization (WHO) achieved a landmark victory: the Framework
+   Convention on Tobacco Control (FCTC), a global public health treaty to reduce tobacco's harmful
+   effects, came into force. The treaty, which currently has 182 ratifying countries, created powerful
+   momentum. Building on this, the WHO introduced MPOWER in 2008 - a concrete policy package
+   offering six cost-effective, high-impact measures to reduce tobacco use. The implementation of
+   MPOWER showed promising results: smoking rates dropped in many countries. Despite fierce
+   tobacco industry opposition, public health victories kept coming. Until around 2015.
+
+   Since then, the world’s momentum in reducing tobacco use has decelerated. Global smoking rates
+   have continued to decline — from 22.8% in 2007 to 17.0% in 2021 — but the pace of the progress
+   has noticeably slowed in some regions (WHO, report on Global Tobacco Epidemic, 2023). The
+   situation is even more alarming in low- and middle-income countries, where progress in reducing
+   tobacco use is slower, and population growth risks offsetting gains in prevalence reduction. This
+   stagnation isn't limited to smoking rates - it extends to policy action. Since 2020, fewer countries
+   have adopted new tobacco control laws, and progress on implementation has slowed markedly
+   (WHO, paper on Global Tobacco Epidemic, 2025).
+
+   To make matters worse, the tobacco industry is working relentlessly by launching a larger
+   product portfolio, from nicotine pouches to e-cigarettes - often marketed as safe options for quitting
+   smoking. In reality, these are heavily promoted to youth, and it is working: vaping rates are on the rise
+   (Salari et al., 2024).
+
+   Not everything is doom and gloom, progress is still happening. Some jurisdictions are winning battles,
+   from raising age limits for tobacco purchases to expanding smoke-free zones. However, each new
+   policy proposal faces intense tobacco industry opposition. It often takes years of advocacy to pass a
+   law, and even then, Big Tobacco deploys litigation to reverse them. We are far from eliminating the
+   death and disease caused by their products.
+
+   Today, we stand at a critical inflection point. A well-funded, globally coordinated nicotine industry is
+   pushing new products and challenging regulation at every turn, while tobacco control organizations
+   struggle with insufficient resources to fight back. Many lack the funding and capacity to advocate for
+   and support governments in developing effective policies. At the governmental level, there's a
+   concerning lack of political will as tobacco is not seen as a priority (IGTC, 2024).
+
+
+
+
+                                                                                                                6
+   This creates a dangerous power imbalance. Advocacy groups and health experts risk being
+   excluded from key policy conversations—not due to lack of expertise, but due to structural
+   underinvestment and a growing global trend where governments are making it harder for NGOs and
+   independent experts to participate in policymaking (CIVICUS Monitor, 2024). Public health systems
+   and organizations remain chronically underfunded while the industry deploys billions to maintain their
+   stranglehold on policy.
+
+
+
+
+How bad is it really?
+      Tobacco kills more than 7 million people every year - of which 1.3 million are people who never
+      smoked themselves but were exposed to secondhand smoke (WHO, report on Global Tobacco
+      Epidemic, 2025).
+
+      For perspective: the annual death toll exceeds the entire global death toll from COVID-19 (7
+      million deaths in total) - yet we don't treat this preventable epidemic with the same urgency.
+      Tobacco is not an ordinary consumer product. No other product kills up to two thirds of the
+      people who use it exactly as intended (Banks et al., 2015).
+
+      The addictive power of nicotine is staggering: as one can become enslaved to tobacco products
+      often within a matter of days (DiFranza et al, 2000). It can take up to 30 attempts to quit smoking
+      and many people never succeed (Chaiton et al, 2016).
+
+      In Europe, youth e-cigarette experimentation doubled from 10% (2016) to 20-25% (2024), with
+      average initiation at just 13.5 years (Salari et al, 2024). 70% of British youth who vape have also
+      tried smoking cigarettes (Royal College of Physicians, 2024).
+
+      Government income from tobacco taxation never outweighs the societal and care costs. For
+      example: in Belgium alone, while the government collected €2.64 billion in tobacco taxes in 2012,
+      the societal costs of smoking (including health care, lost productivity, and lost years of healthy
+      life) exceeded €13 billion. This equals a burden of approximately €1,400 per Belgian adult
+      (BELSPO, 2016).
+
+
+
+
+The tobacco industry is undermining
+progress more than ever.
+   For context: the tobacco industry is dominated by just four multinationals ('Big Tobacco' or ‘Big 4’):
+   Philip Morris International, Japan Tobacco International, British American Tobacco, and Imperial
+   Brands. The fifth largest manufacturer, China National Tobacco Company mostly sells domestic, but
+   export is ramping up. Many alternative nicotine products - heated tobacco (e.g. IQOS), nicotine
+   pouches (e.g. ZYN), and e-cigarettes (e.g. VUSE) - are either created or acquired by the Big 4.
+
+   Big Tobacco’s scale is staggering: The global tobacco and nicotine market reached $965 billion in
+   2024 (Statista, 2025). Nicotine products are incredibly profitable. In 2018, six major tobacco
+   corporations made $55b profit - exceeding the combined profits of Coca-Cola, Pepsico, Nestlé,
+   Mondelez, Fedex, General Mills, Starbucks, Heineken, and Carlsberg (Branston et al, 2021).
+
+
+
+
+                                                                                                            7
+  While the world has to spend trillions on tobacco-related costs, the tobacco industry rakes in
+  massive profits year after year. These companies don't only fight life-saving tobacco control
+  measures, they actively drive youth tobacco uptake, damage the environment and despite their
+  claims of moving away from cigarettes, continue to make and sell more than 6 trillion cigarettes
+  annually. 6,000,000,000,000 per year or 190.000 cigarettes per second (Expose Tobacco, 2024).
+
+  The industry's history is marked by deception, lies, and manipulation. They've lied under oath to the
+  American Congress, created fake “consumer protection groups” to fight tobacco legislation, and
+  bought pharmaceutical companies to profit from people suffering from COPD (STOP, 2024). The list
+  of tobacco industry interference is too long for this document. The University of Bath is currently
+  doing an incredible job of keeping track of interference tactics on their website tobaccotactics.org.
+
+  So why has progress slowed down since 2015? The answer is straightforward: intensified tobacco
+  industry interference combined with a spectacular image overhaul. Big Tobacco has doubled down
+  on their strategies while rebranding themselves as "part of the solution" through newer products like
+  e-cigarettes and snus. This strategy began most prominently with the 2016 Philip Morris
+  announcement of their new "brand purpose" (“delivering a smoke-free future away from cigarettes”)
+  while continuing to profit massively off their cigarette sales (STOP, 2024).
+
+  The industry is increasing their presence at prestigious global forums like Davos, there is a troubling
+  revolving door between government and industry positions, and more and more expanded corporate
+  social responsibility activities to improve image and gain access to officials (Health Policy Watch,
+  2023). The Global Tobacco Industry Interference Index provides concrete evidence of this
+  intensification, showing that 43 countries have experienced deterioration in their ability to protect
+  health policies from industry influence (Global Tobacco Index, 2023).
+
+  The industry has heavily invested in science and research, strategically using this research to
+  position their novel products as harm reduction tools rather than for genuine public health benefit
+  (Hendlin et al., 2024). They've now evolved into a multi-addiction business, expanding beyond
+  commercial tobacco to include alternatives, cannabis, and even pharmaceutical products (Tobacco
+  Tactics, 2024).
+
+
+
+
+Our tobacco control efforts manage
+symptoms, not the root cause.
+
+  The tobacco control movement has achieved remarkable victories through traditional measures like
+  MPOWER. Smoking rates have declined, smoke-free policies have become the norm, and tobacco
+  taxes have increased globally. Yet despite these successes, we face a fundamental problem: the
+  tobacco industry adapts faster than our regulations can evolve.
+
+  The tobacco industry operates like the mythical Hydra—cut off one head, and three more grow back
+  (Hendlin et al., 2024). When advertising was restricted, they shifted to digital platforms and influencer
+  marketing. When health warnings were mandated, they redesigned packages to minimize impact.
+  When smoking was banned indoors, they created heated tobacco products and claimed they don't
+  produce "smoke." When combustible cigarettes faced heavy regulation, they pivoted to e-cigarettes,
+  pouches, and other new products.
+
+
+
+                                                                                                              8
+   This isn't accidental, it's the predictable result of trying to regulate an industry whose core business
+   model depends on deceit and addiction. As long as the fundamental business model remains intact,
+   the industry will continue to find new ways to create and maintain addiction. With their massive
+   annual revenue, there’s every incentive to stay ahead of regulators.
+
+   While MPOWER policies have saved millions of lives and protect over 6.1 billion people, smoking
+   prevalence in many countries remains well above the 5% target commonly associated with tobacco
+   endgame goals (WHO, 2025). Even jurisdictions that have fully implemented all MPOWER measures
+   continue to face ongoing tobacco- and nicotine-related health burdens. This reflects MPOWER's
+   strength as a demand-reduction tool, but also highlights its structural limitation: it was not designed
+   to eliminate the tobacco industry itself (Hendlin et al., 2024).
+
+   We're reaching the inherent limits of an approach that tries to manage an industry built on addiction
+   rather than eliminating it entirely. Every new regulation becomes a business challenge for the industry
+   to solve, not a barrier to their fundamental operations. And when stakeholders believe
+   comprehensive change cannot happen, they settle for incremental progress that preserves industry
+   power.
+
+
+
+
+From controlling tobacco to abolishing it
+
+   The fundamental question is: why do we still put up with entirely preventable death and disease?
+   In a way, these deaths, diseases, and massive investments in public health to combat tobacco harm
+   should never have happened in the first place. Unlike food, water, or medicine, commercial tobacco
+   and nicotine serves no beneficial purpose for human survival or well-being. It is a wholly artificial
+   need, created and sustained for the sake of profit.
+
+   The industry privatizes all the profits while society bears all the risks and costs. This is not like
+   fighting pneumonia or congenital diseases - this health crisis exists solely because tobacco
+   companies and their shareholders prioritize profits over public health. This is not an issue of individual
+   choices, but a systemic problem that requires system-level solutions.
+
+   Imagine a world without the tobacco industry. Healthcare costs would plummet by up to $226.7
+   billion annually in the U.S. alone (ASH, 2021), and millions of families would avoid premature grief.
+   Resources now treating tobacco-caused illnesses could advance medical research and address
+   other health challenges. The economic burden – estimated to exceed $1 trillion globally in costs and
+   lost productivity (NCI, 2017) – and community devastation would become history.
+
+   We stand at a crossroads. As the industry doubles down on their strategies, we must respond with
+   equal determination. The time has come to move from merely reducing the tobacco industry's harm
+   to ending the industry altogether - from controlling tobacco to abolishing it. More and more voices in
+   the tobacco control field are calling for the elimination (or ‘abolition’) of the tobacco industry. This is
+   not a far-off dream but an actively discussed and in some places implemented concept known as
+   the 'tobacco endgame'.
+
+
+
+
+                                                                                                                 9
+3. The concept of
+‘tobacco endgame’
+3.1 What is the tobacco endgame?
+  The concept of 'tobacco endgame' represents a fundamental shift in how we think about addressing
+  the tobacco epidemic. While tobacco control has focused on reducing tobacco use through
+  measures like taxation or smoke-free policies, endgame thinking envisions a definitive end to the
+  tobacco industry. Endgame strategies focus on supply-focussed policies that go beyond
+  conventional demand-focussed approaches - they include policies like phasing out commercial
+  cigarette sales entirely or reducing nicotine to non-addictive levels.
+
+  This concept was developed by trailblazers such as Dr. Ruth Malone, Dr. Ron Borland, Dr. Patricia
+  McDaniel, Cynthia Callard, Neil Collishaw, Dr. Carolyn Dresler, Dr. Stephen Marks and Dr. Robert
+  Proctor. Academic interest in endgame policies has grown significantly since 2014 (figure below,
+  Google Scholar, search conducted Jan 17, 2025), paralleling observations of increasingly aggressive
+  industry interference and stalling progress in smoking reduction.
+
+
+
+
+  Far from being utopian, the tobacco endgame is realistic. Countries including New Zealand, the
+  Maldives, Ireland, and Finland have set ambitious targets with specific dates for achieving near-zero
+  smoking prevalence. The evidence from early adopters and modelling studies demonstrates that
+  endgame policies can accelerate progress toward eliminating tobacco-related harm.
+
+
+
+
+                                                                                                          10
+3.2 The ‘tobacco endgame’ remains widely unknown.
+
+  Public health stakeholders, policymakers and broader communities often lack familiarity with the
+  tobacco endgame concept, limiting broader discussions and support for these transformative
+  measures. The possibility of tobacco industry elimination is not always considered viable, reflecting
+  decades of industry normalization and perceived economic entrenchment.
+
+  The endgame concept risks encountering skepticism or being dismissed as "too radical" or
+  "unrealistic." It may seem implausible at first glance, not because it's impossible, but because we
+  struggle to envision alternatives to deeply entrenched systems, even harmful ones.
+
+  This creates a vicious cycle: when a concept remains unknown, it isn't discussed, preventing its
+  normalization. The perception that industry elimination is impossible becomes self-fulfilling: when
+  stakeholders believe comprehensive change cannot happen, they settle for incremental progress
+  that preserves industry power. Breaking this cycle requires making the end of the tobacco industry a
+  common topic of conversation among an expanding circle of stakeholders. This repeated exposure
+  gradually shifts social norms, and as public support grows, political will typically follows.
+
+  Despite the concept's limited recognition outside tobacco control circles, substantial evidence
+  indicates strong public support for the idea of tobacco industry and/ or product elimination.
+
+
+
+
+         72%                                 71%                               75%
+       of the public supports (on      of Dutch youth agree with the         of the public in England
+       average, across countries)       statement ‘the tobacco and          support the government’s
+            the phase-out of              vape industry should not         smokefree goal of smoking
+        combustible cigarettes          exist’ (Gezondheidsfondsen,          rates under 5% (ASH UK,
+             (Kim et al, 2024)                     2024)                              2023)
+
+
+
+
+  This public sentiment reveals an important insight: the primary gap isn't in public willingness to
+  embrace transformative approaches, it's in awareness that these approaches exist and are
+  achievable on a policy level. Several factors contribute to this awareness gap.
+
+
+
+  01      Inconsistent definitions of ‘tobacco endgame’
+          What constitutes the 'tobacco endgame' remains debated among experts (therefore creating
+          confusion), with no consensus on whether it means eliminating all tobacco products, ending
+          commercial sales, achieving near-zero prevalence or whether it entails taxation or smokefree
+          multiunit housing policies. There's also no clear criteria for when policy or strategy proposals
+          qualify as 'endgame’ in research (McDaniel et al, 2015).
+
+
+
+
+                                                                                                             11
+   02     Lack of a cohesive narrative
+          The lack of a unified narrative diverts advocates' energy toward internal debates rather than
+          unified action against the industry. The industry benefits from and promotes this division
+          among advocates. Another debate benefitting the industry is the tobacco versus nicotine
+          focus in endgame thinking. Some authors focus on tobacco products only, others call for a
+          phase-out of all nicotine products (not always at the same tempo).
+
+
+
+   03
+          Wide diversity of potential endgame policies
+          Third, the diversity of potential endgame strategies, while actually a strength, can be either
+          unknown or overwhelming without proper framing. People might encounter just a single
+          strategy (like a specific sales ban), find flaws in it, and dismiss the entire endgame concept,
+          unaware of alternative approaches. This prevents understanding that tobacco endgame
+          offers a menu of options adaptable to different contexts and needs (McDaniel et al, 2015).
+
+
+
+
+3.3. The goal of this report: improving awareness and
+normalization of the ‘tobacco endgame’ concept
+
+   What we see, we can believe—and what we can believe, we can achieve. The tobacco industry
+   has maintained its power partly through making its elimination seem unimaginable. But just as we
+   once couldn't envision smoke-free restaurants or airplanes, we must now make tobacco industry
+   elimination visible, believable, and inevitable.
+
+   Speeding up actionable public and political will requires a deliberate approach to shifting the
+   conversation. We want the ‘tobacco endgame’ to stick in people’s minds, to be remembered as
+   something we all should strive for. The objectives of this report therefore are:
+
+   1. Increase recognition that tobacco industry elimination is necessary and inevitable         Help
+   stakeholders recognize that death and disease will persist as long as the industry exists, as their
+   business model depends on addiction. Frame tobacco endgame as the necessary conclusion to a
+   century of damage. Desired outtake: “Tobacco endgame is the logical conclusion to decades of
+   tobacco control progress.”
+
+   2. Increase belief that tobacco industry elimination is achievable Counter defeatism by showing
+   tobacco endgame is a concrete, attainable goal with proven implementation paths and historical
+   precedents. Desired outtake: “Tobacco endgame is not a utopian dream, it is a realistic strategy.”
+
+   3. Increase the awareness of the full range of tobacco endgame policies and strategies
+   Communicate that tobacco endgame represents a diverse menu of policies and strategies
+   adaptable to different contexts. Desired outtake: “There are many ways to get to the tobacco
+   endgame, depending on the local context.”
+
+   4. Increase the attraction of tobacco endgame work (and/or efforts)       Tobacco control is globally
+   underfunded. Endgame thinking could attract talent and investment as tobacco control receives just
+   0.3% of global health aid, with 97% of funding coming from private philanthropy (NCD Alliance, 2024).
+   This chronic underfunding limits impact and momentum. Desired outtake: "We should invest more in
+   tobacco endgame across all levels."
+
+
+                                                                                                            12
+   These objectives work together to create reinforcing momentum: clear messaging enables both
+   stronger public advocacy and bolder political leadership, which reinforce each other to make
+   tobacco endgame policies politically inevitable.
+
+
+
+3.4 Overview of methodology
+
+   Our systematic approach encompassed an analysis of the 'tobacco endgame' concept from 2013
+   onwards, utilizing multiple databases and journals (Web of Science, Google Scholar, BMJ, The
+   Lancet, etc). The methodology consisted of:
+
+      A systematic review of academic literature and tobacco control organizations' documentation to
+      compile and analyze varying definitions of 'tobacco endgame', enabling identification of key
+      commonalities and divergences (Goethals, 2025).
+
+      A narrative analysis examining the framing of ‘tobacco endgame’, with particular focus on
+      identifying dominant discourse patterns and their evolution within tobacco policy discussions
+      (including a review of press articles mentioning the concept and interviews with key stakeholders
+      at multiple tobacco control organizations).
+
+      An extensive inventory of endgame policies and strategies from the literature, coupled with an
+      assessment of policy makers' and researchers' awareness of these approaches (Goethals,
+      2025).
+
+
+
+
+3.5 Four key strategies for improving narratives
+
+   Before diving into concrete tobacco endgame recommendations, the following recommendations
+   give an overview of some general strategies and guiding principles for improving narratives towards a
+   broad and non-expert audience. These will give direction to the recommended endgame narratives.
+
+
+
+
+Strategy 1: Tell an emotional story to make it
+easy to understand and remember.
+
+   Humans are moved by stories, not statistics. While data on tobacco-related deaths and industry
+   profits are important, they rarely catalyze action by themselves. Instead, we must engage people
+   emotionally and inspire them to envision, and fight for, a world without the tobacco industry.
+
+   The first chapter deliberately aimed to make you angry at the tobacco industry by highlighting its
+   deception and harm. Now, an important second step, this report hopes to channel your anger into
+   hope by telling stories about how we can win.
+
+   This approach corrects a common mistake in advocacy communication. We often assume that
+   people don't care about certain issues because they lack information, so we bombard audiences
+   with the facts, hoping these will speak for themselves. But information without emotion rarely
+   motivates action.
+
+
+
+
+                                                                                                           13
+    For tobacco endgame communication, this means tapping into emotions such as anger, disgust or
+    hope - ideally there’s a combination of both strong positive and negative emotions. It means going
+    beyond reciting research or simulations to telling stories about industry deception and lies, children
+    who will never be targeted by the industry, or communities reclaiming their health.
+
+
+
+
+Strategy 2: Avoid complexity and jargon to improve accessibility
+
+    The tobacco endgame concept must be understood by everyone—not just public health experts.
+    This requires prioritizing clarity and accessibility. Using academic language, technical terms, or
+    complex policy explanations creates unnecessary barriers. Too much nuance, while valuable in
+    academic discussions, can dilute the emotional impact. Sometimes a clear, compelling story
+    requires simplifying complex realities. This doesn't mean being dishonest, it means prioritizing
+    resonance over exhaustive detail.
+
+    Currently, tobacco endgame narratives risk using inconsistent definitions and technical terminology
+    that makes the concept inaccessible. We should explain necessary technical concepts in
+    straightforward terms. And instead of detailed policy mechanisms, focus on outcomes, how each
+    approach contributes to the ultimate goal of tobacco industry elimination.
+
+    When in doubt, choose simplicity—even with "expert" audiences. In reality, even policymakers have
+    limited time and attention. A clear, fully understood message creates a stronger ally than a complex,
+    partially grasped one. Technical details can be provided later as supporting material, but the core
+    message must be immediately accessible to drive change.
+
+
+
+
+Strategy 3: Repeat and stimulate conversation to normalize
+
+    Ideas become normalized through repetition and conversation. For tobacco endgame to become
+    widely accepted, it must be discussed consistently across multiple channels and contexts. This
+    repetition creates mental availability: the concept springs readily to mind when people think about
+    tobacco control.
+
+    Effective messaging requires disciplined repetition of key phrases. The tobacco industry has
+    mastered this strategy, repeating phrases like "personal choice" and "harm reduction" until they
+    became embedded in public discourse. We must be equally disciplined in repeating our core
+    messages, for example ‘the tobacco industry can and must be eliminated for the sake of public
+    health’.
+
+    Everyone has a role to play in normalizing the tobacco endgame concept. Whether you're a
+    researcher, advocate, healthcare professional, or concerned citizen, simply talking about tobacco
+    industry elimination as a realistic goal helps shift public perception. The tobacco issue touches all
+    levels of society: from healthcare systems to economic productivity, from environmental
+    sustainability to social equity. By highlighting these wide-ranging impacts, we can help people see
+    their personal connection to the tobacco endgame goal.
+
+    Strategic repetition creates political momentum. When tobacco endgame becomes common in
+    conversations and media, politicians begin to see supporting it as safe or advantageous. Ireland's
+    smokefree example shows this shift: some CSOs opposed comprehensive bans in 2003, yet Ireland
+    implemented the world's first ban just one year later, setting a precedent for the rest of the world.
+
+
+
+                                                                                                             14
+Strategy 4: Create political momentum through cycles of public support
+
+    Political change happens through reinforcing cycles where public support and political leadership
+    strengthen each other. Strong public support gives politicians permission to act boldly, while bold
+    political action normalizes previously 'radical' ideas for the public.
+
+    This pattern is visible across successful social changes. Marriage equality gained momentum when
+    early political wins (like Massachusetts legalizing same-sex marriage) demonstrated political viability,
+    which encouraged more public support, which enabled more politicians to take stands. Ireland's
+    smokefree ban followed a similar trajectory: early political leadership shifted public conversation,
+    creating space for comprehensive action.
+
+    The tobacco endgame sits at this inflection point. Strong polling support exists but lacks political
+    expression. Early political wins, like Brookline, MA's generational sales ban or the Netherlands' retail
+    phase-out, create proof of concept that enables bolder action elsewhere. Each political success
+    makes the next one easier by demonstrating that endgame policies are both politically viable and
+    publicly supported.
+
+    This reinforcing dynamic explains why broad normalization efforts and direct political advocacy must
+    work together. Public conversations create permission for political leadership, while political
+    leadership validates and amplifies public demand.
+
+
+
+
+                                                                                                           15
+4. Recommendations
+to normalize tobacco
+endgame
+   The following recommendations aim to make the tobacco endgame concept more memorable,
+   effective, and achievable. These recommendations complement and strengthen each other rather
+   than functioning independently. However, just like endgame policies themselves, consider these a
+   'menu' of approaches to improve narratives, not a checklist to implement simultaneously.
+
+
+
+1. Find agreement on one definition: ‘tobacco
+endgame’ is both a goal and a strategy
+
+   The tobacco endgame concept suffers from inconsistent definitions across both academic literature
+   and advocacy communications, varying from measures to target. This weakens its power and limits
+   broader understanding. The tobacco industry benefits when advocates spend endless time debating
+   terminology instead of taking concrete steps toward industry elimination. Don't let definitional
+   debates paralyze action. While clarity matters, perfect consensus shouldn't delay implementation of
+   effective policies.
+
+   The word ‘endgame’ is used in many contexts, from military to chess. It is understood as the ‘final
+   phase before something ceases to exist’. In the tobacco control field, ‘endgame’ is so common that
+   it has become impossible to not use it - however its definition requires clarity.
+
+   What tobacco endgame is NOT:
+     A single policy like age restrictions or taxation
+     Only about reducing smoking rates in individuals (or using terminology that suggests that such as
+     ‘tobacco-free generation’) (more on the danger of this framing later on)
+     A replacement for existing tobacco control measures
+     A utopian dream without concrete implementation paths
+     A vague future aspiration without timelines
+
+   What tobacco endgame is:
+   The word ‘endgame’ itself provides the framework for a clearer definition: two critical components:
+   an 'end' (concrete goal and date) and a 'game' (strategy with policies and tactics to reach that goal).
+
+
+   ‘End’: A clear, measurable goal on a specific date
+
+   The ‘end’ component must define precisely what should be ending and by when. The theoretical
+   ‘end’ in this case could be defined as ‘the permanent elimination of the activities of the commercial
+   tobacco industry by a specific date, in a specific jurisdiction’. This framing places the blame on the
+   tobacco industry rather than individuals and creates a measurable endpoint.
+
+
+
+                                                                                                             16
+Every endgame goal must include 1) concrete targets (Key Performance Indicators) and 2) a concrete
+timeline. These allow stakeholders to measure progress and hold decision-makers responsible.
+Endgame targets to date have focused on smoking usage (e.g. “adult smoking prevalence > 5% by
+2030") and therefore center attention on consumer behavior rather than industry activity, ignore
+underlying power structures, and allow the industry to pivot to alternatives while maintaining their
+addiction-based business model.
+
+Instead, endgame targets might incorporate industry-oriented metrics such as a complete phase-out
+of commercial tobacco sales by a specific date, elimination of tobacco industry political influence
+(e.g., lobbying, campaign contributions), systematic reduction in tobacco retail outlets or mandated
+industry divestment from nicotine-addiction business models. These allow for clearer storytelling and
+keep all eyes on the culprit.
+
+
+       TOBACCO ENDGAME
+                                                     END = A CLEAR MEASURABLE
+                                                       GOAL ON SPECIFIC DATE
+
+
+
+
+                                  GAME = STRATEGIC PATHWAY
+                                     TOWARDS THE GOAL
+
+
+       TODAY                                                                     A DATE IN
+                                                                                 THE FUTURE
+
+‘Game’: Strategic pathways adapted to local context
+The ‘game’ component recognizes that different contexts require different strategies. Each
+jurisdiction must assess their situation and select appropriate ‘moves’ to reach the defined end.
+Local policymakers should focus on permanently dismantling the industry's power, choosing from a
+flexible menu of strategies. Some approaches target industry directly, while others work through
+user behavior or retailer limitations (McDaniel et al, 2015) - see recommendation 3.
+
+‘Endgame’: The elimination of the tobacco industry AND strategies to get there
+This report recommends to consistently frame the tobacco endgame as: ‘A concrete plan to end all
+activities of the tobacco industry with a specific timeline and strategy tailored to the specific
+jurisdiction’s or each region’s needs.’
+
+By emphasizing both the measurable ‘end’ goal and the adaptable ‘game’ strategies, we create a
+narrative that acknowledges the universal goal and the need for locally-appropriate implementation.
+
+
+ DO                                                DON’T
+
+
+ Define the endgame as both a goal (‘end’) and     Use vague or inconsistent definitions that
+ implementation strategies (‘game’)                weaken understanding
+
+
+ Focus on industry elimination rather than         Frame goals in ways that shift focus from
+ individual behavior change, and frame metrics     industry to individuals (e.g., ‘tobacco-free
+ around industry power dismantling (sales          generation’) or rely only on consumer-oriented
+ phase-out, political influence elimination)       metrics like smoking prevalence rates
+
+
+
+                                                                                                        17
+2. Champion the end date as rallying point
+
+   Many countries and jurisdictions have already committed to achieving a "tobacco-free generation" or
+   similar goals—typically defined as smoking prevalence below 5%—by specific dates. Research
+   reveals that setting clear endgame targets and dates can have positive impacts even before full
+   achievement (Nip et al., 2024). Early adopter countries with concrete goals significantly accelerated
+   declines in smoking prevalence compared to those without such goals. This suggests that the
+   narrative itself, the commitment to a date, can be a powerful driver of change.
+
+   For jurisdictions with existing end dates: make them visible and meaningful. Transform abstract
+   policy commitments into concrete moments that create urgency and accountability. Create ongoing
+   campaigns around your target date—whether it's called "Tobacco Liberation Day," "Tobacco
+   Industry-Free 2030," or another memorable milestone. Track, publicize and champion progress
+   toward the goal, making success measurable and visible to the public. Use modelling to warn for
+   when the end date and goal are misaligning with political actions.
+
+   For jurisdictions without end dates: make this a priority. There is no tobacco endgame without an end
+   date. Advocates should push governments to commit to specific timelines, as these create the
+   urgency and accountability that vague aspirations cannot provide.
+
+   Use deadlines to counter industry delay tactics. The tobacco industry benefits from endless debate
+   and vague timelines. A concrete date forces action and prevents the industry from running out the
+   clock on public health progress. When stakeholders commit to specific dates, it becomes much
+   harder to abandon or indefinitely postpone necessary action. Deadlines also create political
+   accountability, making delay tactics visible to voters and providing clear benchmarks for measuring
+   political progress.
+
+
+
+
+    DO                                                 DON’T
+
+    If your jurisdiction has a target date, actively
+                                                       Let existing commitments remain abstract
+    campaign about it and track progress
+                                                       policy documents without public visibility
+    rigorously (including modelling studies)
+
+    If your jurisdiction lacks a target date,          Accept indefinite timelines or vague future
+    prioritize pushing for one                         aspirations
+
+
+
+
+                                                                                                           18
+3. Position endgame as a flexible toolkit, not a single policy
+
+   The diversity of endgame approaches reflects their strength as a strategic toolkit rather than a
+   limitation. This expanding menu of policies and strategies allows jurisdictions to select combinations
+   that align with their specific political context, smoking prevalence, and implementation capacity. The
+   categories of endgame policies and strategies illustrated below demonstrate this approach:
+
+
+
+
+   When stakeholders dismiss an endgame strategy as 'impossible', we risk them dismissing the entire
+   concept, unaware that tobacco endgame offers diverse approaches adaptable to different contexts.
+
+   Emphasize strategic flexibility over specific policies. Explain that endgame represents multiple
+   pathways to permanent industry elimination. Different jurisdictions need different approaches based
+   on political context, smoking prevalence, and tobacco control infrastructure. Modeling studies prove
+   valuable in demonstrating which endgame policies may be more effective in different local contexts
+   (Nghiem et al., 2023).
+
+   Correct the "single policy" misconception immediately. When someone dismisses endgame based
+   on one policy they've heard about, acknowledge their concern but redirect to the broader strategic
+   menu. Explain how various policies dismantle different aspects of industry power, allowing
+   policymakers to choose the right combination. This prevents rejecting the entire endgame concept
+   based on objections to individual policies, while demonstrating that endgame thinking is
+   sophisticated and adaptable rather than rigid.
+
+
+    DO                                                 DON’T
+
+    Always explain that endgame offers multiple        Present or defend only one specific endgame
+    strategic pathways to industry elimination         policy
+
+    Acknowledge legitimate concerns about              Get drawn into detailed debates about
+    specific policies while redirecting to the         individual policies without establishing the
+    broader toolkit                                    toolkit frame
+
+
+    Emphasize how different approaches work for        Allow people to dismiss the entire concept
+    different contexts                                 based on objections to one policy
+
+
+                                                                                                            19
+4. Position tobacco endgame as targeting all nicotine
+products - not just tobacco
+
+   As revealed in a recent study (Hendlin et al, 2024), tobacco corporations have deliberately pursued a
+   strategy they call "pharmaceuticalization" – transforming themselves into pharmaceutical-like
+   companies that market alternative nicotine products. Internal documents show that tobacco
+   companies planned this transition not as a sincere effort to reduce harm, but to "ensure profitability
+   and regain social acceptance" as they faced increasing regulation and denormalization.
+
+   Evidence of this strategic deception is overwhelming. Internal documents reveal that in countries
+   not yet saturated with cigarettes, the industry continues promoting their deadliest products because
+   "there is still money to be made in commercial cigarettes." If they truly cared about harm reduction,
+   they would stop aggressive cigarette marketing in developing countries.
+
+   By focusing tobacco endgame efforts only on tobacco products, we are doing exactly what the
+   industry wants us to do. While advocates debate cigarette policies, the industry has already pivoted
+   to their next generation of addiction products. They are not waiting for cigarettes to be banned—
+   they are proactively building their nicotine empire through vapes, heated tobacco products, and
+   nicotine pouches. We have to be vigilant about this strategy and not get distracted.
+
+   This is not a future threat—it is happening now. Philip Morris International invested $832 million in
+   2024 alone for ZYN nicotine pouch facilities. Reynolds American is expanding nicotine pouch
+   production capacity. The industry is betting billions on non-tobacco nicotine products while we
+   debate whether to include them in endgame strategies.
+
+   The industry's own logic exposes their deception. New nicotine products are often framed as "harm
+   reduction tools" to help people quit smoking cigarettes. If these truly exist to help people transition
+   away from cigarettes, then by the industry's own logic, there would be no need for these "harm
+   reduction" products once cigarettes are eliminated. The complete phase-out of combustible
+   cigarettes automatically justifies the phase-out of all other commercial nicotine products.
+
+   Tobacco endgame must be framed from day one: our goal is not merely eliminating cigarettes, but
+   permanently ending the commercial tobacco industry's ability to profit from addiction in any form—
+   whether through cigarettes, vapes, heated tobacco, nicotine pouches, or whatever product they
+   invent next. However: the pace at which a jurisdiction phases out these different types of products
+   can differ based on local context.
+
+   We cannot leave the door open for new manipulations of the industry. Every time we create separate
+   strategies for different products, we give them time to establish new markets. The endgame is about
+   ending an addiction-based business model, not managing individual product categories.
+
+
+    DO                                                 DON’T
+
+    Position endgame as eliminating all nicotine
+                                                       Allow endless debates about which products
+    products in the long term, not just cigarettes.
+                                                       to include - exactly what the tobacco industry
+    And use market growth data to show the
+                                                       wants
+    industry's strategic shift is succeeding
+
+                                                       Create separate endgame narratives for
+    Focus the narrative on ending addiction-
+                                                       different product categories (or just not
+    based business models in all forms
+                                                       mention other products at all)
+
+
+                                                                                                             20
+5. Aim all eyes on the culprit, not on the victims
+
+   We know smoking is not a personal failing, but a deeply complex issue that traps individuals in a
+   cycle constructed by the tobacco industry. The addictive power of nicotine creates dependency far
+   beyond individual willpower. Those who smoke are victims of a system engineered to create and
+   maintain addiction. Unfortunately, some policymakers continue to use the ‘individual choice’-frame,
+   overlooking Big Tobacco’s systemic manipulation.
+
+   This frame critically undermines tobacco endgame discussions. As research (Hoek et al, 2022)
+   demonstrates, if smoking is framed as individual choice, the imperative for structural changes to
+   tobacco markets becomes less apparent. In other words: tobacco endgame acceptance and
+   normalization hinges on tackling the ‘individual choice’-frame. These two frames are mutually
+   exclusive.
+
+   Tobacco endgame is about supply-side policies, not demand-side approaches such as restricting
+   tobacco marketing or establishing smoke-free zones. Although these policies have achieved
+   remarkable progress, they accept the industry’s continued existence. Yet as long as this industry
+   remains, it will continue to create and maintain addiction through new strategies.
+
+   Tobacco endgame advocates risk falling into a rhetorical trap, framing these policies around
+   protecting youth or denormalizing the act of smoking. This approach, even though mostly well
+   intended, mistakenly centralizes individual behavior rather than centralizing the industry's
+   manipulative infrastructure.
+
+   In everything we say, we have to focus on the central role of the industry and how tobacco endgame
+   gradually eliminates their power, ultimately leading to full elimination. Staying out of the individual-
+   choice-frame and fighting it where necessary, is essential here.
+
+   Industry-focused framing also creates political permission for bold action. Politicians can position
+   themselves as protecting constituents from corporate exploitation rather than restricting personal
+   choices, making leadership politically advantageous rather than risky.
+
+
+
+
+    DO                                                  DON’T
+
+
+    Focus on the industry as the culprit and            Frame smoking as individual choice or
+    emphasize systemic manipulation                     personal failing, no blame or criminalization
+
+
+    Center narratives on eliminating industry           Center narratives only on protecting specific
+    power and manipulation and how policies do          groups (e.g. youth as focus, as if it’s okay to
+    this step by step                                   kill adults) or denormalizing smoking behavior
+
+
+
+    Center the industry and their conscious             Use terms such as ‘tobacco epidemic’ which
+    manipulation and therefore responsibility in        implicitly say ‘uncontrollable virus’, yet
+    everything you say.                                 there’s a clear culprit here
+
+
+
+
+                                                                                                              21
+6. Frame each policy by how it eliminates parts of
+industry power
+
+   Building on the above recommendation, how we talk about endgame policies is just as important as
+   the policies themselves. We need to win political will. When discussing policies some advocates
+   focus primarily on health benefits or changes in consumer behavior. While these outcomes matter,
+   this misses a crucial opportunity: the most compelling way to frame endgame policies is to
+   explicitly connect them to the systematic dismantling of industry power.
+
+   This framing requires a deliberate three-step approach, in a simple ladder-shaped structure:
+
+   1. Open with a shocking fact about the industry: start by highlighting a specific, concrete and relevant
+   example of industry deception or manipulation, showing how they harm health and/or society. This
+   immediately focuses attention on the true culprit and creates emotional engagement.
+
+   2. Then, explain how the specific policy will strip away industry power: clearly articulate which aspect
+   of industry influence or power the policy targets and how it will permanently weaken it.
+
+   3. Only then, briefly describe the policy mechanics: after establishing the first two points, explain
+   how the policy works, simply and accessibly.
+
+   For example, instead of saying: "A tobacco-free generation policy will protect young people from
+   nicotine or tobacco products," try this approach: “The tobacco industry has launched a smart vape, a
+   device on which you play a game and take more puffs to get to a higher level. These vapes are often
+   filled with shocking levels of nicotine, increasing the odds of addiction. The tobacco-free generation
+   policy cuts off the industry’s power over new customers by making it illegal to sell any products to
+   those born after a certain date. This gradually puts the industry out of business for good."
+
+   Some endgame strategies target the industry more directly than others. As we've covered, there
+   are several categories of endgame strategies and policies. The ‘supply-oriented category' (e.g.
+   regulated market models, price caps, sales bans, sunken cost policies,...) is most promising for
+   effective framing as these directly target the industry rather than users or products.
+
+   According to Dr. Anna Gilmore (IGTC, 2024), this category of policies may also be the most effective
+   in practice, yet they receive less attention worldwide. This is likely because they operate at a more
+   fundamental level and can seem too complex. We need to give these policies more attention and
+   development; consider this an open call to action.
+
+   The above framing ladder addresses a fundamental challenge in advocacy: your policy is not your
+   message. We must talk about what policies will achieve, not just what the policy is called or how it
+   works. When asking people if they support banning tobacco sales to anyone below a certain age,
+   many will agree. However, when framing it as never having the tobacco industry preying on young
+   people again, many more will agree. A popular tagline to promote the generational sales phase-out
+   is ‘At what age do you want your kids to start smoking? If never, join us in ending the industry.’
+
+
+
+
+                                                                                                              22
+By consistently anchoring each policy discussion in how it dismantles industry power, we make
+the endgame concept more coherent and compelling. This approach also makes it harder for the
+tobacco industry to co-opt our terminology. They've already claimed terms like "smoke-free" and
+"harm reduction" that originated from public health. Our new definition of tobacco endgame,
+centered on eliminating industry power, makes it impossible for them to use the term while
+continuing their business model. This framing also helps politicians position themselves
+advantageously: they become champions protecting citizens from corporate harm rather than
+regulators restricting choices.
+
+
+
+
+ DO                                              DON’T
+
+
+ Always begin policy discussions by
+                                                 Focus primarily on how policies affect
+ identifying which aspect of tobacco industry
+                                                 consumer behavior
+ power the policy targets
+
+
+ Use concrete examples of tobacco industry       Get lost in technical policy details before
+ manipulation that the policy will address       establishing the power-dismantling frame
+
+
+ Connect each policy to the larger goal of       Discuss policies in isolation without
+ systematic tobacco industry dismantling         connecting them to the endgame goal
+
+
+                                                 Use language that could be co-opted by
+ Support further development of tobacco
+                                                 industry (like "harm reduction" or
+ industry ending policies
+                                                 "transformation")
+
+
+
+
+                                                                                                  23
+7. Leverage tobacco industry denormalization techniques
+
+   A narrative strategy for keeping the industry’s role central, is doubling down on the story of ‘resisting
+   corporate power’. Nowadays, a broad audience and even certain policy makers are susceptible to
+   the story of an unfair economic system, advancing the few at the cost of the many, of which the
+   tobacco industry is a staggering example. The statistics and numbers mentioned in earlier chapters
+   can most definitely help here, as most people underestimate the scale of the industry (NEON et al,
+   2018).
+
+   The above strategy can be strengthened by the technique of ‘tobacco industry denormalization’. A
+   robust body of evidence suggests that denormalization is an effective tobacco control intervention
+   at the population level (Malone et al, 2011). This technique denormalizes the industry and the way it
+   operates. By exposing concrete manipulations, lies and deceptions of the industry, the
+   denormalization frame is useful in stirring up emotions. There is also evidence for the effective
+   performance of mass media campaigns carrying strong negative messages about the tobacco
+   industry deception (NCI, 2008; IGTC, 2024).
+
+   Governments and jurisdictions are crucial actors in this systemic battle. Tobacco endgame
+   narratives must draw more political attention to the issue. The above techniques offer a way in,
+   because this issue is not merely a matter of individual behaviors or corporate greed, but of
+   institutional failures to protect the public (Malone, 2024).
+
+
+
+     DO                                                  DON’T
+
+
+     Focus on the industry as the culprit and
+     emphasize systemic manipulation by                  Center narratives only on protecting specific
+     leveraging denormalization or ‘resisting            groups or denormalizing smoking behavior
+     corporate power’ frames
+
+
+     Frame tobacco control as addressing                 Present the issue as primarily about
+     institutional failures to protect people            individual behaviors
+
+
+
+
+                                                                                                               24
+8. Avoid ‘radical’, embrace ‘realistic’
+
+   The tobacco endgame is not a radical dream, but a realistic path forward. A full range of policies and
+   strategies are already available, with evidence continuously expanding. This isn't speculative, it's
+   strategic. There are two techniques to make tobacco endgame thinking more realistic in people’s
+   minds: using successful examples of regions already making great progress, or pointing to past
+   examples of successful and comparable systemic change.
+
+   First, have real, concrete and successful examples ready. While regional approaches don’t allow a
+   copy and paste, our brains are wired to appreciate specific, winning stories. Consider below
+   promising regional examples, more can be found on projectsunset.ash.org.
+
+      In 2021, Brookline (Massachusetts, USA) passed a first-of-its-kind law, banning tobacco sales to
+      anyone born on or after January 1, 2000. This policy prevents new generations from ever being
+      sold tobacco, setting legal precedent despite pushback. Over 15 towns in Massachusetts have
+      followed suit.
+      In 2018, Singapore extended a ban to include the purchase, use, and possession of electronic
+      vaporisers, effectively preventing their proliferation before they could gain any popularity.
+      In 2024, The Netherlands banned tobacco sales in supermarkets, cutting off 6,400 retail points.
+      By 2032, only specialty stores will sell tobacco products, demonstrating how a gradual phase-
+      out can dismantle commercial tobacco access.
+
+   Secondly, advocating for unprecedented change such as the tobacco endgame is making people
+   visualize a different future. This is often done more effectively when visualizing what the future could
+   look like instead of focusing on what's wrong now. However, visualizing a future that doesn't exist yet
+   (like tobacco endgame) is hard. The other side of the debate, keeping things the way they are or
+   going back to old ways, is surely easier to visualize.
+
+   Asking people to visualize an unimaginable future can make ideas like tobacco endgame sound
+   unrealistic. However, this type of big change isn’t always as unprecedented as we might initially think.
+   A great way to overcome this hurdle is to point to past examples where society successfully
+   underwent major systemic changes. Use examples that people in your region will recognize.
+   Concrete examples also give politicians precedent to point to when facing opposition. Early wins
+   create political cover for broader action by demonstrating both feasibility and public acceptance.
+
+   Here are some general examples:
+
+      Asbestos: Once used everywhere in buildings, now banned in most places after we learned how
+      deadly it is.
+      Leaded gasoline: Removed from our fuel despite significant industry resistance.
+      Trans fats: These artificial fats were once common in processed foods, from cookies to french
+      fries. After linking them to heart disease, many countries banned or severely restricted their use
+      in food products.
+      CFCs: These chemicals that were destroying the ozone layer were in everything from
+      refrigerators to hairspray. These were banned worldwide.
+      Slavery: Once legally and economically entrenched in many societies, it was abolished through
+      sustained moral, political, and legal action — despite fierce resistance from powerful interests.
+      DDT and other harmful pesticides: These were banned despite strong industry opposition.
+
+
+
+
+                                                                                                              25
+DO                                            DON’T
+
+
+
+Use words such as ‘concrete’, ‘achievable’;   Use words such as ‘radical’, ‘brave’, ‘dream’
+‘logical’, ‘realistic’, ‘the next step’       or ‘wish’ to describe endgame
+
+
+
+                                              Overstress the lack of long term evidence for
+Use concrete examples of jurisdictions
+                                              endgame policies, as this is often a counter
+implementing endgame policies
+                                              technique by the industry
+
+
+                                              Present tobacco endgame as unprecedented
+Use concrete examples from the past
+                                              without historical parallels
+
+
+
+
+                                                                                              26
+9. Always emphasize the already high public support
+
+   One of the most powerful yet underutilized tools in tobacco endgame advocacy is the existing public
+   support for significant action against the tobacco industry. When politicians and policymakers
+   hesitate to embrace endgame policies, they often cite concerns about public backlash. However,
+   the evidence consistently shows that citizens are far ahead of their leaders on this issue—they want
+   bold action to end the tobacco industry.
+
+   Research from multiple countries reveals substantial support for comprehensive tobacco endgame
+   measures:
+
+      Australia: 73% of adults support phasing out cigarette sales by 2030 (Brennan et al, 2023)
+      United States: 76% of adults—including 62.9% of people who smoke—support mandating very
+      low nicotine content (VLNC) in tobacco products” (Kim et al., 2024)
+      Canada: 81% of respondents support a "tobacco endgame strategy" (Heart & Stroke Foundation,
+      2023)
+
+   This support transcends political divides, with majorities across the spectrum favoring strong action.
+   When framed as corporate accountability rather than restricting individual choice, support increases
+   further.
+
+   When communicating about tobacco endgame to policymakers, always lead with evidence of public
+   support before discussing policy specifics. This addresses their primary concern (political feasibility)
+   upfront and creates a more receptive environment for the detailed policy discussion that follows.
+   And remember that politicians respond to vocal constituencies, not silent majorities. Try to couple
+   polling data with guidance on how supporters can make their voices heard through constituent
+   contact, town halls, and organized advocacy.
+
+
+
+     DO                                                 DON’T
+
+
+                                                        Assume policymakers already know about
+     Always emphasize high public support and           public support, they might underestimate it
+     have recent polling data ready                     based on industry lobbying or simply not
+                                                        have tobacco on their radar
+
+
+
+
+                                                                                                              27
+10. Avoid polarization between those who smoke and those
+who don’t
+
+   A critical component of successful tobacco endgame communication is maintaining unity between
+   people who smoke and people who don't. The tobacco industry exploits potential divisions by
+   portraying tobacco control as a conflict between "anti-smokers" and "smokers' rights”. This framing
+   serves industry interests by creating a false narrative of polarization.
+
+   In reality, most people who smoke want to quit. Surveys consistently show that around 60% of
+   tobacco users report wanting to stop smoking (WHO, 2023). The addictive power of nicotine, not
+   lack of willpower or desire, keeps many trapped in a cycle they wish to escape. Many people who
+   smoke express feelings of resentment toward the companies that profit from their addiction.
+
+   Both people who smoke and those who don’t share a common adversary: the tobacco industry.
+   Frame endgame policies as protecting all citizens from an industry that profits from addiction.
+   Emphasize how tobacco companies have manipulated their products to be more addictive, targeted
+   vulnerable populations, and fought against policies that would help people quit. Emphasize how
+   every single person carries a big burden due to the damage done by the tobacco industry, as all
+   costs and risks are carried by society.
+
+   When discussing the harms of tobacco, always distinguish between the products, the tobacco
+   industry, and the people who use tobacco. Focus criticism on corporate executives and
+   shareholders who profit from harm. Ultimately, the most successful tobacco endgame narratives will
+   be those that bring people together, offering support to those struggling with addiction while
+   maintaining a clear focus on the true source of the problem: the tobacco industry itself.
+
+
+
+    DO                                                DON’T
+
+
+    Emphasize the fact that people who smoke          Blame or criminalize people who smoke. Use
+    did not actively choose this addiction: this is   language that stigmatizes people who smoke
+    a shared fight, we all want to hold the           or portrays them as lacking willpower,
+    tobacco industry accountable for harm they        making bad choices, or being complicit with
+    cause.                                            the industry.
+
+
+
+
+                                                                                                         28
+11. Cessation support is imperative to the tobacco endgame
+
+
+   While most countries already have established cessation programs, these support systems must be
+   comprehensive and/or fully funded as part of any tobacco endgame strategy. Endgame policies
+   must never remove access to addictive products without ensuring robust help for those currently
+   dependent on them. This is both ethically necessary and strategically essential.
+
+   As prevalence continues to decline, those who still smoke often face greater barriers to quitting,
+   including higher levels of addiction, mental health challenges, and socioeconomic disadvantages.
+   Research by Hoek et al. (2022) demonstrates that as smoking becomes less common, those who
+   continue face increased stigmatization, which paradoxically may deepen their perceived smoking
+   identity and make successful cessation even more difficult. This is precisely why endgame
+   communications must avoid any language that could add to this stigmatization.
+
+   Cessation support serves several strategic functions in advancing the tobacco endgame:
+
+    1.It counters industry narratives about individual choice
+    2.It maintains coalition strength with healthcare providers and advocates
+    3.It addresses legitimate policy concerns from policymakers
+    4.It creates a successful feedback loop as more people quit
+
+
+
+
+    DO                                                DON’T
+
+
+    Talk about cessation as an essential
+    complement to endgame and frame it as             Allow framing of endgame policies as
+    society’s response to tobacco industry-           abandoning or punishing people who smoke
+    created harm
+
+
+    Emphasize how both cessation and
+                                                      Position cessation support as optional or
+    endgame work together to eliminate the
+                                                      secondary to endgame
+    tobacco industry
+
+
+
+
+                                                                                                        29
+12. Position endgame as the final step, not a tobacco control
+replacement
+
+   A study of six countries pioneering tobacco endgame strategies (Nip et al., 2024) reveals endgame
+   approaches work best in contexts with strong tobacco control infrastructures and low smoking
+   prevalence. This suggests effective endgame narratives must be clear: this is not about discarding
+   existing measures like MPOWER, but taking the next logical step. The key communication challenge
+   is positioning endgame as a natural progression rather than replacement.
+
+   Despite the comprehensive MPOWER framework, challenges remain in reducing tobacco use to
+   near-zero levels. Even in jurisdictions with high implementation scores, smoking prevalence currently
+   remains above the 5% endgame threshold. While these measures create essential foundations, they
+   may not be sufficient to achieve endgame goals alone due to:
+
+    1.Implementation and enforcement challenges plague critical areas such as smoke-free
+      environment regulations, advertising bans, and taxation policies.
+    2.Industry adaptation and interference allows for tobacco companies to consistently find ways to
+      circumvent restrictions, whether through product design, marketing, sponsorships, or
+      promotions.
+    3.Products like e-cigarettes and heated tobacco products create new challenges that traditional
+      control measures weren't designed to address.
+
+   This relationship between conventional tobacco control and endgame policies needs more
+   research, but from a communications perspective: always acknowledge the crucial foundation that
+   the FCTC, MPOWER and similar frameworks have provided. Position endgame strategies as building
+   upon these foundations—the logical next step that becomes possible after conventional tobacco
+   control has reduced prevalence.
+
+   The most effective narratives position the tobacco endgame as the culmination of decades of
+   tobacco control progress, a sophisticated approach that builds on existing efforts while addressing
+   their limitations to achieve the ultimate goal of permanently ending the tobacco industry.
+
+
+
+
+    DO                                                 DON’T
+
+
+    Frame endgame strategies as the natural            Position endgame as a replacement for or
+    next step that’s both possible and necessary       criticism of existing tobacco control
+    after conventional tobacco control has             measures that have produced significant
+    reduced prevalence to a certain level.             public health gains.
+
+
+
+
+                                                                                                           30
+13. Consider using the ‘leapfrog’ frame to increase attraction
+
+
+   While the above recommendation emphasizes endgame as a natural next step, an emerging
+   complementary frame offers an alternative narrative: the concept of ‘leapfrogging’. This suggests
+   some jurisdictions might accelerate progress by adopting certain endgame policies directly,
+   potentially bypassing some intermediate steps in traditional tobacco control.
+
+   Leapfrogging describes how countries can skip developmental stages by adopting advanced
+   solutions directly, as was illustrated by many African countries skipping telephone landlines in favor
+   of mobile phones (Ritchie, 2024). In tobacco control, this suggests some jurisdictions might rapidly
+   advance by implementing certain endgame strategies rather than following a step-by-step
+   incremental approach.
+
+   While promising from a communications standpoint, the leapfrogging approach requires further
+   research. We need more evidence on which endgame policies might work without the full foundation
+   of traditional measures, and in which contexts.
+
+   Successful leapfrogging depends on tailored strategies aligned with local social, cultural, and
+   political landscapes. Use this framing selectively with audiences who might find it appealing,
+   particularly policymakers seeking innovative approaches to seemingly intractable problems. For
+   example, Sub-Saharan Africa might be a potential target for the leapfrogging narrative as the
+   smoking prevalence is currently low but on the rise.
+
+
+
+
+    DO                                                 DON’T
+
+
+    Present leapfrogging as an exciting approach       Position it as a proven strategy without
+    for specific contexts                              sufficient evidence (it is not - yet)
+
+
+    Use the leapfrogging frame to spark new
+    interest where it has stalled for traditional      Suggest it can replace foundational tobacco
+    approaches and/or a way to save time (vs           control work
+    incremental policies year after year)
+
+
+
+
+                                                                                                            31
+14. Leverage different types of voices to put endgame higher
+up the agenda
+
+   Many tobacco control organizations have proven to be excellent collaborative partners for
+   governments worldwide. As they've been invaluable in policy development and research, a strategic
+   question arises: how can the movement position tobacco endgame as mainstream rather than
+   radical? This final recommendation explores how different voices using varying degrees of boldness
+   can push social norms forward.
+
+   Research on social movements demonstrates the "radical flank effect" - more radical factions can
+   increase support for moderate groups and their goals (Simpson et al, 2022). This creates a strategic
+   opportunity: when some voices call for bolder action, other organization’s proposals suddenly
+   appear more moderate and reasonable by comparison.
+
+   The endgame movement will benefit from having a diverse ecosystem of actors using different
+   approaches and levels of boldness. Some organizations may have direct relationships with
+   policymakers that require measured approaches, while others can afford to be more confrontational.
+   This isn't about "established vs. grassroots" - it's about strategic role differentiation within the
+   movement.
+
+   When some advocates call for immediate and complete abolition of the tobacco industry, proposals
+   for phased elimination over a decade appear moderate and reasonable by comparison. This
+   strategic positioning helps normalize endgame thinking across the political spectrum.
+
+   Tobacco endgame advocacy can also include natural allies from other public interest sectors.
+   Environmental groups have proven particularly effective advocates, leading successful campaigns
+   like the Manhattan Beach sales ban (led by Surfriders) and the Santa Cruz County cigarette filter ban
+   (ASH, 2024). Consumer protection organizations, human rights groups, anti-poverty advocates, and
+   healthcare access organizations all have compelling reasons to support tobacco industry
+   elimination.
+
+
+
+     DO                                                DON’T
+
+
+     Allow different actors to play                    Dismiss radical voices as counterproductive
+     complementary roles and welcome tactical          or expect all organizations to use the same
+     approaches within the movement                    approach
+
+
+
+
+                                                                                                           32
+5. Endnote
+    They’ll profit from people until the end,
+    until people make it end.
+    Looking back thirty years, we believed that having smokefree workplaces or
+    not smoking on a plane were totally ludicrous ideas. By now, this has
+    become the social norm and standard. It's time to push this forward. The
+    cigarette century is over. The nicotine and tobacco industry has to be done.
+
+    Anyone reading this report can help spread this new social norm by making
+    it a topic of conversation. Whether you're a policy advisor, professional in
+    the health sector or just a curious reader, you too can play a massive role in
+    advancing this concept. Above all, this report is meant to spark a
+    conversation around tobacco endgame, for the concept to become more
+    normalized.
+
+    To sum up, the tobacco industry has shown remarkable resilience and
+    adaptability over decades. Current tobacco control measures will never be
+    enough. By normalizing the concept of tobacco industry elimination through
+    consistent, compelling messaging, we can build the public and political will
+    necessary for bold action. The tobacco endgame isn't just possible, it's
+    already beginning in jurisdictions worldwide. Join the conversation, share
+    these messages, help make the end of the tobacco industry inevitable and
+    stand on the right side of history.
+
+
+
+
+                     Thank you for reading this report.
+            If you have any questions or would like to
+           discuss findings further, please reach out.
+                                                               Eline Goethals
+                                                             +32496482740
+                                                      hello@elinegoethals.be
+
+
+                                                                                     34
+6. References
+Action on Smoking and Health (ASH UK). (2023). Public support for Government action on tobacco in
+Great Britain: Results of the 2023 ASH Smokefree GB. London: ASH. Retrieved July 13, 2025, from
+https://ash.org.uk/uploads/Public-support-for-Government-action-on-tobacco-in-Great-Britain-
+Results-of-the-2023-ASH-Smokefree-survey.pdf?v=168958451.
+
+Action on Smoking and Health (ASH). (2024, May 17). Santa Cruz County's first-in-the-world cigarette
+filter ban. Retrieved July 13, 2025, from https://ash.org/santa-cruz-countys-first-in-the-world-
+cigarette-filter-ban/.
+
+Baylis, S. (2025). Towards a Tobacco-Free Future: EU Legislation and the Feasibility of a Tobacco
+Endgame for Member States. European Respiratory Society. Retrieved July 13, 2025, from
+https://www.ersnet.org/news-and-features/news/ers-offers-eu-member-states-a-clear-pathway-to-
+introducing-a-generational-sales-ban-on-tobacco/.
+
+Belgian Science Policy Office (BELSPO). (2016). Socioeconomic cost of traffic accidents (DR/65).
+Retrieved July 13, 2025, from https://www.belspo.be/belspo/fedra/DR/DR65_Socost_sum_en.pdf.
+
+Branston, J. R. (2021). Industry profits continue to drive the tobacco epidemic: A new endgame
+approach for tobacco control? Tobacco Prevention and Cessation, 2021(7), 45.
+https://doi.org/10.18332/tpc/138232.
+
+Brennan, E., Ilchenko, E., Scollo, M., Durkin, S. J., & Wakefield, M. A. (2022). Public support for policies
+to phase out the retail sale of cigarettes in Australia: Results from a nationally representative survey.
+Tobacco Control. https://doi.org/10.1136/tobaccocontrol-2021-057122.
+
+Chaiton, M., Diemert, L., Cohen, J. E., Bondy, S. J., Selby, P., Philipneri, A., & Schwartz, R. (2016).
+Estimating the number of quit attempts it takes to quit smoking successfully in a longitudinal cohort
+of smokers. BMJ Open, 6(6), e011045. https://doi.org/10.1136/bmjopen-2016-011045.
+
+CIVICUS. (2024). People power under attack 2024. CIVICUS Monitor. Retrieved July 13, 2025, from
+https://findings2020.monitor.civicus.org/.
+
+DiFranza, J. R., Rigotti, N. A., McNeill, A. D., et al. (2000). Initial symptoms of nicotine dependence in
+adolescents.       Tobacco       Control,     9,     313-319.      Retrieved   July    13,    2025,  from
+https://tobaccocontrol.bmj.com/content/9/3/313.
+
+Expose Tobacco. (2024). Who is Big Tobacco?                        Retrieved    July   13,   2025,    from
+https://exposetobacco.org/news/who-is-big-tobacco/.
+
+Gezondheidsfondsen voor Rookvrij. (2022). Onderzoek: Jongeren klaar met de tabaksindustrie. KWF
+Kankerbestrijding. Retrieved July 13, 2025, from Gezondheidsfondsen voor Rookvrij. (2024).
+Generation Monitor 2024. KWF Kankerbestrijding.
+
+Gezondheidsfondsen voor Rookvrij. (2024). Generation Monitor 2024. KWF Kankerbestrijding.
+
+Institute for Global Tobacco Control Innovations in Tobacco Control Lecture Series. (2024, February
+10). Tobacco industry tactics: Understanding their strategies [Webinar with Dr. Anna Gilmore].
+YouTube. Retrieved July 13, 2025, from https://www.youtube.com/watch?v=enBb-e_gXsU.
+
+                                                                                                               35
+Global Tobacco Index. (2023). Global Tobacco Industry Interference Index 2023. Retrieved July 13,
+2025, from https://globaltobaccoindex.org/report-summary.
+
+Google Scholar. (2025). Mentions of "tobacco endgame" in academic literature. Retrieved July 13,
+2025, from https://scholar.google.com.
+
+Health Policy Watch. (2023). Tobacco Industry's Interference In Government Policy Increases
+Globally. Retrieved July 13, 2025, from https://healthpolicy-watch.news/tobacco-industrys-
+interference-in-government-policy-increases-globally/.
+
+Heart & Stroke Foundation. (2023). A tobacco endgame for Canada. Retrieved July 13, 2025, from
+https://www.heartandstroke.ca/-/media/pdf-files/policy-statements/tobacco-policy-statement.pdf.
+
+Hendlin, Y. H., Le Han, E., & Ling, P. M. (2024). Pharmaceuticalisation as the tobacco industry's
+endgame. BMJ Global Health, 9:e013866. https://gh.bmj.com/content/9/2/e013866.
+
+Hoek, J., Edwards, R., & Waa, A. (2022). From social accessory to societal disapproval: smoking,
+social    norms   and    tobacco    endgames.    Tobacco     Control,   31(2),  358-364.    doi:
+https://pubmed.ncbi.nlm.nih.gov/35241613/.
+
+Kim, H., Gartner, C., Edwards, R., Puljević, C., Morphett, K., Kim, D. H., Chun, H.-R., Ekdahl, M., & Kang, H.
+(2024). Public support for tobacco endgame policies: A systematic review and meta-analysis.
+medRxiv. https://doi.org/10.1101/2024.01.07.24300815.
+
+Malone, R. E. (2013). The race to a tobacco endgame. Tobacco Control, 22(Suppl 1), i2-i4.
+https://doi.org/10.1136/tobaccocontrol-2013-051246.
+
+Malone, R. (2024). Breaking society's addiction and deconstructing norms [Online course module].
+Action    on   Smoking     and     Health     California. Retrieved   July  13,    2025,   from
+https://endtobaccoca.ash.org/endgame-course-modules/.
+
+Malone, R. E., Grundy, Q., & Bero, L. A. (2012). Tobacco industry denormalisation as a tobacco control
+intervention: a review. Tobacco Control, 21(2), 162-70. doi: 10.1136/tobaccocontrol-2011-050200.
+
+McDaniel, P. A., Smith, E. A., & Malone, R. E. (2015). The tobacco endgame: A qualitative review and
+synthesis. Tobacco Control, 25(5), 594-604. https://doi.org/10.1136/tobaccocontrol-2015-052356.
+
+Mirisch, J. (2021, November 15). “You can’t do that, can you? Yes, you can.” Why tobacco sales bans
+are good municipal policy. Retrieved July 13, 2025, from https://ash.org/tobacco-sales-bans-are-
+good-municipal-policy/.
+
+National Cancer Institute. (2008). The role of the media in promoting and reducing tobacco use
+(Tobacco Control Monograph No. 19, NIH Pub. No. 07-6242). U.S. Department of Health and Human
+Services, National Institutes of Health, National Cancer Institute. Retrieved July 13, 2025, from
+https://cancercontrol.cancer.gov/sites/default/files/2020-08/m19_complete.pdf.
+
+NCD Alliance. (2024). Tracking NCD funding flows: Urgent calls and global solutions. Retrieved July
+13, 2025, from https://hpfhub.info/wp-content/uploads/2024/08/Tracking-NCD-Funding-Flows-
+Urgent-Calls-and-Global-Solutions-NCDA-2024.pdf.
+
+New Economy Organisers Network (NEON), New Economics Foundation (NEF), FrameWorks Institute,
+& Public Interest Research Centre (PIRC). (2018). Framing the economy: How to win the case for a
+better system. Retrieved July 13, 2025, from https://neweconomics.org/uploads/files/Framing-the-
+Economy-NEON-NEF-FrameWorks-PIRC.pdf.
+
+                                                                                                                 36
+Nghiem, N., Cleghorn, C. L., Leung, W., Nokes, K., Kvizhinadze, G., Petrović-van der Deen, F. S., ... &
+Wilson, N. (2023). Tobacco endgame intervention impacts on health gains and Māori: non-Māori
+health inequity: a simulation study of the Aotearoa/New Zealand Tobacco Action Plan. Tobacco
+Control, 32(1), 25-34. doi: 10.1136/tc-2022-057655.
+
+Nip, J., et al. (2024). Commercial tobacco endgame goals: early experiences from six countries.
+Nicotine and Tobacco Research, 26(10), 1322-1330. https://pubmed.ncbi.nlm.nih.gov/38547327.
+
+Ritchie, H. (2024, June 6). Many countries are “leapfrogging” landlines and going straight to mobile
+phones. Our World in Data. Retrieved July 13, 2025, from https://ourworldindata.org/data-
+insights/many-countries-are-leapfrogging-landlines-and-going-straight-to-mobile-phones.
+
+Royal College of Physicians. (2024). E-cigarettes and harm reduction: An evidence review. Retrieved
+July 13, 2025, from https://www.rcp.ac.uk.
+
+Salari, N., Rahimi, S., Darvishi, N., Abdolmaleki, A., & Mohammadi, M. (2024). The global prevalence of
+E-cigarettes in youth: A comprehensive systematic review and meta-analysis. Public Health Practice
+(Oxford), 7, 100506. doi: 10.1016/j.puhip.2024.100506.
+
+Simpson, B., Willer, R., & Feinberg, M. (2022). Radical flanks of social movements can increase
+support        for      moderate       factions.      PNAS        Nexus,      1(3),    pgac110.
+https://doi.org/10.1093/pnasnexus/pgac110.
+
+Statista (2025). Tobacco products market value worldwide from 2018 to 2030. Retrieved from
+https://www.statista.com/forecasts/1098876/tobacco-global-market-value/
+
+STOP. (2024). Addiction at any cost: Philip Morris International uncovered. STOP (Stopping Tobacco
+Products and Organizations). Retrieved July 13, 2025, from https://exposetobacco.org
+
+Winickoff, J. P., McMillen, R., Vallone, D. M., & Pearson, J. L. (2022). Public support for FDA regulation
+of      nicotine      levels      in      cigarettes.    Tobacco          Control,     31(1),    103–104.
+https://doi.org/10.1136/tobaccocontrol-2020-056245.
+
+World Health Organization. (2023). WHO report on the global tobacco epidemic, 2023. World Health
+Organization.           Retrieved            July            13,          2025,            from
+https://www.who.int/publications/i/item/9789240077164.
+
+World Health Organization. (2025). WHO report on the global tobacco epidemic, 2025. World Health
+Organization. Retrieved July 13, 2025, from https://www.who.int/publications/i/item/9789240112063.
+
+Xu, X., Shrestha, S. S., Trivers, K. F., Neff, L., Armour, B. S., & King, B. A. (2021). U.S. healthcare
+Spending attributable to cigarette smoking in 2014. Journal of Preventive Medicine, 150, 106529.
+https://doi.org/10.1016/j.ypmed.2021.106529.
+
+
+
+
+                                                                                                             37
+
