@@ -1,0 +1,4131 @@
+{
+  "advertisers": [
+    {
+      "name": "Snusbolaget Norden AB",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snusbolaget')",
+      "creatives": 1110,
+      "hq": "SE",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR08537029193437806593",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR08537029193437806593",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR01326407998335090689",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR01326407998335090689",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10915064761741737985",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR10915064761741737985",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12744501657656623105",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR12744501657656623105",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07965730003981697025",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR07965730003981697025",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10987425245463314433",
+          "url": "https://adstransparency.google.com/advertiser/AR12829679208552726529/creative/CR10987425245463314433",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "British American Tobacco Sweden AB",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 817,
+      "hq": "SE",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR13690155969068138497",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR13690155969068138497",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10013952035738615809",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR10013952035738615809",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR04081182455573250049",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR04081182455573250049",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15231583310279868417",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR15231583310279868417",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08668220172084969473",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR08668220172084969473",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07081389047960043521",
+          "url": "https://adstransparency.google.com/advertiser/AR11219473721351733249/creative/CR07081389047960043521",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Velo Marketing Limited",
+      "category": "nicotine_pouch",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 476,
+      "hq": "GB",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR08471041315902062593",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR08471041315902062593",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05246525555355942913",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR05246525555355942913",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12912347012489281537",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR12912347012489281537",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15481061261671661569",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR15481061261671661569",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02474947012802379777",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR02474947012802379777",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02039830679272816641",
+          "url": "https://adstransparency.google.com/advertiser/AR03717894115719905281/creative/CR02039830679272816641",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "British American Tobacco (Austria) GmbH",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 231,
+      "hq": "AT",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RE",
+        "RO",
+        "SE",
+        "SI",
+        "SK"
+      ],
+      "last_shown": "2026-06-30",
+      "samples": [
+        {
+          "id": "CR06896879666695503873",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR06896879666695503873",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07386619909691670529",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR07386619909691670529",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR11020887095148281857",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR11020887095148281857",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08931566066069405697",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR08931566066069405697",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03060242418344394753",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR03060242418344394753",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14072439669371437057",
+          "url": "https://adstransparency.google.com/advertiser/AR08839866538614849537/creative/CR14072439669371437057",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "British American Tobacco Switzerland SA",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 187,
+      "hq": "CH",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR10336441656613535745",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR10336441656613535745",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06189482807694196737",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR06189482807694196737",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05648681459452477441",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR05648681459452477441",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16102406526752260097",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR16102406526752260097",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12810838149097848833",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR12810838149097848833",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10297891567762931713",
+          "url": "https://adstransparency.google.com/advertiser/AR12536240480179978241/creative/CR10297891567762931713",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "British American Tobacco France",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 143,
+      "hq": "FR",
+      "regions": [
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GF",
+        "GP",
+        "GR",
+        "IE",
+        "IT",
+        "LU",
+        "MQ",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RE",
+        "RO",
+        "SE"
+      ],
+      "last_shown": "2025-12-30",
+      "samples": [
+        {
+          "id": "CR09363469781241430017",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR09363469781241430017",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03920533936920330241",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR03920533936920330241",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17349825936165437441",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR17349825936165437441",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR11935198599249395713",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR11935198599249395713",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05477884817842372609",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR05477884817842372609",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17207435194638794753",
+          "url": "https://adstransparency.google.com/advertiser/AR01180109884541108225/creative/CR17207435194638794753",
+          "last": "2025-12-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Another Snus Factory Stockholm AB",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'another snus factory')",
+      "creatives": 103,
+      "hq": "SE",
+      "regions": [
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "SE"
+      ],
+      "last_shown": "2026-04-30",
+      "samples": [
+        {
+          "id": "CR11556337532614475777",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR11556337532614475777",
+          "last": "2026-04-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02033246597487263745",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR02033246597487263745",
+          "last": "2026-03-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17021525224539029505",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR17021525224539029505",
+          "last": "2026-03-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR11154161742819360769",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR11154161742819360769",
+          "last": "2026-03-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13344943059209551873",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR13344943059209551873",
+          "last": "2026-03-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR01321677856362725377",
+          "url": "https://adstransparency.google.com/advertiser/AR13548870348396560385/creative/CR01321677856362725377",
+          "last": "2026-03-15",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SNUS VIKINGS LTD",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snus vikings')",
+      "creatives": 39,
+      "hq": "GB",
+      "regions": [
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LV",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SK"
+      ],
+      "last_shown": "2026-07-29",
+      "samples": [
+        {
+          "id": "CR02749812069204230145",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR02749812069204230145",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02899349017836126209",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR02899349017836126209",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09640507584288915457",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR09640507584288915457",
+          "last": "2026-06-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17099027643107377153",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR17099027643107377153",
+          "last": "2025-12-11",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07587071788652167169",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR07587071788652167169",
+          "last": "2025-12-11",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03283793782474014721",
+          "url": "https://adstransparency.google.com/advertiser/AR10284969909544812545/creative/CR03283793782474014721",
+          "last": "2025-12-11",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SnusPouch Nord AB",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snuspouch')",
+      "creatives": 33,
+      "hq": "SE",
+      "regions": [
+        "BE",
+        "DE",
+        "DK",
+        "EEA",
+        "ES",
+        "FI",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR16049502588478947329",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR16049502588478947329",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17049394339609837569",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR17049394339609837569",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15079002157548044289",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR15079002157548044289",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06325990474817470465",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR06325990474817470465",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10513700136650014721",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR10513700136650014721",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14670071518067687425",
+          "url": "https://adstransparency.google.com/advertiser/AR11926203692191055873/creative/CR14670071518067687425",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SNUSHUS s.r.o.",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snushus')",
+      "creatives": 30,
+      "hq": "CZ",
+      "regions": [
+        "AT",
+        "CZ",
+        "DE",
+        "EEA",
+        "FR",
+        "HR",
+        "HU",
+        "IT",
+        "LU",
+        "NL",
+        "PL",
+        "RO",
+        "SI",
+        "SK"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR02812101395782565889",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR02812101395782565889",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16691982691838459905",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR16691982691838459905",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05976588219498627073",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR05976588219498627073",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06740306247372767233",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR06740306247372767233",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03319857514756964353",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR03319857514756964353",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15958555659553734657",
+          "url": "https://adstransparency.google.com/advertiser/AR07379167102051024897/creative/CR15958555659553734657",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "British American Tobacco (Czech Republic), s.r.o.",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 25,
+      "hq": "CZ",
+      "regions": [
+        "CZ",
+        "EEA",
+        "SK"
+      ],
+      "last_shown": "2026-06-30",
+      "samples": [
+        {
+          "id": "CR14746896534394109953",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR14746896534394109953",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09230319936730038273",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR09230319936730038273",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13046378991743664129",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR13046378991743664129",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03224316147646070785",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR03224316147646070785",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05697305608844214273",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR05697305608844214273",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09800490451730432001",
+          "url": "https://adstransparency.google.com/advertiser/AR16800798548730839041/creative/CR09800490451730432001",
+          "last": "2026-06-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VapeForLife s.r.o.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Czech e-cigarette and vape retailer",
+      "creatives": 25,
+      "hq": "CZ",
+      "regions": [
+        "CZ",
+        "EEA",
+        "SK"
+      ],
+      "last_shown": "2025-09-30",
+      "samples": [
+        {
+          "id": "CR01742503227380727809",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR01742503227380727809",
+          "last": "2025-09-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06770270834037620737",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06770270834037620737",
+          "last": "2025-09-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08071327341231472641",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR08071327341231472641",
+          "last": "2025-09-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17104510151680851969",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR17104510151680851969",
+          "last": "2025-09-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06705445827487203329",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06705445827487203329",
+          "last": "2025-09-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06552858352563519489",
+          "url": "https://adstransparency.google.com/advertiser/AR00918080612781260801/creative/CR06552858352563519489",
+          "last": "2025-09-29",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vape King Patryk Nazara\u0144ski",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Polish vape shop business",
+      "creatives": 22,
+      "hq": "PL",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR01439717232832675841",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR01439717232832675841",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06078688731814952961",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR06078688731814952961",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00862086256559915009",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR00862086256559915009",
+          "last": "2026-04-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07796766291204767745",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR07796766291204767745",
+          "last": "2026-04-04",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14647906806760734721",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR14647906806760734721",
+          "last": "2026-04-01",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05686734758025887745",
+          "url": "https://adstransparency.google.com/advertiser/AR01127146486740549633/creative/CR05686734758025887745",
+          "last": "2026-03-25",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Global Snus UAB",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'global snus')",
+      "creatives": 21,
+      "hq": "LT",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR06929048825713655809",
+          "url": "https://adstransparency.google.com/advertiser/AR03660012808566734849/creative/CR06929048825713655809",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02859505671383023617",
+          "url": "https://adstransparency.google.com/advertiser/AR03660012808566734849/creative/CR02859505671383023617",
+          "last": "2026-06-08",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07167406110343692289",
+          "url": "https://adstransparency.google.com/advertiser/AR03660012808566734849/creative/CR07167406110343692289",
+          "last": "2026-05-05",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15276251588633559041",
+          "url": "https://adstransparency.google.com/advertiser/AR03660012808566734849/creative/CR15276251588633559041",
+          "last": "2026-05-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10020124212980613121",
+          "url": "https://adstransparency.google.com/advertiser/AR03660012808566734849/creative/CR10020124212980613121",
+          "last": "2026-04-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05413461863180533761",
+          "url": "https://adstransparency.google.com/advertiser/AR03660012808566734849/creative/CR05413461863180533761",
+          "last": "2026-04-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "uVape AB",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Swedish vape products company",
+      "creatives": 21,
+      "hq": "SE",
+      "regions": [
+        "DK",
+        "EEA",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "last_shown": "2025-11-28",
+      "samples": [
+        {
+          "id": "CR05795453754815807489",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR05795453754815807489",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07134622358685351937",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR07134622358685351937",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00953505949715267585",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR00953505949715267585",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16074031224015814657",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR16074031224015814657",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08852588936120238081",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR08852588936120238081",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08096015947120246785",
+          "url": "https://adstransparency.google.com/advertiser/AR07863036889257738241/creative/CR08096015947120246785",
+          "last": "2025-11-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "British American Tobacco (Czech Republic), s.r.o.,",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 16,
+      "hq": "CZ",
+      "regions": [
+        "CZ",
+        "EEA",
+        "HR",
+        "HU",
+        "NL",
+        "SK"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR14216391279322857473",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR14216391279322857473",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR01498039014651854849",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR01498039014651854849",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08549786526207180801",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR08549786526207180801",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR11620946562439446529",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR11620946562439446529",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15110440081204183041",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR15110440081204183041",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09922135367346028545",
+          "url": "https://adstransparency.google.com/advertiser/AR01346911656810119169/creative/CR09922135367346028545",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Athletic Nicotine, LLC",
+      "category": "nicotine_pouch",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'athletic nicotine')",
+      "creatives": 14,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LV",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR15791041532598943745",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR15791041532598943745",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16192230261600026625",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR16192230261600026625",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08963960487532298241",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR08963960487532298241",
+          "last": "2026-07-22",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00480918491839332353",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR00480918491839332353",
+          "last": "2026-07-09",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08982604193239924737",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR08982604193239924737",
+          "last": "2026-07-04",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17566452988380184577",
+          "url": "https://adstransparency.google.com/advertiser/AR11572032932251959297/creative/CR17566452988380184577",
+          "last": "2026-06-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Japan Tobacco Inc.",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "Japan Tobacco",
+      "reason": "registered entity matches known corporate group 'Japan Tobacco'",
+      "creatives": 14,
+      "hq": "JP",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR13474832396478054401",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR13474832396478054401",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05181453682675286017",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR05181453682675286017",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR04799992382709825537",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR04799992382709825537",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13944328946779684865",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR13944328946779684865",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12046061703843020801",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR12046061703843020801",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06017437318443433985",
+          "url": "https://adstransparency.google.com/advertiser/AR06030092216242798593/creative/CR06017437318443433985",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Snushus i Norden AB",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snushus')",
+      "creatives": 13,
+      "hq": "SE",
+      "regions": [
+        "EEA",
+        "FI",
+        "NO",
+        "SE"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR09611330119100530689",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR09611330119100530689",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16312448870116229121",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR16312448870116229121",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR11900950246563250177",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR11900950246563250177",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15287618271122030593",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR15287618271122030593",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02028776876561924097",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR02028776876561924097",
+          "last": "2026-07-19",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16545899790265745409",
+          "url": "https://adstransparency.google.com/advertiser/AR07284049725521657857/creative/CR16545899790265745409",
+          "last": "2026-07-19",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "BRITISH AMERICAN TOBACCO MEXICO COMERCIAL",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 12,
+      "hq": "MX",
+      "regions": [
+        "EEA",
+        "ES",
+        "IT",
+        "PT"
+      ],
+      "last_shown": "2026-05-07",
+      "samples": [
+        {
+          "id": "CR09501901198576320513",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR09501901198576320513",
+          "last": "2026-05-07",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15391690319456108545",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR15391690319456108545",
+          "last": "2026-05-07",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03362017162842603521",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR03362017162842603521",
+          "last": "2026-05-02",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13856078810639761409",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR13856078810639761409",
+          "last": "2026-01-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15816987979789893633",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR15816987979789893633",
+          "last": "2026-01-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16066093334178824193",
+          "url": "https://adstransparency.google.com/advertiser/AR04570535988304019457/creative/CR16066093334178824193",
+          "last": "2026-01-15",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Skruf Snus AB",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 12,
+      "hq": "SE",
+      "regions": [
+        "DE",
+        "DK",
+        "EEA",
+        "ES",
+        "FI",
+        "GR",
+        "HR",
+        "IT",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR12030441792550731777",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR12030441792550731777",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08715792466806046721",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR08715792466806046721",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09285638557156769793",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR09285638557156769793",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13316782573557383169",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR13316782573557383169",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03278946198915907585",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR03278946198915907585",
+          "last": "2026-07-26",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10070007887301705729",
+          "url": "https://adstransparency.google.com/advertiser/AR14905645122724036609/creative/CR10070007887301705729",
+          "last": "2026-07-13",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vapeks d.o.o.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Serbian vape retail company",
+      "creatives": 11,
+      "hq": "RS",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GF",
+        "GP",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MQ",
+        "MT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-28",
+      "samples": [
+        {
+          "id": "CR14356985178331545601",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR14356985178331545601",
+          "last": "2026-07-28",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR05133613141476769793",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR05133613141476769793",
+          "last": "2026-07-28",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR10164978350179745793",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR10164978350179745793",
+          "last": "2026-07-28",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR11241338661121294337",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR11241338661121294337",
+          "last": "2026-07-28",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR11145355694062960641",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR11145355694062960641",
+          "last": "2026-06-22",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR04639061607396147201",
+          "url": "https://adstransparency.google.com/advertiser/AR03745378556339814401/creative/CR04639061607396147201",
+          "last": "2026-06-22",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SNUS FUSION SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snus fusion')",
+      "creatives": 9,
+      "hq": "PL",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-02-24",
+      "samples": [
+        {
+          "id": "CR14882779120567058433",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR14882779120567058433",
+          "last": "2026-02-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14286685488638066689",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR14286685488638066689",
+          "last": "2026-02-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR01937533835411456001",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR01937533835411456001",
+          "last": "2026-02-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR04430600035335405569",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR04430600035335405569",
+          "last": "2026-02-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16794435666350964737",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR16794435666350964737",
+          "last": "2026-02-17",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03180335467786665985",
+          "url": "https://adstransparency.google.com/advertiser/AR17488222280797388801/creative/CR03180335467786665985",
+          "last": "2026-02-17",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vapezone.cz s.r.o.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Czech online vape store",
+      "creatives": 9,
+      "hq": "CZ",
+      "regions": [
+        "AT",
+        "BG",
+        "CZ",
+        "DE",
+        "EEA",
+        "ES",
+        "GR",
+        "IT",
+        "PL",
+        "SK"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR11987305958528253953",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR11987305958528253953",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07334312087109238785",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR07334312087109238785",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10463091171201646593",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR10463091171201646593",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12376909081967853569",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR12376909081967853569",
+          "last": "2026-01-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15537763119265742849",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR15537763119265742849",
+          "last": "2025-12-14",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10335126984304099329",
+          "url": "https://adstransparency.google.com/advertiser/AR12603152291080437761/creative/CR10335126984304099329",
+          "last": "2025-11-25",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "slavic snus s.r.o",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'slavic snus')",
+      "creatives": 8,
+      "hq": "CZ",
+      "regions": [
+        "AT",
+        "BG",
+        "CY",
+        "DE",
+        "EEA",
+        "ES",
+        "GR",
+        "IT",
+        "NL",
+        "RO"
+      ],
+      "last_shown": "2026-01-21",
+      "samples": [
+        {
+          "id": "CR10665301280924106753",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR10665301280924106753",
+          "last": "2026-01-21",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR17674764324054237185",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR17674764324054237185",
+          "last": "2026-01-19",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR06421362319569190913",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR06421362319569190913",
+          "last": "2026-01-18",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR01045162750835163137",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR01045162750835163137",
+          "last": "2025-12-22",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR01232814201324437505",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR01232814201324437505",
+          "last": "2025-12-22",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR13449125058706407425",
+          "url": "https://adstransparency.google.com/advertiser/AR01203376701636083713/creative/CR13449125058706407425",
+          "last": "2025-12-22",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "IMPERIAL TOBACCO COMPANY LIMITED",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "Imperial Brands",
+      "reason": "registered entity matches known corporate group 'Imperial Brands'",
+      "creatives": 7,
+      "hq": "CA",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "FI",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LV",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR08551241729846542337",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR08551241729846542337",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06348820983364714497",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR06348820983364714497",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03799625264598614017",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR03799625264598614017",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09929343215821914113",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR09929343215821914113",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07682017761626685441",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR07682017761626685441",
+          "last": "2026-07-25",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16465989767650082817",
+          "url": "https://adstransparency.google.com/advertiser/AR04035117273466273793/creative/CR16465989767650082817",
+          "last": "2026-07-15",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Royal nicotine Lidk\u00f6ping AB",
+      "category": "nicotine_pouch",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'royal nicotine')",
+      "creatives": 7,
+      "hq": "SE",
+      "regions": [
+        "DK",
+        "EEA",
+        "SE"
+      ],
+      "last_shown": "2026-07-29",
+      "samples": [
+        {
+          "id": "CR03386285059504865281",
+          "url": "https://adstransparency.google.com/advertiser/AR18341410387322208257/creative/CR03386285059504865281",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15072988516138876929",
+          "url": "https://adstransparency.google.com/advertiser/AR16817276439870046209/creative/CR15072988516138876929",
+          "last": "2026-07-27",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR12766139453785767937",
+          "url": "https://adstransparency.google.com/advertiser/AR08815083589474451457/creative/CR12766139453785767937",
+          "last": "2026-07-14",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR12222066053429067777",
+          "url": "https://adstransparency.google.com/advertiser/AR18341410387322208257/creative/CR12222066053429067777",
+          "last": "2026-06-19",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16563898933051392001",
+          "url": "https://adstransparency.google.com/advertiser/AR18341410387322208257/creative/CR16563898933051392001",
+          "last": "2026-06-14",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR18429374341201264641",
+          "url": "https://adstransparency.google.com/advertiser/AR18341410387322208257/creative/CR18429374341201264641",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "2MLS VAPE SHOP LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape shop retailer",
+      "creatives": 6,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "IT"
+      ],
+      "last_shown": "2026-07-29",
+      "samples": [
+        {
+          "id": "CR08515334042315390977",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR08515334042315390977",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10842569149759094785",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR10842569149759094785",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12785872388969463809",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR12785872388969463809",
+          "last": "2026-07-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10559717584490463233",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR10559717584490463233",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13193659261479026689",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR13193659261479026689",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05289943070513561601",
+          "url": "https://adstransparency.google.com/advertiser/AR07410670103051632641/creative/CR05289943070513561601",
+          "last": "2026-07-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "BNR VAPES, LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape products seller",
+      "creatives": 6,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "SK"
+      ],
+      "last_shown": "2026-06-12",
+      "samples": [
+        {
+          "id": "CR04292777421024788481",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR04292777421024788481",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09667550897407787009",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR09667550897407787009",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09021820912554475521",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR09021820912554475521",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03500706836561002497",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR03500706836561002497",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10655800744545878017",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR10655800744545878017",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05986421151985827841",
+          "url": "https://adstransparency.google.com/advertiser/AR05323791673413599233/creative/CR05986421151985827841",
+          "last": "2026-06-11",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "MASNUSQVTA",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'masnusqvta')",
+      "creatives": 6,
+      "hq": "AU",
+      "regions": [
+        "DE",
+        "EEA",
+        "ES",
+        "IT"
+      ],
+      "last_shown": "2026-04-03",
+      "samples": [
+        {
+          "id": "CR10120773232509321217",
+          "url": "https://adstransparency.google.com/advertiser/AR14346026131189137409/creative/CR10120773232509321217",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13608705590791503873",
+          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR13608705590791503873",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13594068892002549761",
+          "url": "https://adstransparency.google.com/advertiser/AR03087027062762897409/creative/CR13594068892002549761",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR18384878548734181377",
+          "url": "https://adstransparency.google.com/advertiser/AR14346026131189137409/creative/CR18384878548734181377",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12023438521957089281",
+          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR12023438521957089281",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07425368855528079361",
+          "url": "https://adstransparency.google.com/advertiser/AR17588617862895894529/creative/CR07425368855528079361",
+          "last": "2026-04-03",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "RE-VAPE \u039c\u039f\u039d\u039f\u03a0\u03a1\u039f\u03a3\u03a9\u03a0\u0397 \u0399.\u039a.\u0395.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Greek vape products company",
+      "creatives": 6,
+      "hq": "GR",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-03-15",
+      "samples": [
+        {
+          "id": "CR03749847169163591681",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR03749847169163591681",
+          "last": "2026-03-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10597656164487397377",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR10597656164487397377",
+          "last": "2026-03-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR12280579657077620737",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR12280579657077620737",
+          "last": "2026-03-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06562289748558217217",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR06562289748558217217",
+          "last": "2026-03-10",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR16809949225663070209",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR16809949225663070209",
+          "last": "2026-03-10",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR01195791196685860865",
+          "url": "https://adstransparency.google.com/advertiser/AR17141314542484062209/creative/CR01195791196685860865",
+          "last": "2026-03-05",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Juicysnus",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'juicysnus')",
+      "creatives": 5,
+      "hq": "IE",
+      "regions": [
+        "EEA",
+        "IE"
+      ],
+      "last_shown": "2025-12-03",
+      "samples": [
+        {
+          "id": "CR03217711140779851777",
+          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR03217711140779851777",
+          "last": "2025-12-03",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR05045117058329608193",
+          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR05045117058329608193",
+          "last": "2025-12-03",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR12812150759822983169",
+          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR12812150759822983169",
+          "last": "2025-12-03",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR09949729741948846081",
+          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR09949729741948846081",
+          "last": "2025-12-02",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR00443493770319626241",
+          "url": "https://adstransparency.google.com/advertiser/AR17337905546493165569/creative/CR00443493770319626241",
+          "last": "2025-12-02",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Fivape",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: French vape wholesale retailer",
+      "creatives": 4,
+      "hq": "FR",
+      "regions": [
+        "EEA",
+        "FR"
+      ],
+      "last_shown": "2025-12-15",
+      "samples": [
+        {
+          "id": "CR18051385513704685569",
+          "url": "https://adstransparency.google.com/advertiser/AR10164831324859269121/creative/CR18051385513704685569",
+          "last": "2025-12-15",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02319749065346121729",
+          "url": "https://adstransparency.google.com/advertiser/AR10164831324859269121/creative/CR02319749065346121729",
+          "last": "2025-12-06",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08019184960789282817",
+          "url": "https://adstransparency.google.com/advertiser/AR10164831324859269121/creative/CR08019184960789282817",
+          "last": "2025-11-13",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03849454238216224769",
+          "url": "https://adstransparency.google.com/advertiser/AR10164831324859269121/creative/CR03849454238216224769",
+          "last": "2025-10-29",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "JOVAPE SEVICIOS S.L.U",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Spanish vape services company",
+      "creatives": 4,
+      "hq": "ES",
+      "regions": [
+        "EEA",
+        "ES"
+      ],
+      "last_shown": "2026-04-09",
+      "samples": [
+        {
+          "id": "CR06717930567272235009",
+          "url": "https://adstransparency.google.com/advertiser/AR06937921678391377921/creative/CR06717930567272235009",
+          "last": "2026-04-09",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR14207934067810238465",
+          "url": "https://adstransparency.google.com/advertiser/AR06937921678391377921/creative/CR14207934067810238465",
+          "last": "2026-04-08",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR17527459177868296193",
+          "url": "https://adstransparency.google.com/advertiser/AR06937921678391377921/creative/CR17527459177868296193",
+          "last": "2026-02-20",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02253360579030810625",
+          "url": "https://adstransparency.google.com/advertiser/AR06937921678391377921/creative/CR02253360579030810625",
+          "last": "2026-01-31",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "KODO VAPES LTD",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK vape products company",
+      "creatives": 4,
+      "hq": "GB",
+      "regions": [
+        "EEA",
+        "SE"
+      ],
+      "last_shown": "2026-01-18",
+      "samples": [
+        {
+          "id": "CR01831824313615908865",
+          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR01831824313615908865",
+          "last": "2026-01-18",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR03177274702292844545",
+          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR03177274702292844545",
+          "last": "2026-01-18",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09709183011840327681",
+          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR09709183011840327681",
+          "last": "2026-01-18",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR05881123328575406081",
+          "url": "https://adstransparency.google.com/advertiser/AR11348444347935752193/creative/CR05881123328575406081",
+          "last": "2026-01-18",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VAPE VALLEY INC.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape retail company",
+      "creatives": 4,
+      "hq": "US",
+      "regions": [
+        "CZ",
+        "EEA",
+        "HR",
+        "PT"
+      ],
+      "last_shown": "2026-01-27",
+      "samples": [
+        {
+          "id": "CR04295105293299220481",
+          "url": "https://adstransparency.google.com/advertiser/AR14579158055527645185/creative/CR04295105293299220481",
+          "last": "2026-01-27",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13696318937900253185",
+          "url": "https://adstransparency.google.com/advertiser/AR14579158055527645185/creative/CR13696318937900253185",
+          "last": "2026-01-25",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR09352538823185137665",
+          "url": "https://adstransparency.google.com/advertiser/AR14579158055527645185/creative/CR09352538823185137665",
+          "last": "2026-01-17",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR02761286022795886593",
+          "url": "https://adstransparency.google.com/advertiser/AR14579158055527645185/creative/CR02761286022795886593",
+          "last": "2026-01-11",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Snus Fusion Sp z .o.o.",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snus fusion')",
+      "creatives": 3,
+      "hq": "PL",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IS",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TR"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR02930821687777689601",
+          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR02930821687777689601",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13504166267195490305",
+          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR13504166267195490305",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR10560422989919158273",
+          "url": "https://adstransparency.google.com/advertiser/AR14548221964440305665/creative/CR10560422989919158273",
+          "last": "2026-07-10",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "THE SNUS LIFE LIMITED",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'the snus life')",
+      "creatives": 3,
+      "hq": "GB",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "EE",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HU",
+        "IE",
+        "IT",
+        "LT",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RO",
+        "SE"
+      ],
+      "last_shown": "2026-06-12",
+      "samples": [
+        {
+          "id": "CR13682815629441105921",
+          "url": "https://adstransparency.google.com/advertiser/AR11650645668585799681/creative/CR13682815629441105921",
+          "last": "2026-06-12",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13933226035412729857",
+          "url": "https://adstransparency.google.com/advertiser/AR11650645668585799681/creative/CR13933226035412729857",
+          "last": "2026-05-21",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR08952252913489543169",
+          "url": "https://adstransparency.google.com/advertiser/AR11650645668585799681/creative/CR08952252913489543169",
+          "last": "2025-11-25",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VAPE & TECH (NE) LTD",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK vape and tech retailer",
+      "creatives": 3,
+      "hq": "GB",
+      "regions": [
+        "DE",
+        "EEA"
+      ],
+      "last_shown": "2026-02-24",
+      "samples": [
+        {
+          "id": "CR15160431645103751169",
+          "url": "https://adstransparency.google.com/advertiser/AR08833427472105078785/creative/CR15160431645103751169",
+          "last": "2026-02-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00575445087027200001",
+          "url": "https://adstransparency.google.com/advertiser/AR08833427472105078785/creative/CR00575445087027200001",
+          "last": "2026-02-23",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR04587589405060890625",
+          "url": "https://adstransparency.google.com/advertiser/AR08833427472105078785/creative/CR04587589405060890625",
+          "last": "2026-02-22",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "FINE CIGARS & VAPE",
+      "category": "mixed_nicotine",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Cigar and vape shop",
+      "creatives": 2,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "ES",
+        "RO"
+      ],
+      "last_shown": "2026-05-27",
+      "samples": [
+        {
+          "id": "CR01208755332130537473",
+          "url": "https://adstransparency.google.com/advertiser/AR05719864417760313345/creative/CR01208755332130537473",
+          "last": "2026-05-27",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR13371727231181651969",
+          "url": "https://adstransparency.google.com/advertiser/AR05719864417760313345/creative/CR13371727231181651969",
+          "last": "2026-05-22",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "HIGH SUPPLY SMOKE AND VAPE",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Smoke and vape retailer",
+      "creatives": 2,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "HR",
+        "SI",
+        "SK"
+      ],
+      "last_shown": "2026-07-10",
+      "samples": [
+        {
+          "id": "CR00498654713906987009",
+          "url": "https://adstransparency.google.com/advertiser/AR15970234465905541121/creative/CR00498654713906987009",
+          "last": "2026-07-10",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR07604465212200058881",
+          "url": "https://adstransparency.google.com/advertiser/AR15970234465905541121/creative/CR07604465212200058881",
+          "last": "2026-07-03",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "HYDRO VAPE AND SMOKE 2",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape and smoke shop",
+      "creatives": 2,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "ES"
+      ],
+      "last_shown": "2026-05-29",
+      "samples": [
+        {
+          "id": "CR07181360218570227713",
+          "url": "https://adstransparency.google.com/advertiser/AR08270693186171568129/creative/CR07181360218570227713",
+          "last": "2026-05-29",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR15339198835482165249",
+          "url": "https://adstransparency.google.com/advertiser/AR08270693186171568129/creative/CR15339198835482165249",
+          "last": "2026-05-15",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Oskar Wojnarski OK.KingVape",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Polish vape seller",
+      "creatives": 2,
+      "hq": "PL",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-05-24",
+      "samples": [
+        {
+          "id": "CR08342220197129617409",
+          "url": "https://adstransparency.google.com/advertiser/AR13401922337331216385/creative/CR08342220197129617409",
+          "last": "2026-05-24",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR06952020003029778433",
+          "url": "https://adstransparency.google.com/advertiser/AR13401922337331216385/creative/CR06952020003029778433",
+          "last": "2025-10-10",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SnusBros",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snusbros')",
+      "creatives": 2,
+      "hq": "DE",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "EEA",
+        "ES",
+        "IT",
+        "LU",
+        "NO",
+        "PL",
+        "PT"
+      ],
+      "last_shown": "2025-12-10",
+      "samples": [
+        {
+          "id": "CR05713265810395365377",
+          "url": "https://adstransparency.google.com/advertiser/AR16817954469177196545/creative/CR05713265810395365377",
+          "last": "2025-12-10",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR10698168406487597057",
+          "url": "https://adstransparency.google.com/advertiser/AR16817954469177196545/creative/CR10698168406487597057",
+          "last": "2025-12-10",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SnusFrei",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snusfrei')",
+      "creatives": 2,
+      "hq": "DE",
+      "regions": [
+        "AT",
+        "DE",
+        "EEA"
+      ],
+      "last_shown": "2026-03-26",
+      "samples": [
+        {
+          "id": "CR12061034672801447937",
+          "url": "https://adstransparency.google.com/advertiser/AR12674828242914377729/creative/CR12061034672801447937",
+          "last": "2026-03-26",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR08983369685261090817",
+          "url": "https://adstransparency.google.com/advertiser/AR12674828242914377729/creative/CR08983369685261090817",
+          "last": "2026-03-24",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SnusLab",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snuslab')",
+      "creatives": 2,
+      "hq": "DE",
+      "regions": [
+        "BE",
+        "DE",
+        "EEA",
+        "FR",
+        "GR",
+        "PL",
+        "RO"
+      ],
+      "last_shown": "2026-04-02",
+      "samples": [
+        {
+          "id": "CR01638511615194169345",
+          "url": "https://adstransparency.google.com/advertiser/AR01223138662208765953/creative/CR01638511615194169345",
+          "last": "2026-04-02",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR18327492837857296385",
+          "url": "https://adstransparency.google.com/advertiser/AR01223138662208765953/creative/CR18327492837857296385",
+          "last": "2026-04-02",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Snusau",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snusau')",
+      "creatives": 2,
+      "hq": "AU",
+      "regions": [
+        "DK",
+        "EEA",
+        "FI",
+        "FR",
+        "NL",
+        "SE"
+      ],
+      "last_shown": "2026-07-09",
+      "samples": [
+        {
+          "id": "CR06155637365890088961",
+          "url": "https://adstransparency.google.com/advertiser/AR11610926223349252097/creative/CR06155637365890088961",
+          "last": "2026-07-09",
+          "verified": "UNVERIFIED"
+        },
+        {
+          "id": "CR11854983651135586305",
+          "url": "https://adstransparency.google.com/advertiser/AR11610926223349252097/creative/CR11854983651135586305",
+          "last": "2026-07-05",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Zanzibar Vape Store",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Tanzanian vape retail store",
+      "creatives": 2,
+      "hq": "TZ",
+      "regions": [
+        "DE",
+        "EEA",
+        "ES",
+        "FR",
+        "IT",
+        "PL",
+        "RO"
+      ],
+      "last_shown": "2026-07-07",
+      "samples": [
+        {
+          "id": "CR11501725451487805441",
+          "url": "https://adstransparency.google.com/advertiser/AR00231350011126874113/creative/CR11501725451487805441",
+          "last": "2026-07-07",
+          "verified": "VERIFIED"
+        },
+        {
+          "id": "CR00608274442648289281",
+          "url": "https://adstransparency.google.com/advertiser/AR00231350011126874113/creative/CR00608274442648289281",
+          "last": "2026-07-07",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "1111 Smoke & Vape LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Smoke and vape shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR13968001320456552449",
+          "url": "https://adstransparency.google.com/advertiser/AR07739438373407817729/creative/CR13968001320456552449",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "A2Z SMOKE & VAPE LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Smoke and vape retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "HR"
+      ],
+      "last_shown": "2026-07-14",
+      "samples": [
+        {
+          "id": "CR15797039600456695809",
+          "url": "https://adstransparency.google.com/advertiser/AR12807566440580251649/creative/CR15797039600456695809",
+          "last": "2026-07-14",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "AI VAPE STUDIOS LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape brand or studio",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-25",
+      "samples": [
+        {
+          "id": "CR02211301647928262657",
+          "url": "https://adstransparency.google.com/advertiser/AR11695920946077499393/creative/CR02211301647928262657",
+          "last": "2026-03-25",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "ASVAPE\uff08Eneo Salaj\uff09",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape devices brand seller",
+      "creatives": 1,
+      "hq": "AL",
+      "regions": [
+        "EEA",
+        "ES"
+      ],
+      "last_shown": "2026-06-14",
+      "samples": [
+        {
+          "id": "CR06331188416037781505",
+          "url": "https://adstransparency.google.com/advertiser/AR14164133441569816577/creative/CR06331188416037781505",
+          "last": "2026-06-14",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Alpha Vapex",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Trinidad vape products seller",
+      "creatives": 1,
+      "hq": "TT",
+      "regions": [
+        "EEA",
+        "FR",
+        "MQ"
+      ],
+      "last_shown": "2026-03-13",
+      "samples": [
+        {
+          "id": "CR12176596102249709569",
+          "url": "https://adstransparency.google.com/advertiser/AR17163352062629511169/creative/CR12176596102249709569",
+          "last": "2026-03-13",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Another Snus Factory",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'another snus factory')",
+      "creatives": 1,
+      "hq": "",
+      "regions": [
+        "EEA",
+        "SE"
+      ],
+      "last_shown": "2025-07-31",
+      "samples": [
+        {
+          "id": "CR07295437410400206849",
+          "url": "https://adstransparency.google.com/advertiser/AR05385717654348627969/creative/CR07295437410400206849",
+          "last": "2025-07-31",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "B'ville Vape LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape retail company",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "BE",
+        "CZ",
+        "DE",
+        "EEA",
+        "FR",
+        "IT",
+        "NL",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-26",
+      "samples": [
+        {
+          "id": "CR11349124533316485121",
+          "url": "https://adstransparency.google.com/advertiser/AR03823699166178050049/creative/CR11349124533316485121",
+          "last": "2026-03-26",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "BAKE & VAPE LTD",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK bake and vape retailer",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "EEA",
+        "NL",
+        "SE"
+      ],
+      "last_shown": "2026-07-21",
+      "samples": [
+        {
+          "id": "CR01075131271690059777",
+          "url": "https://adstransparency.google.com/advertiser/AR00849737985065746433/creative/CR01075131271690059777",
+          "last": "2026-07-21",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "BRITISH AMERICAN TOBACCO POLSKA TRADING SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "British American Tobacco",
+      "reason": "registered entity matches known corporate group 'British American Tobacco'",
+      "creatives": 1,
+      "hq": "PL",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-04-16",
+      "samples": [
+        {
+          "id": "CR12989901271312891905",
+          "url": "https://adstransparency.google.com/advertiser/AR17452488290333622273/creative/CR12989901271312891905",
+          "last": "2026-04-16",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "CALIFORNIA VAPE PRZEMYS\u0141AW SZEWCZYK",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Polish vape products business",
+      "creatives": 1,
+      "hq": "PL",
+      "regions": [
+        "EEA",
+        "RO"
+      ],
+      "last_shown": "2026-02-16",
+      "samples": [
+        {
+          "id": "CR09403981398835986433",
+          "url": "https://adstransparency.google.com/advertiser/AR11483958331425423361/creative/CR09403981398835986433",
+          "last": "2026-02-16",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "CANNABASEVAPE LTD",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK cannabis vape products firm",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "EEA",
+        "FR"
+      ],
+      "last_shown": "2026-03-01",
+      "samples": [
+        {
+          "id": "CR01724830562239119361",
+          "url": "https://adstransparency.google.com/advertiser/AR00514279530051928065/creative/CR01724830562239119361",
+          "last": "2026-03-01",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "CLOUD CHASER VAPE & TOBACCO INC",
+      "category": "mixed_nicotine",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape and tobacco retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-05-10",
+      "samples": [
+        {
+          "id": "CR00250957627754807297",
+          "url": "https://adstransparency.google.com/advertiser/AR10459434358736420865/creative/CR00250957627754807297",
+          "last": "2026-05-10",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Chillax CBD & Vapes",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK CBD and vape shop",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "BG",
+        "CY",
+        "EEA",
+        "ES",
+        "FR",
+        "GR",
+        "HU",
+        "IT",
+        "LT",
+        "LV",
+        "MT",
+        "PL",
+        "PT",
+        "RO",
+        "SI",
+        "SK"
+      ],
+      "last_shown": "2025-11-09",
+      "samples": [
+        {
+          "id": "CR01695088334621114369",
+          "url": "https://adstransparency.google.com/advertiser/AR15522210372672028673/creative/CR01695088334621114369",
+          "last": "2025-11-09",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "DAB CITY TOBACCO & VAPE LLC",
+      "category": "mixed_nicotine",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US tobacco and vape retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "IT"
+      ],
+      "last_shown": "2026-06-17",
+      "samples": [
+        {
+          "id": "CR01617866841273663489",
+          "url": "https://adstransparency.google.com/advertiser/AR08678238097403543553/creative/CR01617866841273663489",
+          "last": "2026-06-17",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "DANIEL MARTEN VAPENIK",
+      "category": "unknown",
+      "confidence": "quarantine",
+      "parent": null,
+      "reason": "model verification: Czech sole trader personal name",
+      "creatives": 1,
+      "hq": "CZ",
+      "regions": [
+        "CZ",
+        "EEA"
+      ],
+      "last_shown": "2026-01-10",
+      "samples": [
+        {
+          "id": "CR05916595222954901505",
+          "url": "https://adstransparency.google.com/advertiser/AR06894940643580182529/creative/CR05916595222954901505",
+          "last": "2026-01-10",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "DILLARD VAPE AND LOTTO SHOP LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape and lottery shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "BE",
+        "CZ",
+        "DE",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-04-05",
+      "samples": [
+        {
+          "id": "CR02475487354047954945",
+          "url": "https://adstransparency.google.com/advertiser/AR11156755628188237825/creative/CR02475487354047954945",
+          "last": "2026-04-05",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "EVAPEMIUM Klaudia K\u0142osi\u0144ska",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Polish premium vape business",
+      "creatives": 1,
+      "hq": "PL",
+      "regions": [
+        "DE",
+        "EEA",
+        "NL",
+        "PL"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR12217718034697027585",
+          "url": "https://adstransparency.google.com/advertiser/AR00899156222370906113/creative/CR12217718034697027585",
+          "last": "2026-07-30",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "FLAME N VAPE LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape retail company",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-26",
+      "samples": [
+        {
+          "id": "CR04720617530199113729",
+          "url": "https://adstransparency.google.com/advertiser/AR05431055423614484481/creative/CR04720617530199113729",
+          "last": "2026-03-26",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "G&N SMOKERS & VAPE INC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US smokers and vape retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "CZ",
+        "DE",
+        "EEA",
+        "FR",
+        "IT",
+        "NL",
+        "PL"
+      ],
+      "last_shown": "2026-03-22",
+      "samples": [
+        {
+          "id": "CR02048138520412815361",
+          "url": "https://adstransparency.google.com/advertiser/AR08894363119480995841/creative/CR02048138520412815361",
+          "last": "2026-03-22",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "HOLD IT VAPE SHOP LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US retail vape shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "PT"
+      ],
+      "last_shown": "2026-06-25",
+      "samples": [
+        {
+          "id": "CR01888212561287970817",
+          "url": "https://adstransparency.google.com/advertiser/AR12993973793662697473/creative/CR01888212561287970817",
+          "last": "2026-06-25",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "IMPERIAL TOBACCO HOLDINGS (2007) LIMITED",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "Imperial Brands",
+      "reason": "registered entity matches known corporate group 'Imperial Brands'",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "EEA",
+        "SK"
+      ],
+      "last_shown": "2026-06-14",
+      "samples": [
+        {
+          "id": "CR02814451052131123201",
+          "url": "https://adstransparency.google.com/advertiser/AR10708675227933474817/creative/CR02814451052131123201",
+          "last": "2026-06-14",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "JET SNUS",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'jet snus')",
+      "creatives": 1,
+      "hq": "EE",
+      "regions": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "HR",
+        "HU",
+        "IT",
+        "LT",
+        "LU",
+        "NL",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK"
+      ],
+      "last_shown": "2025-08-30",
+      "samples": [
+        {
+          "id": "CR05789901908290306049",
+          "url": "https://adstransparency.google.com/advertiser/AR12739800558253113345/creative/CR05789901908290306049",
+          "last": "2025-08-30",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Japan Tobacco International U.S.A., Inc.",
+      "category": "mixed_nicotine",
+      "confidence": "verified",
+      "parent": "Japan Tobacco",
+      "reason": "registered entity matches known corporate group 'Japan Tobacco'",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "SI"
+      ],
+      "last_shown": "2026-02-12",
+      "samples": [
+        {
+          "id": "CR09425063434786963457",
+          "url": "https://adstransparency.google.com/advertiser/AR14481503006161371137/creative/CR09425063434786963457",
+          "last": "2026-02-12",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Justvape",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Italian vape retailer",
+      "creatives": 1,
+      "hq": "IT",
+      "regions": [
+        "EEA",
+        "IT"
+      ],
+      "last_shown": "2025-10-05",
+      "samples": [
+        {
+          "id": "CR01545474488894750721",
+          "url": "https://adstransparency.google.com/advertiser/AR00565607318406823937/creative/CR01545474488894750721",
+          "last": "2025-10-05",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "K's Smoke and Vape Shop LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US smoke and vape shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "DE",
+        "EEA",
+        "FR",
+        "IT",
+        "NL",
+        "PL"
+      ],
+      "last_shown": "2026-03-21",
+      "samples": [
+        {
+          "id": "CR06025144645846040577",
+          "url": "https://adstransparency.google.com/advertiser/AR06024321111636836353/creative/CR06025144645846040577",
+          "last": "2026-03-21",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "LAVAPER S.A.S",
+      "category": "unknown",
+      "confidence": "quarantine",
+      "parent": null,
+      "reason": "model verification: Colombian company, unclear business",
+      "creatives": 1,
+      "hq": "CO",
+      "regions": [
+        "DE",
+        "EEA",
+        "ES",
+        "IT"
+      ],
+      "last_shown": "2026-02-18",
+      "samples": [
+        {
+          "id": "CR14837900904211939329",
+          "url": "https://adstransparency.google.com/advertiser/AR10908905228883460097/creative/CR14837900904211939329",
+          "last": "2026-02-18",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "MEDI VAPE AND SMOKE SHOP LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape and smoke shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "HU"
+      ],
+      "last_shown": "2026-06-24",
+      "samples": [
+        {
+          "id": "CR15857331870321606657",
+          "url": "https://adstransparency.google.com/advertiser/AR09070167332180983809/creative/CR15857331870321606657",
+          "last": "2026-06-24",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Ohio Vape Hub LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Ohio retail vape store",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "DE",
+        "EEA"
+      ],
+      "last_shown": "2026-07-15",
+      "samples": [
+        {
+          "id": "CR03266913143661527041",
+          "url": "https://adstransparency.google.com/advertiser/AR18245554138978975745/creative/CR03266913143661527041",
+          "last": "2026-07-15",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "PARADISE VAPES LIMITED",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK vape retailer",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "EEA",
+        "HU"
+      ],
+      "last_shown": "2026-04-28",
+      "samples": [
+        {
+          "id": "CR00075993167060533249",
+          "url": "https://adstransparency.google.com/advertiser/AR16037398820883005441/creative/CR00075993167060533249",
+          "last": "2026-04-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "PHONE CARE AND VAPE (EDGWARE) LTD",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Phone repair and vape shop",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "DE",
+        "EEA"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR08277456900669308929",
+          "url": "https://adstransparency.google.com/advertiser/AR11398892965075091457/creative/CR08277456900669308929",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "POTOMAC VAPE INC.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-22",
+      "samples": [
+        {
+          "id": "CR02951103648630833153",
+          "url": "https://adstransparency.google.com/advertiser/AR03701342900899020801/creative/CR02951103648630833153",
+          "last": "2026-03-22",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Reykjav\u00edk Snusverksmi\u00f0ja ehf",
+      "category": "snus_oral_tobacco",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Icelandic snus manufacturer",
+      "creatives": 1,
+      "hq": "IS",
+      "regions": [
+        "EEA",
+        "IS"
+      ],
+      "last_shown": "2026-07-30",
+      "samples": [
+        {
+          "id": "CR12249773016304582657",
+          "url": "https://adstransparency.google.com/advertiser/AR06504960550861012993/creative/CR12249773016304582657",
+          "last": "2026-07-30",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SIMPLE VAPE SUPPLY INC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape product supplier",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "PL"
+      ],
+      "last_shown": "2026-06-01",
+      "samples": [
+        {
+          "id": "CR16339250840432803841",
+          "url": "https://adstransparency.google.com/advertiser/AR08919531215518695425/creative/CR16339250840432803841",
+          "last": "2026-06-01",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SMOKES & VAPES",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Tobacco and vape retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "IT"
+      ],
+      "last_shown": "2025-12-01",
+      "samples": [
+        {
+          "id": "CR15536714047733891073",
+          "url": "https://adstransparency.google.com/advertiser/AR02674418118800965633/creative/CR15536714047733891073",
+          "last": "2025-12-01",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "ST MARYS TOBACCO & VAPE 2 LLC",
+      "category": "mixed_nicotine",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Tobacco and vape shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "CZ",
+        "DE",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-18",
+      "samples": [
+        {
+          "id": "CR01904197055174148097",
+          "url": "https://adstransparency.google.com/advertiser/AR02538253112758501377/creative/CR01904197055174148097",
+          "last": "2026-03-18",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "SV GRAN VIA SHISHAS Y VAPERS GRAN VIA",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Shisha and vape shop",
+      "creatives": 1,
+      "hq": "ES",
+      "regions": [
+        "EEA",
+        "ES"
+      ],
+      "last_shown": "2026-06-17",
+      "samples": [
+        {
+          "id": "CR15739694846387945473",
+          "url": "https://adstransparency.google.com/advertiser/AR02281280615233880065/creative/CR15739694846387945473",
+          "last": "2026-06-17",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Snusljus SL",
+      "category": "snus_oral_tobacco",
+      "confidence": "verified",
+      "parent": null,
+      "reason": "known nicotine retailer (matched 'snusljus')",
+      "creatives": 1,
+      "hq": "ES",
+      "regions": [
+        "AT",
+        "BE",
+        "DE",
+        "EE",
+        "EEA",
+        "ES",
+        "FR",
+        "IT",
+        "LT",
+        "LV",
+        "NL",
+        "PT"
+      ],
+      "last_shown": "2025-08-17",
+      "samples": [
+        {
+          "id": "CR01264433303880990721",
+          "url": "https://adstransparency.google.com/advertiser/AR09246212621395296257/creative/CR01264433303880990721",
+          "last": "2025-08-17",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Streamline Vape Co LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape products company",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "EEA",
+        "ES"
+      ],
+      "last_shown": "2026-01-10",
+      "samples": [
+        {
+          "id": "CR01753684195483320321",
+          "url": "https://adstransparency.google.com/advertiser/AR18365943558344540161/creative/CR01753684195483320321",
+          "last": "2026-01-10",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VAPE JUNCTION 2024 LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape retail shop",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-25",
+      "samples": [
+        {
+          "id": "CR10423912436577861633",
+          "url": "https://adstransparency.google.com/advertiser/AR15412355597550485505/creative/CR10423912436577861633",
+          "last": "2026-03-25",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VAPER LIMITED",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK vape products company",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "CY",
+        "EEA",
+        "ES",
+        "FR",
+        "HR",
+        "IE",
+        "IT",
+        "PT",
+        "RO"
+      ],
+      "last_shown": "2025-10-08",
+      "samples": [
+        {
+          "id": "CR07734551499488886785",
+          "url": "https://adstransparency.google.com/advertiser/AR07535625107012583425/creative/CR07734551499488886785",
+          "last": "2025-10-08",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VAPER OUTLET, LLC (THE)",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape products outlet retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "EEA"
+      ],
+      "last_shown": "2026-05-07",
+      "samples": [
+        {
+          "id": "CR05630244599369826305",
+          "url": "https://adstransparency.google.com/advertiser/AR04297487110362890241/creative/CR05630244599369826305",
+          "last": "2026-05-07",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "VAPETECH RETAIL LTD",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape technology retail store",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "EEA",
+        "ES"
+      ],
+      "last_shown": "2025-10-13",
+      "samples": [
+        {
+          "id": "CR05330493239734566913",
+          "url": "https://adstransparency.google.com/advertiser/AR01639708682709106689/creative/CR05330493239734566913",
+          "last": "2025-10-13",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Valkyria Nicotine AB",
+      "category": "nicotine_pouch",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Swedish nicotine products company",
+      "creatives": 1,
+      "hq": "SE",
+      "regions": [
+        "EEA",
+        "SE"
+      ],
+      "last_shown": "2026-04-12",
+      "samples": [
+        {
+          "id": "CR11495856533296644097",
+          "url": "https://adstransparency.google.com/advertiser/AR17499116903430356993/creative/CR11495856533296644097",
+          "last": "2026-04-12",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vape Carts",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Vape cartridge products seller",
+      "creatives": 1,
+      "hq": "DE",
+      "regions": [
+        "CZ",
+        "DK",
+        "EEA",
+        "ES",
+        "FR",
+        "GR",
+        "HU",
+        "IT",
+        "PL",
+        "PT",
+        "RO",
+        "SE"
+      ],
+      "last_shown": "2025-11-01",
+      "samples": [
+        {
+          "id": "CR07327790059011178497",
+          "url": "https://adstransparency.google.com/advertiser/AR15741677033924591617/creative/CR07327790059011178497",
+          "last": "2025-11-01",
+          "verified": "UNVERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vape In Slovakia, s. r. o.",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: Slovak vape products retailer",
+      "creatives": 1,
+      "hq": "SK",
+      "regions": [
+        "EEA",
+        "RO"
+      ],
+      "last_shown": "2026-02-18",
+      "samples": [
+        {
+          "id": "CR11541176916534886401",
+          "url": "https://adstransparency.google.com/advertiser/AR17073813874387451905/creative/CR11541176916534886401",
+          "last": "2026-02-18",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vape Patrol Ltd",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK vape products retailer",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "BG",
+        "CY",
+        "EEA",
+        "ES",
+        "FR",
+        "GR",
+        "HU",
+        "IE",
+        "IT",
+        "LT",
+        "PL",
+        "PT",
+        "RO"
+      ],
+      "last_shown": "2026-07-26",
+      "samples": [
+        {
+          "id": "CR07122073151441207297",
+          "url": "https://adstransparency.google.com/advertiser/AR15991259782518407169/creative/CR07122073151441207297",
+          "last": "2026-07-26",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vape and Tech Guy SA (PTY) Ltd T/A Tech Guy SA",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: South African vape and tech seller",
+      "creatives": 1,
+      "hq": "ZA",
+      "regions": [
+        "DE",
+        "EEA"
+      ],
+      "last_shown": "2026-07-19",
+      "samples": [
+        {
+          "id": "CR05668202489539723265",
+          "url": "https://adstransparency.google.com/advertiser/AR06922736460739117057/creative/CR05668202489539723265",
+          "last": "2026-07-19",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vape'Ger GmbH",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: German vape products company",
+      "creatives": 1,
+      "hq": "DE",
+      "regions": [
+        "DE",
+        "EEA"
+      ],
+      "last_shown": "2026-07-24",
+      "samples": [
+        {
+          "id": "CR03689698454285582337",
+          "url": "https://adstransparency.google.com/advertiser/AR09188036146909675521/creative/CR03689698454285582337",
+          "last": "2026-07-24",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Vapers",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: French vaping products business",
+      "creatives": 1,
+      "hq": "FR",
+      "regions": [
+        "BE",
+        "EEA",
+        "FR",
+        "GF",
+        "GP",
+        "MF",
+        "MQ",
+        "NL",
+        "PT",
+        "RE",
+        "YT"
+      ],
+      "last_shown": "2026-07-21",
+      "samples": [
+        {
+          "id": "CR18203796130465054721",
+          "url": "https://adstransparency.google.com/advertiser/AR01008876418987196417/creative/CR18203796130465054721",
+          "last": "2026-07-21",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "WENDERLAND VAPE & TOBACCO LLC",
+      "category": "mixed_nicotine",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape and tobacco retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "EEA",
+        "FR",
+        "IT",
+        "NL",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-03-28",
+      "samples": [
+        {
+          "id": "CR08189082485355708417",
+          "url": "https://adstransparency.google.com/advertiser/AR05520955892347961345/creative/CR08189082485355708417",
+          "last": "2026-03-28",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "WORLD OF SMOKE & VAPE LLC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US smoke and vape retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "AT",
+        "BE",
+        "CZ",
+        "DE",
+        "DK",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "NO",
+        "PL",
+        "SE"
+      ],
+      "last_shown": "2026-04-09",
+      "samples": [
+        {
+          "id": "CR16476193982880153601",
+          "url": "https://adstransparency.google.com/advertiser/AR16891823259513782273/creative/CR16476193982880153601",
+          "last": "2026-04-09",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "Youshah perfume & Vapes Ltd",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: UK perfume and vapes seller",
+      "creatives": 1,
+      "hq": "GB",
+      "regions": [
+        "BG",
+        "CY",
+        "EEA",
+        "ES",
+        "IE",
+        "IT",
+        "PL",
+        "PT",
+        "RO",
+        "TR"
+      ],
+      "last_shown": "2025-10-24",
+      "samples": [
+        {
+          "id": "CR02653999912995258369",
+          "url": "https://adstransparency.google.com/advertiser/AR13540522718679531521/creative/CR02653999912995258369",
+          "last": "2025-10-24",
+          "verified": "VERIFIED"
+        }
+      ]
+    },
+    {
+      "name": "ZAZA VAPE SHOP 5 INC",
+      "category": "vape_ends",
+      "confidence": "likely",
+      "parent": null,
+      "reason": "model verification: US vape shop retailer",
+      "creatives": 1,
+      "hq": "US",
+      "regions": [
+        "BE",
+        "CZ",
+        "DE",
+        "EEA",
+        "FI",
+        "FR",
+        "IT",
+        "NL",
+        "PL"
+      ],
+      "last_shown": "2026-04-06",
+      "samples": [
+        {
+          "id": "CR11127296962901049345",
+          "url": "https://adstransparency.google.com/advertiser/AR17048237996974800897/creative/CR11127296962901049345",
+          "last": "2026-04-06",
+          "verified": "VERIFIED"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "name": "NOVAPERA PAZARLAMA VE DIS TICARET ANONIM SIRKETI",
+      "reason": "Apparel/cosmetics (TR).",
+      "creatives": 66
+    },
+    {
+      "name": "Innovapet GmbH",
+      "reason": "Pet supplies (DE). Substring 'vape' in 'innoVAPEt'.",
+      "creatives": 46
+    },
+    {
+      "name": "SAS CARVAPEUR974",
+      "reason": "Car steam-cleaning, Reunion. 'vapeur' = steam.",
+      "creatives": 41
+    },
+    {
+      "name": "Vapeur 2000",
+      "reason": "Steam cleaning (FR).",
+      "creatives": 41
+    },
+    {
+      "name": "Kjells Vapen AB",
+      "reason": "Firearms retailer (SE). 'vapen' = weapons.",
+      "creatives": 37
+    },
+    {
+      "name": "Vapenprodukter Sverige AB",
+      "reason": "Firearms/weapons products (SE).",
+      "creatives": 26
+    },
+    {
+      "name": "NovaPeak e-commerce",
+      "reason": "Home and garden (NL).",
+      "creatives": 25
+    },
+    {
+      "name": "AkvaPet24, s.r.o.",
+      "reason": "Pet and aquarium supplies (SK).",
+      "creatives": 21
+    },
+    {
+      "name": "Relevaperdite.com Srl",
+      "reason": "Leak detection services (IT).",
+      "creatives": 11
+    },
+    {
+      "name": "Vapeur auto net",
+      "reason": "Car steam-cleaning (FR).",
+      "creatives": 11
+    },
+    {
+      "name": "Novapetal NYC LLC",
+      "reason": "Gifts and florals (US).",
+      "creatives": 8
+    },
+    {
+      "name": "Advelo Marketing Solutions O\u00dc",
+      "reason": "Marketing agency (EE). Matched 'velo marketing'.",
+      "creatives": 6
+    },
+    {
+      "name": "Netvapeur",
+      "reason": "matches false-friend pattern /vapeur/ (e.g. Swedish 'vapen'=weapons, French 'vapeur'=steam); needs manual confirmation before exclusion is final",
+      "creatives": 6
+    },
+    {
+      "name": "JP Vapen AB",
+      "reason": "Firearms retailer (SE).",
+      "creatives": 5
+    },
+    {
+      "name": "YUVAPEN PVC KAPI PENCERE ISI S\u0130STEMLER\u0130 \u0130N\u015e. TAAH. T\u0130CARET SANAY\u0130 L\u0130M\u0130TED \u015e\u0130RKET\u0130",
+      "reason": "model verification: Turkish PVC doors and windows",
+      "creatives": 5
+    },
+    {
+      "name": "CITEV COMPAGNIE INTERNATIONALE DES TRAINS EXPRESS A VAPEUR",
+      "reason": "matches false-friend pattern /vapeur/ (e.g. Swedish 'vapen'=weapons, French 'vapeur'=steam); needs manual confirmation before exclusion is final",
+      "creatives": 4
+    },
+    {
+      "name": "SALVAPE PRODUTOS ORTOPEDICOS LTDA",
+      "reason": "model verification: Brazilian orthopedic products maker",
+      "creatives": 1
+    },
+    {
+      "name": "SALVAPET EMERGENCIAS VETERINARIAS EIRELI",
+      "reason": "model verification: Brazilian veterinary emergency service",
+      "creatives": 1
+    },
+    {
+      "name": "UNITED VAPEUR OF DIJON (UVD)",
+      "reason": "matches false-friend pattern /vapeur/ (e.g. Swedish 'vapen'=weapons, French 'vapeur'=steam); needs manual confirmation before exclusion is final",
+      "creatives": 1
+    },
+    {
+      "name": "VAPEURS DIM SUM",
+      "reason": "matches false-friend pattern /vapeur/ (e.g. Swedish 'vapen'=weapons, French 'vapeur'=steam); needs manual confirmation before exclusion is final",
+      "creatives": 1
+    },
+    {
+      "name": "Vapeur Clean",
+      "reason": "matches false-friend pattern /vapeur/ (e.g. Swedish 'vapen'=weapons, French 'vapeur'=steam); needs manual confirmation before exclusion is final",
+      "creatives": 1
+    },
+    {
+      "name": "Vapeur Noire",
+      "reason": "matches false-friend pattern /vapeur/ (e.g. Swedish 'vapen'=weapons, French 'vapeur'=steam); needs manual confirmation before exclusion is final",
+      "creatives": 1
+    }
+  ],
+  "generated": "2026-07-31"
+}
