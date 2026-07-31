@@ -257,6 +257,7 @@ def build(data: dict) -> str:
     total_creatives = sum(a["creatives"] for a in adv)
     verified = [a for a in adv if a["confidence"] == "verified"]
     total_imp = sum(a["impressions_floor"] for a in adv)
+    n_corpus = total_creatives
     big4 = [a for a in adv if a["parent"]]
     big4_creatives = sum(a["creatives"] for a in big4)
     excluded_creatives = sum(e["creatives"] for e in data["excluded"])
@@ -439,6 +440,34 @@ corporate entity or was manually confirmed.
 <span class="tag likely">likely</span> means a name signal was corroborated by a
 secondary check but the identification has not been confirmed by hand. Only
 verified rows should be used for any filing.</p>
+
+<h2>Google's removal record</h2>
+
+<p>Google publishes a second table alongside the live archive:
+<code>removed_creative_stats</code>, about 11 million creatives it took down,
+each with a removal reason, a violation category, and a flag for whether
+detection was automated.</p>
+
+<p><strong>Its taxonomy contains no tobacco category.</strong> Alcohol is there,
+with 63,627 removals. So are Gambling and games (337,530), Healthcare and
+medicines, Adult-oriented content, Financial products, Dating, Political
+content. Tobacco appears nowhere — even though Google's policy treats tobacco
+more strictly than alcohol: alcohol advertising is <em>restricted</em> and
+permitted in approved locations, while tobacco advertising is prohibited
+outright with no country exceptions.</p>
+
+<p>None of the {n_corpus:,} creatives in this corpus appear in that removed
+table. They are in the live archive instead, which is to say every one of them
+ran without being taken down.</p>
+
+<div class="note">
+<p><strong>Read that carefully.</strong> The corpus is drawn from the live
+archive, so its absence from the removed table is partly definitional — a
+currently-running ad is by construction not a removed one. The claim worth
+making is narrower and still stands: these specific ads ran unimpeded, and there
+is no published tobacco removal metric anyone can hold Google to. The absence of
+a tobacco category in a taxonomy that names alcohol is the checkable part.</p>
+</div>
 
 <h2>Does reporting these ads work?</h2>
 <p>Nobody has measured it. Advocacy groups file platform complaints about
