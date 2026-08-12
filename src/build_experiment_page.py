@@ -200,12 +200,26 @@ dropped before any report was filed.</p>
 <p class="pending">Result not yet known. This page updates as observations
 accumulate.</p>
 
+<p>At the second reading, twelve days after baseline, no creative in either arm
+had been removed by Google. One creative in each arm was withdrawn by its
+advertiser — which is the confound the control arm exists to absorb. That
+symmetry is not yet a finding, because most of the reported arm has not in fact
+been reported yet.</p>
+
+<h2>Correction</h2>
+<p>An earlier version of this page said Google's reporting form throttles after
+a couple of submissions per session, and that filing was being paced around it.
+That was wrong. The form was failing because the browser tab driving it had
+stopped being the foreground tab, so the page was not receiving the input
+events. Nothing on Google's side was rate-limiting anything. The claim is
+withdrawn, and it is left here rather than deleted because a public accusation
+that turns out to be a bug in your own tooling is worth showing.</p>
+
 <h2>Limits worth stating now</h2>
 <p>The sample is small, and it is drawn from one platform in one region, so it
-measures Google's EEA behaviour and nothing broader. Filing is paced because the
-reporting form throttles after a couple of submissions per session, which means
-the reported arm is filed over days rather than at one instant — reporting dates
-are recorded per creative so that exposure time can be accounted for.</p>
+measures Google's EEA behaviour and nothing broader. The reported arm is filed
+over days rather than at one instant, so reporting dates are recorded per
+creative and exposure time is accounted for per creative rather than per arm.</p>
 
 <p>A null result is a real result here. If reported ads come down at the same
 rate as controls, that is worth knowing, and it will be published exactly as
