@@ -444,17 +444,28 @@ verified rows should be used for any filing.</p>
 <h2>Google's removal record</h2>
 
 <p>Google publishes a second table alongside the live archive:
-<code>removed_creative_stats</code>, about 11 million creatives it took down,
-each with a removal reason, a violation category, and a flag for whether
-detection was automated.</p>
+<code>removed_creative_stats</code>, every creative it has taken down, each with
+a removal reason, a violation category, and a flag for whether detection was
+automated. Grouping the whole table by reason gives
+<strong>14,967,056 removals across 60 distinct removal reasons.</strong></p>
 
-<p><strong>Its taxonomy contains no tobacco category.</strong> Alcohol is there,
-with 63,627 removals. So are Gambling and games (337,530), Healthcare and
-medicines, Adult-oriented content, Financial products, Dating, Political
-content. Tobacco appears nowhere — even though Google's policy treats tobacco
-more strictly than alcohol: alcohol advertising is <em>restricted</em> and
-permitted in approved locations, while tobacco advertising is prohibited
-outright with no country exceptions.</p>
+<p><strong>Not one of those 60 reasons mentions tobacco.</strong> Nor nicotine,
+vaping, cigarettes, snus or pouches — the strings do not occur. Meanwhile the
+taxonomy is granular enough to name alcohol <em>twice</em>, as "Alcohol" (63,944)
+and "Alcoholic beverages" (35,379), 99,323 between them. Gambling gets 339,834
+across two reasons. Healthcare, Adult-oriented content, Dating, Political
+content, Financial products, Copyrights, Trademarks, Prediction Markets and
+Sexual health and wellness all get their own line.</p>
+
+<p>The sharpest version of it is one row. <strong>"Cannabis" is a named removal
+reason with exactly <em>one</em> removal in it.</strong> So the taxonomy does
+cover prohibited substances, and a category earns a name at a volume of one.
+Tobacco does not have one at any volume.</p>
+
+<p>That inverts Google's own policy hierarchy. Alcohol advertising is
+<em>restricted</em> — permitted in approved locations with certification.
+Tobacco advertising is <em>prohibited</em> outright, no country exceptions. The
+more strictly banned product is the one with no reporting line.</p>
 
 <p>None of the {n_corpus:,} creatives in this corpus appear in that removed
 table. They are in the live archive instead, which is to say every one of them
@@ -467,7 +478,22 @@ currently-running ad is by construction not a removed one. The claim worth
 making is narrower and still stands: these specific ads ran unimpeded, and there
 is no published tobacco removal metric anyone can hold Google to. The absence of
 a tobacco category in a taxonomy that names alcohol is the checkable part.</p>
+
+<p>Two more honest caveats. Tobacco takedowns may well be happening and being
+counted under an unnamed catch-all — "Other restricted businesses" holds
+323,048, and "Dangerous products" another 269,934 across two reasons. Nothing
+here shows Google removes no tobacco ads. What it shows is that the number is
+not separable by anyone outside Google, which is precisely what a transparency
+obligation is supposed to prevent. And these are removal reasons as published;
+if Google renames or merges one, these counts move.</p>
 </div>
+
+<p>Reproduce the whole finding with one query:</p>
+
+<pre><code>SELECT d.removal_reason, d.violation_category, COUNT(*) AS n
+FROM `bigquery-public-data.google_ads_transparency_center.removed_creative_stats`,
+UNNEST(disapproval) AS d
+GROUP BY 1,2 ORDER BY n DESC</code></pre>
 
 <h2>Does reporting these ads work?</h2>
 <p>Nobody has measured it. Advocacy groups file platform complaints about
