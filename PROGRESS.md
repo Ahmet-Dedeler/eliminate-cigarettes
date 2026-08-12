@@ -53,10 +53,44 @@ Path: "It violates Google policies" -> "It promotes a restricted product or
 service (Alcohol, tobacco, ...)" -> paste creative URL -> Submit.
 Confirmation: "Your report has been submitted."
 
-**Filed: 3 of 30.**
+**Filed: 9 of 30** — 7 of them verified against email receipts, 2 not.
+
+### Verify filings against the email receipt, not the page
+
+Google sends a "Your report to Google &lt;case-id&gt;" email per accepted report.
+That inbox is the ground truth; the page is not. Search it with:
+
+```
+subject:"report to Google" in:anywhere
+```
+
+Reconciliation on 2026-08-11: 8 submissions attempted, 7 receipts, 1 explicit
+failure. Exact match, so the receipt is reliable as a per-report audit trail.
+
+Three distinct post-submit page states, and only one of them is honest:
+
+| Page shows | Meaning |
+|---|---|
+| "Your report has been submitted" | accepted |
+| form silently resets, no message | **also accepted** — verified against receipts |
+| "There were problems sending your form" | rejected, must retry |
+
+The silent reset is the trap: it looks like a failure and is a success.
+
+**The 2 reports logged on 2026-07-31 have no receipt.** Searching that inbox
+`in:anywhere` returns 7 emails, all from 2026-08-11. Either they never went
+through despite the page saying so, or they were filed under a different
+account than the one `authuser=3` resolves to now. Treat both as unconfirmed
+and re-file:
 - CR12030441792550731777 Skruf Snus AB
 - CR02749812069204230145 SNUS VIKINGS LTD
-- CR02812101395782565889 SNUSHUS s.r.o.
+
+This matters for the result: the "reported on Jul 31, still serving Aug 10"
+observation on the Skruf creative rests on a filing that cannot be evidenced.
+
+Verified filed 2026-08-11 (7): CR02812101395782565889, CR16691982691838459905,
+CR05976588219498627073, CR01661946812187017217, CR15958555659553734657,
+CR03278946198915907585, CR08715792466806046721.
 
 ### The "throttle" was a misdiagnosis
 
@@ -78,25 +112,37 @@ no evidence of any rate limit, and no reason to pace submissions over days.
 
 ### Working method
 
-1. Foreground the tab. `osascript -e 'tell application "Google Chrome" to set
-   active tab index of window 1 to N'` — the MCP layer reporting a tab as
-   "selected" in its group does **not** mean it is the window's active tab.
-2. Click by **screen coordinate**, not by element ref. Refs go stale across the
-   re-render that follows a failed submit, and a stale ref clicks whatever now
-   sits at those coordinates — during this session one landed on "It's harmful,
-   violent, or dangerous" instead of the restricted-products option. A
+The tab does **not** need to be visible. It can sit hidden in its own
+background Chrome window while Ahmet works — input events are delivered to a
+hidden tab fine. What a hidden tab does do is throttle rendering, and every
+hard part below follows from that.
+
+1. Run it in a dedicated Chrome window so nothing competes for the tab:
+   `osascript -e 'tell application "Google Chrome" to make new window'`.
+   Its viewport is frozen at whatever size it had when last visible (669px
+   here) and will **not** respond to resizing while hidden.
+2. Click by **screen coordinate**, not by element ref. Refs carry coordinates
+   cached from an earlier read, and a stale ref clicks whatever now occupies
+   that spot — one landed on "It's harmful, violent, or dangerous". A
    wrong-category report is worse than no report.
-3. Verify before submitting, from the DOM rather than from the click succeeding:
+3. **The page anchor-scrolls itself when the sub-form expands, and on a
+   throttled tab that lands mid-click.** Once expanded it rests at
+   `scrollY = 432` with the restricted-products radio at `(122, 500)`, but
+   whether it has finished moving when the click lands is a coin flip. A click
+   measured at the pre-shift position selected *sexual content* instead.
+4. So don't trust the click — **correct it with the keyboard.** Arrow keys move
+   selection within a radiogroup and are position-independent. Click anywhere
+   in the group, read back which index is selected, then arrow to index 3:
 
 ```js
-[...document.querySelectorAll('input[name=violating_policy]')]
-  .filter(r => r.checked).map(r => r.value)   // want ['improper_illegal_promotion']
+const rs=[...document.querySelectorAll('input[name=violating_policy]')];
+rs.findIndex(r=>r.checked)   // 0 scam 1 violent 2 sexual 3 restricted 4 other
 ```
 
-4. Confirm after submitting on the *visible* text "Your report has been
-   submitted". That string is present in the DOM as a hidden node before any
-   submission, so `get_page_text` (visibility-filtered) is the honest check and
-   a DOM query is not.
+5. Verify index 3 **and** the link field, then submit. Never submit on the
+   assumption a click worked.
+6. Page zoom shortcuts (`cmd+minus`) are blocked by the extension, so shrinking
+   the content to avoid scrolling is not an option.
 
 Remaining 27 creative URLs are queued in the DB (`experiment` table,
 `arm='reported' AND reported_at IS NULL`).
