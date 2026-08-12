@@ -86,10 +86,19 @@ regulator are separate steps, and submission is a human decision.
 
 Researched but not acted on:
 
-- **UK ASA** — the strongest single lever. A single complaint can trigger
-  action, and the precedent exists: ASH, STOP and CTFK jointly got BAT banned
-  from Instagram e-cigarette promotion in 2019. Note ASA already runs its own
-  Active Ad Monitoring at 60M+ ads/year, so the UK is partly covered.
+- **UK ASA** — ruled out, and it is worth saying why. The ASA looked like the
+  strongest single lever: one complaint can trigger action, and ASH, STOP and
+  CTFK jointly got BAT banned from Instagram e-cigarette promotion in 2019. But
+  the ASA's remit is advertising addressed to UK consumers, and **this corpus
+  contains zero creatives served to GB.** Not few — none.
+
+  The trap was that UK-*registered* advertisers are all over the corpus: Velo
+  Marketing Limited (476 creatives), SNUS VIKINGS LTD (39), even Imperial
+  Tobacco Holdings (2007) Limited. Every one of them serves into EEA states and
+  Turkey, never into the UK. Advertiser HQ is not ad reach, and reading the
+  first as the second would have produced a complaint about ads that never
+  appeared in the country. Google's DSA archive covers the EEA because the DSA
+  is EU law; post-Brexit the UK simply is not in it.
 - **FDA CTP** — Form 3779, open to anyone, but the entire national public
   complaint channel handles ~6,000 reports/year and follow-through is weak
   (43% of warned retailers still sold the flagged products).

@@ -219,6 +219,41 @@ The two that *were* reported, 12 days on:
       actually answer the question
 - [ ] TikTok at scale (needs proxy rotation)
 
+## Turkey — an unworked jurisdiction sitting in the data
+
+Checking whether a UK ASA complaint was possible turned up the answer no (zero
+GB creatives, see README) and something better on the way past.
+
+**Turkey is the only non-EEA region in the archive**, and BAT is advertising
+into it. `Velo Marketing Limited` — BAT's nicotine pouch brand, GB-registered —
+has **72 creatives reaching TR, 68 of them Turkey-only**, 225,000 impressions
+floor, last shown 2026-07-28. Smaller volumes from Vapeks d.o.o. (4), Global
+Snus UAB (2), British American Tobacco Switzerland SA (1), Snus Fusion (1),
+Snusbolaget Norden AB (1), Athletic Nicotine LLC (1).
+
+Why this is worth working: Turkey bans tobacco advertising comprehensively
+under Law No. 4207, and separately banned the import and sale of electronic
+cigarettes. Unlike the EEA, this is a jurisdiction where the conduct is
+plausibly unlawful rather than merely against Google's policy. And unlike
+Australia's TGA or India's MoHFW — both ruled out because the archive is
+EEA-only — the ads are actually *here*.
+
+**Do not file anything on this yet.** Two things must be checked first, in this
+order, because getting either wrong is the failure mode that kills the project:
+
+1. **Are nicotine pouches covered by Turkish law?** Law 4207 covers tobacco
+   products. Velo pouches are tobacco-free nicotine. This is the exact trap
+   that killed the Austria/BAT cohort — Google's policy turned out not to cover
+   pouches either. Verify against TAPDK/TÜTÜN authority rules on nicotine
+   products before asserting anything.
+2. **Verify the creatives are actually pouch ads**, by opening them, not by
+   inferring from the advertiser name.
+
+Two false positives already sit in this Turkish slice and are correctly
+excluded on the public site: `NOVAPERA PAZARLAMA` (apparel/cosmetics) and
+`YUVAPEN PVC KAPI PENCERE` — a PVC door and window maker whose name contains
+the substring "vape". Same family of error as *Philip Morris & Son*.
+
 ## Outreach status
 
 Four emails sent 2026-07-31. As of 2026-08-11: **no replies, no bounces.**
