@@ -1,0 +1,61 @@
+removal_reason,violation_category,n
+Account suspension,PROHIBITED_PRACTICES,5563030
+Misrepresentation,PROHIBITED_PRACTICES,1783595
+Editorial & professional requirements,EDITORIAL_AND_TECHNICAL,1781879
+Ad format requirements,EDITORIAL_AND_TECHNICAL,1047377
+Abusing the ad network,PROHIBITED_PRACTICES,957918
+Gambling and games,RESTRICTED_CONTENT_AND_FEATURES,333502
+Other restricted businesses,RESTRICTED_CONTENT_AND_FEATURES,323048
+Personalized advertising,RESTRICTED_CONTENT_AND_FEATURES,286301
+Business information requirements,EDITORIAL_AND_TECHNICAL,262003
+Financial products and services,RESTRICTED_CONTENT_AND_FEATURES,225213
+Editorial,EDITORIAL_AND_TECHNICAL,216209
+Healthcare and medicines,RESTRICTED_CONTENT_AND_FEATURES,180644
+Issues in Merchant Center,PROHIBITED_PRACTICES,174743
+Dangerous products,PROHIBITED_CONTENT,168427
+Image asset format requirements,EDITORIAL_AND_TECHNICAL,155068
+Political content,RESTRICTED_CONTENT_AND_FEATURES,126089
+Healthcare & medicines,RESTRICTED_CONTENT_AND_FEATURES,120491
+Enabling dishonest behavior,PROHIBITED_CONTENT,120438
+Ad requirements for YouTube,EDITORIAL_AND_TECHNICAL,112458
+Technical requirements,EDITORIAL_AND_TECHNICAL,108365
+Dangerous products or services,PROHIBITED_CONTENT,101507
+Inappropriate content,PROHIBITED_CONTENT,96086
+Adult-oriented content,RESTRICTED_CONTENT_AND_FEATURES,91339
+Copyrights,RESTRICTED_CONTENT_AND_FEATURES,84670
+Unsupported Shopping content,PROHIBITED_CONTENT,77615
+Destination requirements,EDITORIAL_AND_TECHNICAL,75279
+Alcohol,RESTRICTED_CONTENT_AND_FEATURES,63944
+Local legal requirements and safety standards,RESTRICTED_CONTENT_AND_FEATURES,63475
+Sexual content,RESTRICTED_CONTENT_AND_FEATURES,56557
+Dating and Companionship,RESTRICTED_CONTENT_AND_FEATURES,44953
+Alcoholic beverages,RESTRICTED_CONTENT_AND_FEATURES,35379
+Products that enable dishonest behavior,PROHIBITED_CONTENT,24457
+Trademarks,RESTRICTED_CONTENT_AND_FEATURES,23190
+Counterfeit products,PROHIBITED_CONTENT,16241
+Price asset requirements,EDITORIAL_AND_TECHNICAL,14146
+Legal requirements,RESTRICTED_CONTENT_AND_FEATURES,9174
+Policy violation,RESTRICTED_CONTENT_AND_FEATURES,6670
+Gambling-related content,RESTRICTED_CONTENT_AND_FEATURES,6332
+Violation of Google Shopping policies,PROHIBITED_CONTENT,5433
+Copyrighted content,RESTRICTED_CONTENT_AND_FEATURES,4006
+Restricted ad formats and features,EDITORIAL_AND_TECHNICAL,3443
+Counterfeit goods,PROHIBITED_CONTENT,3034
+Local Services platform policies,EDITORIAL_AND_TECHNICAL,2171
+Dynamic search ad requirements,EDITORIAL_AND_TECHNICAL,1864
+Discovery ads format requirements,EDITORIAL_AND_TECHNICAL,1853
+Structured snippet requirements,EDITORIAL_AND_TECHNICAL,1504
+Data collection and use,PROHIBITED_PRACTICES,1199
+Masthead Political Ads Restrictions,EDITORIAL_AND_TECHNICAL,1100
+Call ad requirements,EDITORIAL_AND_TECHNICAL,915
+Prediction Markets,RESTRICTED_CONTENT_AND_FEATURES,801
+Video ad requirements,EDITORIAL_AND_TECHNICAL,625
+Access to opportunities,RESTRICTED_CONTENT_AND_FEATURES,591
+Requirements for third party ad serving,EDITORIAL_AND_TECHNICAL,543
+Image ad requirements,EDITORIAL_AND_TECHNICAL,77
+Sexual health and wellness,RESTRICTED_CONTENT_AND_FEATURES,73
+Location asset requirements,EDITORIAL_AND_TECHNICAL,7
+Masthead format requirements,EDITORIAL_AND_TECHNICAL,2
+Callout asset requirements,EDITORIAL_AND_TECHNICAL,1
+Violation of Google Ads policies,EDITORIAL_AND_TECHNICAL,1
+Cannabis,PROHIBITED_CONTENT,1

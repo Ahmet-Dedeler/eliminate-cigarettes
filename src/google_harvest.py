@@ -76,6 +76,13 @@ CREATE TABLE IF NOT EXISTS google_ads (
     n_regions         INTEGER,
     first_shown       TEXT,
     last_shown        TEXT,
+    impressions_floor INTEGER,
+    n_regions_top_bucket INTEGER,
+    target_demographic   TEXT,
+    target_geo           TEXT,
+    target_contextual    TEXT,
+    target_topics        TEXT,
+    target_customer_lists TEXT,
     harvested_at      TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_g_advertiser ON google_ads(advertiser);
@@ -103,7 +110,18 @@ SELECT
   ARRAY_TO_STRING(ARRAY(SELECT rs.region_code FROM UNNEST(region_stats) rs), ",") AS regions,
   ARRAY_LENGTH(region_stats) AS n_regions,
   (SELECT MIN(rs.first_shown) FROM UNNEST(region_stats) rs) AS first_shown,
-  (SELECT MAX(rs.last_shown)  FROM UNNEST(region_stats) rs) AS last_shown
+  (SELECT MAX(rs.last_shown)  FROM UNNEST(region_stats) rs) AS last_shown,
+  -- Google reports impressions as buckets. The upper bound is INT64_MAX when
+  -- the bucket is open-ended, so only the lower bound is meaningful: it gives
+  -- a defensible FLOOR on how many times the creative was shown.
+  (SELECT MAX(rs.times_shown_lower_bound) FROM UNNEST(region_stats) rs) AS impressions_floor,
+  (SELECT COUNTIF(rs.times_shown_upper_bound = 9223372036854775807)
+     FROM UNNEST(region_stats) rs) AS n_regions_top_bucket,
+  audience_selection_approach_info.demographic_info   AS target_demographic,
+  audience_selection_approach_info.geo_location       AS target_geo,
+  audience_selection_approach_info.contextual_signals AS target_contextual,
+  audience_selection_approach_info.topics_of_interest AS target_topics,
+  audience_selection_approach_info.customer_lists     AS target_customer_lists
 FROM `{TABLE}`
 WHERE ({likes})
   AND LOWER(TRIM(advertiser_disclosed_name)) NOT IN ({excludes})
@@ -137,7 +155,10 @@ def store(rows: list[dict]) -> int:
     cols = [
         "creative_id", "advertiser_id", "advertiser", "advertiser_legal",
         "advertiser_hq", "verification", "creative_url", "ad_format", "topic",
-        "regions", "n_regions", "first_shown", "last_shown", "harvested_at",
+        "regions", "n_regions", "first_shown", "last_shown",
+        "impressions_floor", "n_regions_top_bucket", "target_demographic",
+        "target_geo", "target_contextual", "target_topics",
+        "target_customer_lists", "harvested_at",
     ]
     conn.executemany(
         f"INSERT OR REPLACE INTO google_ads ({','.join(cols)}) "
