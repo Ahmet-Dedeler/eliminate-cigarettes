@@ -207,8 +207,10 @@ def classify(advertiser: str, topics: str = "") -> Verdict:
         return Verdict(advertiser, Category.UNKNOWN, Confidence.QUARANTINE, None,
                        "no category signal in advertiser name")
 
-    topic_set = {t.strip() for t in (topics or "").split(",")}
-    corroborated = bool(topic_set & CORROBORATING_TOPICS)
+    # Google topic names can themselves contain commas ("Food, Beverages &
+    # Tobacco"), so splitting the GROUP_CONCAT'd string on "," can never match
+    # them. Check for each known topic as a substring instead.
+    corroborated = any(t in (topics or "") for t in CORROBORATING_TOPICS)
     cat = hits[0] if len(hits) == 1 else Category.MIXED
 
     if corroborated:
